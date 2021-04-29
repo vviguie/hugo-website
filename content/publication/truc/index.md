@@ -13,7 +13,4 @@ image:
 date: 2021-04-29T21:20:58.774Z
 ---
 
-
-```markdown
 {{< youtube 7jNUCOayjEA >}}
-```
