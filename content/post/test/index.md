@@ -5,6 +5,10 @@ draft: false
 featured: false
 authors:
   - moi
+tags:
+  - truc
+categories:
+  - truc2
 image:
   filename: https://upload.wikimedia.org/wikipedia/commons/a/aa/Wikipedia-logo-v2-o50.svg
   focal_point: ""
