@@ -36,7 +36,7 @@ education:
   - course: MSc in Théoretical Physics
     institution: École Normale Supérieure de Lyon
     year: 2006
-  - course: "Agrégation" in Physics 
+  - course: Agrégation in Physics 
     institution: École Normale Supérieure de Lyon
     year: 2005
   - course: BSc in Physics
