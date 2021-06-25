@@ -18,14 +18,15 @@ bio: My research interests include adaptation to climate change, urban policies,
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Climate change adaptation economics : Evaluation of climate policies, Climate change impacts and vulnerabilities, natural disasters indirect economic impacts
+- Sustainable city development : Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies
+- Modelling and methodologies : Modelling of coupled human/natural/engineering systems, Urban structure dynamics (Land-use transport interaction models), future studies and long-term scenarios
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Environmental economics
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -70,8 +71,6 @@ email: "viguie[at]centre-cired.fr"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a researcher in environmental economics. I work on climate change impacts and urban policies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
