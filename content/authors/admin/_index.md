@@ -28,14 +28,20 @@ interests:
 education:
   courses:
   - course: PhD in Environmental economics
-    institution: Stanford University
+    institution: Université Paris-Est (École des Ponts)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MEng in Economics
+    institution: École des Ponts ParisTech
     year: 2008
+  - course: MSc in Théoretical Physics
+    institution: École Normale Supérieure de Lyon
+    year: 2006
+  - course: "Agrégation" in Physics 
+    institution: École Normale Supérieure de Lyon
+    year: 2005
+  - course: BSc in Physics
+    institution: École Normale Supérieure de Lyon
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
