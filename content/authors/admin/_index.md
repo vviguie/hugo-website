@@ -18,7 +18,10 @@ bio: My research interests include adaptation to climate change, urban policies,
 
 # Interests to show in About widget
 interests:
-- Climate change adaptation economics
+- Climate change adaptation economics \: Evaluation of climate policies, Climate change impacts and vulnerabilities, natural disasters indirect economic impacts
+- Sustainable city development \: Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies
+- Modelling and methodologies \: Modelling of coupled human/natural/engineering systems, Urban structure dynamics (Land-use transport interaction models), future studies and long-term scenarios
+
 
 
 # Education to show in About widget
