@@ -30,7 +30,7 @@ abstract: Some actions intended to adapt to climate change may do more harm than
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: With an interdisciplinary modeling platform, taking Paris as a case study, we provide a first quantified analysis of the efficiency of adaptation strategies (large scale urban greening, building insulation policy, and generalized behavioral changes in AC use) in reducing future potential AC need.
 
 tags: []
 
@@ -61,12 +61,4 @@ image:
 
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
