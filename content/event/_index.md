@@ -1,6 +1,5 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
+title: Publications Recent & Upcoming Talks
 
 # View.
 #   1 = List

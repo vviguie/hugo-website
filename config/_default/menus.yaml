@@ -7,12 +7,26 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name : "Publications"  # Title of the link.
+    identifier : publications
+    url : "articles/"  # Widget Page folder name.
+    weight : 50  # Position of the link in the navigation bar.
+  - name: "Articles"
+    parent: publications
+    url: 'articles/#articles'
+    weight: 51
+  - name: "Working papers"
+    parent: publications
+    url: 'articles/#working_papers'
+    weight: 52
+  - name: "Books"
+    parent: publications
+    url: 'articles/#books'
+    weight: 53
+  - name: "See all publications"
+    parent: publications
     url: '/publication/'
-    weight: 20
-  - name: Teaching
-    url: '/teaching/'
-    weight: 30
+    weight: 54
 
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,11 +1,11 @@
 ---
 title: "Urban Infrastructure Investment and Rent-Capture Potentials"
 date: 2014-01-01
-publishDate: 2021-06-25T11:47:39.405194Z
+publishDate: 2021-06-28T18:18:45.870066Z
 authors: ["V. Viguie", "S. Hallegatte"]
-publication_types: ["2"]
+publication_types: ["4"]
 abstract: ""
 featured: false
-publication: "*World Bank Policy Research Working Paper*"
+publication: ""
 ---
 
