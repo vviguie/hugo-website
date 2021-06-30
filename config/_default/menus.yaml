@@ -19,17 +19,23 @@ main:
     parent: publications
     url: 'articles/#working_papers'
     weight: 52
-  - name: "Books"
-    parent: publications
-    url: 'articles/#books'
-    weight: 53
+#  - name: "Books"
+#    parent: publications
+#    url: 'articles/#books'
+#    weight: 53
   - name: "See all publications"
     parent: publications
     url: '/publication/'
     weight: 54
-  - name: "Recent talks"
-    url: '/event/'
-    weight: 70
+#  - name: "Recent talks"
+#    url: '/event/'
+#    weight: 70
+#  - name: "Courses"
+#    url: '/courses/'
+#    weight: 80
+  - name: "Contact"
+    url: '#contact'
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
