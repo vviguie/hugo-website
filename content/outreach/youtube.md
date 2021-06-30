@@ -19,6 +19,9 @@ I participated several times to the "[train du climat](https://trainduclimat.fr/
 
 ## A few outreach videos / Quelques vidéos de conférences de vulgarisation 
 
+{{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}{{< icon name="youtube" pack="fab" >}}{{< /staticref >}} Several videos can be seen on my {{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}youtube playlist{{< /staticref >}}. 
+
+Here are a few other videos (*in French*):
 - À [l’académie des sciences](https://youtu.be/_5IqLAHfkDQ?t=7438)
 - Au [Collège de France](http://www.college-de-france.fr/site/en-anny-cazenave/seminar-2013-06-11-15h00.htm)
 - À [l’université de Rouen](https://webtv.univ-rouen.fr/permalink/v12517d51a65augmo49s/)
