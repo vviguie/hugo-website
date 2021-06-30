@@ -65,7 +65,7 @@ I am a researcher in climate change economics at [Ecole des Ponts ParisTech](htt
 
 My research and writing explore environmental urban policies, and especially adaptation strategies to reduce our vulnerability to climate change impacts in cities. I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues. 
 
-I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), and [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/).
+I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/) and [Agroparistech](http://www2.agroparistech.fr/Presentation-of-AgroParisTech.html), and like to [communicate about climate policies](/outreach/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Viguie.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
