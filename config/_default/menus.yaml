@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: "Contact"
+    url: '#contact'
+    weight: 20
   - name : "Publications"  # Title of the link.
     identifier : publications
     url : "articles/"  # Widget Page folder name.
@@ -33,9 +36,7 @@ main:
 #  - name: "Courses"
 #    url: '/courses/'
 #    weight: 80
-  - name: "Contact"
-    url: '#contact'
-    weight: 90
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
