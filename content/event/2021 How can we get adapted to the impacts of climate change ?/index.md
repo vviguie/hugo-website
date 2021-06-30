@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "How Can We Get Adapted to the Impacts of Climate Change ?"
+title: "UMR LOMA Seminar: How Can We Get Adapted to the Impacts of Climate Change ?"
 event: UMR LOMA Seminar
 event_url: https://www.loma.cnrs.fr/v-viguie-12-janvier-2021/
-location:
+location: On line
 address:
   street:
   city:
@@ -16,8 +16,8 @@ abstract: Climate change can have major impacts on the economy and the society, 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-01-29T15:56:23+02:00
-date_end: 2021-01-29T15:56:23+02:00
+date: 2021-01-29T14:00:00+02:00
+date_end: 2021-01-29T15:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).

@@ -29,6 +29,7 @@ content:
     publication_type: '2'
     author: ''
     exclude_featured: true
+
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -36,9 +37,12 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
 
 # Foreword
 Most of my papers deal with adaptation to climate change. I have also worked on several projects on mitigation policies in cities, and especially on how urban planning can play an important role on transport emission reductions (actually, both subjects are [deeply connected](https://doi.org/10.1038/nclimate1434)). I also sometimes worked on (almost) completely unrelated papers.
 
 # Articles
+

@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Energya Workshop"
-event:
+title: "Energya Workshop: How can we model alternative adaptation strategies to AC?"
+event: Energya Workshop
 event_url:
-location:
+location: On line
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "How can we model alternative adaptation strategies to AC?"
+summary: ""
 abstract:
 
 # Talk start and end times.

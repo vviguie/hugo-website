@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Jumeaux Climatiques (climate analogues)
+title: "Rencontres de l’action internationale des collectivités territoriales : Peut-on s'inspirer de villes au climat différent pour anticiper les impacts du changement climatique et les solutions d'adaptation?"
 event: Rencontres de l’action internationale des collectivités territoriales 
 event_url: https://raict.org/-Bienvenue-aux-Rencontres-de-l-AICT-
 location: Cité des Sciences et de l'Industrie, Paris
@@ -16,9 +16,9 @@ abstract: Selon les estimations de différents rapports, d’ici à 2050, l’im
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-29T15:17:48+02:00
-date_end: 2021-06-29T15:17:48+02:00
-all_day: true
+date: 2021-06-29T11:30:400+02:00
+date_end: 2021-06-29T12:30:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2021-06-29T15:17:48+02:00

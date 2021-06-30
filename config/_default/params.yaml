@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: minimal # I use the color scheme of https://www.tiagoribeiro.pt
 day_night: false
 font: ''
 font_size: L

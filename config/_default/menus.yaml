@@ -30,12 +30,22 @@ main:
     parent: publications
     url: '/publication/'
     weight: 54
-  - name: "Outreach"
+  - name: "Outreach/Communication et médiation scientifique"
+    identifier : outreach
     url: 'outreach/'
     weight: 60
-#  - name: "Recent talks"
-#    url: '/event/'
-#    weight: 70
+  - name: "Activities"
+    parent: outreach
+    url: 'outreach/#associations'
+    weight: 64
+  - name: "Videos"
+    parent: outreach
+    url: 'outreach/#videos'
+    weight: 64
+  - name: "Recent and upcoming talks"
+    parent: outreach
+    url: 'outreach/#talks'
+    weight: 66
 #  - name: "Courses"
 #    url: '/courses/'
 #    weight: 80

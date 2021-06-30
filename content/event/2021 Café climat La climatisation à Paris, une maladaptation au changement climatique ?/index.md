@@ -1,27 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Séminaire de l'UMR TBI : Comment S'adapter Aux Impacts Du Changement Climatique?"
-event: Séminaire de l'[UMR TBI](http://www.toulouse-biotechnology-institute.fr/fr/index.html)
-event_url: 
-location: On line
+title: "Café Climat La Climatisation À Paris, Une Maladaptation Au Changement Climatique ?"
+event: Café Climat
+event_url: https://www.apc-paris.com/agenda/cafe-climat-climatisation-a-paris-maladaptation-changement-climatique
+location: En ligne, via la plateforme Zoom
 address:
   street:
-  city: Toulouse
+  city:
   region:
   postcode:
   country:
 summary:
-abstract: Le changement climatique peut avoir des impacts majeurs sur l'économie et la société, et ce d'autant plus que nous n'arriverons pas à atteindre rapidement la neutralité carbone. Au delà des projections des modèles climatiques, que peuvent signifier concrètement ces impacts sur notre vie de tous les jours? Comment se préparer à ces changements? Au cours de cette présentation, je vous propose de présenter les principaux éléments de réponse à ces questions dans la littérature académique. Ce sujet (ce que l'on appelle "l'adaptation au changement climatique") est un objet de recherches très actif. Des politiques visant à se préparer aux impacts du changement climatique commencent également à se développer un peu partout en France et sur la planète, et peuvent jouer un rôle fondamental dans notre vulnérabilité future. 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-06-17T13:00:00+02:00
-date_end: 2021-06-17T14:00:00+02:00
+date: 2021-07-08T18:00:00+02:00
+date_end: 2021-07-01T19:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-06-17T13:00:00+02:00
+publishDate: 2021-07-01T00:22:32+02:00
 
 authors: []
 tags: []
