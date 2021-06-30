@@ -14,5 +14,5 @@ advanced:
 ---
 
 
-<a class="twitter-timeline" data-width="800" data-height="2000" data-theme="dark" href="https://twitter.com/VincentViguie?ref_src=twsrc%5Etfw">Tweets by VincentViguie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="800" data-height="1100" data-theme="dark" href="https://twitter.com/VincentViguie?ref_src=twsrc%5Etfw">Tweets by VincentViguie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
