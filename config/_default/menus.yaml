@@ -30,6 +30,9 @@ main:
     parent: publications
     url: '/publication/'
     weight: 54
+  - name: "Outreach"
+    url: 'outreach/'
+    weight: 60
 #  - name: "Recent talks"
 #    url: '/event/'
 #    weight: 70
