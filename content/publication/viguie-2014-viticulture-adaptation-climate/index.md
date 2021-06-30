@@ -7,5 +7,9 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal International des Sciences de la Vigne et du Vin*"
+url_pdf: https://hal.inrae.fr/hal-02633193/document
+links:
+ - name: "URL"
+   url: "https://hal.inrae.fr/hal-02633193"
 ---
 
