@@ -46,9 +46,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/author/1294412/vincent-viguie#profile
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1
+#- icon: youtube
+#  icon_pack: fab
+#  link: https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
