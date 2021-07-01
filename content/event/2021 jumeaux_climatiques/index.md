@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: media/2021_jumeaux_presentation.pdf
 
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).

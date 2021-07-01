@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Café Climat La Climatisation À Paris, Une Maladaptation Au Changement Climatique ?"
+title: "Café Climat: La Climatisation À Paris, Une Maladaptation Au Changement Climatique ?"
 event: Café Climat
 event_url: https://www.apc-paris.com/agenda/cafe-climat-climatisation-a-paris-maladaptation-changement-climatique
 location: En ligne, via la plateforme Zoom
@@ -12,7 +12,13 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "Pour faire face aux vagues de chaleur, l’usage de la climatisation progresse à Paris. Ce développement, qui devrait s’intensifier avec le réchauffement climatique, s’accompagne de problèmes environnementaux importants, faisait du recours à la climatisation un enjeu clef pour l’adaptation de Paris au changement climatique.
+
+Après plusieurs étés particulièrement chauds, la climatisation s’impose peu à peu dans les commerces et les foyers parisiens pour faire face aux vagues de chaleur, qui devraient se multiplier et s’intensifier dans les années à venir en raison du réchauffement climatique. La prolifération des tuyaux de climatiseurs sortant des fenêtres en témoigne.
+
+Si elle peut satisfaire un besoin réel, la climatisation produit des effets sur l’environnement qui accentuent les problèmes mêmes auxquels elle est sensée répondre, puisqu’elle réchauffe la ville et le climat. Quelles conséquences aurait la généralisation de son usage ? Comment limiter son recours ? Est-il possible de s’en passer ? Comment se refroidir efficacement ? En somme, quelle place donner à la climatisation dans la stratégie d’adaptation au changement climatique à Paris ?
+
+Pour discuter autour de ces questions et répondre aux vôtres, cinq intervenant·es seront présent·es."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
