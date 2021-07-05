@@ -1,6 +1,6 @@
 ---
 title: "Mapping the Benefits of Nature in Cities with the InVEST Software"
-date: 2021-06-01
+date: 2021-07-05
 publishDate: 2021-07-05T15:09:26.898547Z
 authors: ["P. Hamel", "A. D. Guerry", "S. Polasky", "B. Han", "J. A. Douglass", "M. Hamann", "B. Janke", "J. J. Kuiper", "H. Levrel", "H. Liu", "E. Lonsdorf", "R. I. McDonald", "C. Nootenboom", "Z. Ouyang", "R. P. Remme", "R. P. Sharp", "L. Tardieu", "V. Viguié", "D. Xu", "H. Zheng", "G. C. Daily"]
 publication_types: ["2"]
