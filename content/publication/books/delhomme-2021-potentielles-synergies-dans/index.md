@@ -1,5 +1,5 @@
 ---
-title: "De Potentielles Synergies Dans Le Secteur Des Transports et de l'aménagement Urbain : Etude de Cas de La Rǵion Ile de France"
+title: "De Potentielles Synergies Dans Le Secteur Des Transports et de l'aménagement Urbain : Etude de Cas de La Région Ile de France"
 date: 2021-03-01
 publishDate: 2021-07-06T15:57:49.681464Z
 authors: ["Flora Delhomme", "Vincent Viguié", "Nicolas Coulombel"]
