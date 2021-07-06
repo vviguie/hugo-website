@@ -14,9 +14,9 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: '' #https://wowchemy.com/docs/guide/seo/
+description: 'Vincent Viguié is a researcher in climate change economics in CIRED (Ecole des Ponts ParisTech).'
+twitter: 'vincentviguie'
 
 # Contact (edit or remove options as required)
 
@@ -118,7 +118,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-B36WRD156S'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
