@@ -22,10 +22,10 @@ main:
     parent: publications
     url: 'articles/#working_papers'
     weight: 52
-#  - name: "Books"
-#    parent: publications
-#    url: 'articles/#books'
-#    weight: 53
+  - name: "Book chapters or reports"
+    parent: publications
+    url: 'articles/#books_reports'
+    weight: 53
   - name: "See all publications"
     parent: publications
     url: '/publication/'
