@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: 'github.vviguie.publications_with_template'
+#widget: 'pages2'
 
 
 # This file represents a page section.
@@ -10,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Book chapters or reports'
+title: 'Book chapters and reports'
 subtitle: ''
 
 content:
@@ -37,7 +38,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 ---
 
-# Book chapters or reports
+# Book chapters and reports

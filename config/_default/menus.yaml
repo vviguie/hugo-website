@@ -22,7 +22,7 @@ main:
     parent: publications
     url: 'articles/#working_papers'
     weight: 52
-  - name: "Book chapters or reports"
+  - name: "Book chapters and reports"
     parent: publications
     url: 'articles/#books_reports'
     weight: 53
@@ -30,7 +30,7 @@ main:
     parent: publications
     url: '/publication/'
     weight: 54
-  - name: "Outreach/Communication et médiation scientifique"
+  - name: "Communication"
     identifier : outreach
     url: 'outreach/'
     weight: 60
