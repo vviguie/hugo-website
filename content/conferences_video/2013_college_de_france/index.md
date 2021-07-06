@@ -1,6 +1,6 @@
 ---
 title: Societal and Economic Impacts of Sea Level Rise
-summary: Conférence au collège de France (2013)
+summary: Conférence au Collège de France (2013)
 tags:
 - Adaptation
 date: "2016-04-27T00:00:00Z"
