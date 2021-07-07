@@ -7,9 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: "Contact"
-    url: '#contact'
-    weight: 20
+  - name: Research
+    identifier : research
+    url: '/research'
+    weight: 10
+  - name: Research activities
+    parent : research
+    url: '/research#research_themes'
+    weight: 11
+  - name: Research projects
+    parent : research
+    url: '/research#research_projects2'
+    weight: 12
+  - name: PhD supervisions
+    parent : research
+    url: '/research#phd_supervision'
+    weight: 13
   - name : "Publications"  # Title of the link.
     identifier : publications
     url : "articles/"  # Widget Page folder name.
@@ -30,11 +43,11 @@ main:
     parent: publications
     url: '/publication/'
     weight: 54
-  - name: "Communication"
+  - name: "Communication/media"
     identifier : outreach
     url: 'outreach/'
     weight: 60
-  - name: "Activities"
+  - name: "Outreach"
     parent: outreach
     url: 'outreach/#associations'
     weight: 64
@@ -49,7 +62,9 @@ main:
 #  - name: "Courses"
 #    url: '/courses/'
 #    weight: 80
-
+  - name: "Contact"
+    url: '#contact'
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
