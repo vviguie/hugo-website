@@ -8,5 +8,8 @@ abstract: "Some actions intended to adapt to climate change may do more harm tha
 featured: false
 publication: "*Environmental Research Letters*"
 doi: "10.1088/1748-9326/ab6a24"
+links:
+  - name: Press release
+    url: https://www.cnrs.fr/fr/faire-face-aux-canicules-paris-sans-climatisation
 ---
 
