@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal # I use the color scheme of https://www.tiagoribeiro.pt
-day_night: false
+theme: minimal #1950s #minimal # I use the color scheme of https://www.tiagoribeiro.pt
+day_night: true
 font: ''
 font_size: L
 
@@ -27,6 +27,14 @@ address:
   postcode: 'F-94736'
   country: France
   country_code: Fr
+coordinates:
+  latitude: '48.8352'
+  longitude: '2.4663'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
 
 # Site header
 
@@ -114,7 +122,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
