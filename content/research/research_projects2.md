@@ -23,4 +23,4 @@ advanced:
   css_style: 'text-align: left;'
 ---
 
-See on my [institutional webpage](http://www.centre-cired.fr/fr/vincent-viguie/#projets).
+See on my [institutional webpage](http://www.centre-cired.fr/vincent-viguie/).
