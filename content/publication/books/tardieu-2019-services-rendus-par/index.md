@@ -10,5 +10,6 @@ publication: "Rapport pour le CGDD, Ministère de la Transition Ecologique et So
 categories:
 - Book or report
 url_pdf: https://idefese.files.wordpress.com/2019/08/rapport_idefese1_2019_cadredecisionnel.pdf
+tags: ["Adaptation",]
 ---
 

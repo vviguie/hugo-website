@@ -13,5 +13,6 @@ links:
   url: http://documents.worldbank.org/curated/en/530301561649491827/Assessing-Urban-Policies-Using-a-Simulation-Model-with-Formal-and-Informal-Housing-Application-to-Cape-Town-South-Africa
   
 url_pdf: https://documents1.worldbank.org/curated/en/530301561649491827/pdf/Assessing-Urban-Policies-Using-a-Simulation-Model-with-Formal-and-Informal-Housing-Application-to-Cape-Town-South-Africa.pdf
+tags: ["Modelling city evolutions",]
 ---
 

@@ -13,5 +13,6 @@ categories:
 links:
 - name: URL
   url: https://www.construction21.org/france/articles/h/dossier-mobilites-28-de-potentielles-synergies-dans-le-secteur-des-transports-et-de-l-amenagement-urbain-etude-de-cas-de-la-region-ile-de-france.html
+tags: ["Transport emissions",]
 ---
 

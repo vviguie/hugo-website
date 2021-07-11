@@ -13,5 +13,6 @@ categories:
 links:
 - name: URL
   url: https://www.liberation.fr/debats/2019/09/10/mettre-la-nature-au-coeur-du-developpement-urbain_1750499/
+tags: ["Adaptation"]
 ---
 

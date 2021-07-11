@@ -8,5 +8,6 @@ abstract: "The aim of this paper is to assess the advantages and drawbacks of us
 featured: false
 publication: "*Cybergeo: European Journal of Geography*"
 doi: "10.4000/cybergeo.27668"
+tags: ["Modelling city evolutions"]
 ---
 

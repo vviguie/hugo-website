@@ -10,5 +10,6 @@ publication: "*Le Cahier des Ponts*"
 categories:
 - Book or report
 url_pdf: https://www.acteursduparisdurable.fr/fr/themes-du-mois/71-sadapte
+tags: ["Adaptation",]
 ---
 

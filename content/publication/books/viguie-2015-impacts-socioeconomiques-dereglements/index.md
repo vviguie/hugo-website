@@ -10,6 +10,6 @@ publication: "*Annales des Mines - Responsabilite et environnement*"
 url_pdf: 'https://www.cairn.info/revue-responsabilite-et-environnement-2015-3-page-68.htm'
 categories:
 - Book or report
-
+tags: ["Adaptation"]
 ---
 

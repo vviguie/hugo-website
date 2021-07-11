@@ -8,5 +8,6 @@ abstract: "It has recently been shown that the work extractable from correlated 
 featured: false
 publication: "*New Journal of Physics*"
 doi: "10.1088/1367-2630/7/1/195"
+tags: ["divers"]
 ---
 

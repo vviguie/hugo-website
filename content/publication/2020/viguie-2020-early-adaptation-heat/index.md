@@ -11,5 +11,6 @@ doi: "10.1088/1748-9326/ab6a24"
 links:
   - name: Press release
     url: https://www.cnrs.fr/fr/faire-face-aux-canicules-paris-sans-climatisation
+tags: ["Adaptation","Sustainable city development",]
 ---
 

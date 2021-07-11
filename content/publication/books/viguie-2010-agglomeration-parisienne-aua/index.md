@@ -9,5 +9,6 @@ featured: false
 publication: "*CDC Climat Recherche*"
 categories:
 - Book or report
+tags: ["Modelling city evolutions",]
 ---
 

@@ -8,5 +8,6 @@ abstract: "Natural infrastructure such as parks, forests, street trees, green ro
 featured: false
 publication: "*npj Urban Sustainability*"
 doi: "10.1038/s42949-021-00027-9"
+tags: ["Sustainable city development","Adaptation",]
 ---
 

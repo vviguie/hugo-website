@@ -10,5 +10,6 @@ publication: "*Vers l'égalité des territoires - Dynamiques, mesures, politique
 categories:
 - Book or report
 url_pdf: 'https://www.vie-publique.fr/sites/default/files/rapport/pdf/134000131.pdf#page=246'
+tags: ["Adaptation","Sustainable city development",]
 ---
 

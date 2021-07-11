@@ -8,5 +8,6 @@ abstract: "Les politiques urbaines et les modes de vie des citadins sont un él�
 featured: false
 publication: "*Comptes Rendus. Géoscience*"
 doi: "10.5802/crgeos.19"
+tags: ["Sustainable city development",]
 ---
 

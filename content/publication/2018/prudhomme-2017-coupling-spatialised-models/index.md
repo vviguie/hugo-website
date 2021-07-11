@@ -8,5 +8,6 @@ abstract: "Compact city concept has been widely debated and analysed in scientif
 featured: false
 publication: "*International Journal of Spatial, Temporal and Multimedia Information Systems*"
 doi: "10.1504/IJSTMIS.2017.089835"
+tags: ["Transport emissions",]
 ---
 

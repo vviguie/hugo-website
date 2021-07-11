@@ -11,6 +11,6 @@ categories:
 - Book or report
 
 url_pdf: https://www.modelisation-prospective.org/wp-content/uploads/2019/12/EP_2018_10-ans-de-la-chaire_posterVIGUIE.pdf
-  
+tags: ["Modelling city evolutions","Sustainable city development",]
 ---
 

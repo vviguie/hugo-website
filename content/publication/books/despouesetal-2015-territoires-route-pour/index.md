@@ -11,5 +11,6 @@ publication: "Publication conjointe de la CDC Climat Recherche, Météo France, 
 url_pdf: https://www.i4ce.org/wp-core/wp-content/uploads/2015/11/I4CE-Livret-des-territoires-en-route-vers-la-COP212.pdf
 categories:
 - Book or report
+tags: ["Adaptation",]
 ---
 

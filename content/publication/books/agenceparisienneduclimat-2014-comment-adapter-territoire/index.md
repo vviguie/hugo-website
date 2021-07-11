@@ -10,5 +10,6 @@ publication: "Agence Parisienne du Climat"
 url_pdf: https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2016/12/12/brochurevf.pdf
 categories:
 - Book or report
+tags: ["Adaptation",]
 ---
 

@@ -13,6 +13,6 @@ categories:
 links:
 - name: URL
   url: https://www.acteursduparisdurable.fr/fr/themes-du-mois/71-sadapte
-  
+tags: ["Adaptation"]  
 ---
 

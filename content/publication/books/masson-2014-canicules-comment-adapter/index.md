@@ -12,5 +12,6 @@ categories:
 links:
 - name: 'URL'
   url: 'https://www.territorial.fr/PAR_TPL_IDENTIFIANT/23149/TPL_CODE/TPL_REVUE_ART_FICHE/PAG_TITLE/Canicules+:+comment+adapter+nos+villes+?/48-technicites.html'
+tags: ["Adaptation",]
 ---
 

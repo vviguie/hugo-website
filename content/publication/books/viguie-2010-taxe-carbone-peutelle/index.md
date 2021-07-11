@@ -10,5 +10,6 @@ publication: "*Economie et Développement Urbain Durable, ḿissions Urbaines : 
 categories:
 - Book or report
 url_pdf: http://www.centre-cired.fr/wp-content/uploads/2020/10/chapitre_viguie-2.pdf
+tags: ["Modelling city evolutions",]
 ---
 

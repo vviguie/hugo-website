@@ -14,5 +14,6 @@ links:
 
 url_pdf: https://documents1.worldbank.org/curated/en/889761502738189524/pdf/Buses-houses-or-cash-socio-economic-spatial-and-environmental-consequences-of-reforming-public-transport-subsidies-in-Buenos-Aires.pdf
 
+tags: ["Modelling city evolutions","Transport emissions"]
 ---
 

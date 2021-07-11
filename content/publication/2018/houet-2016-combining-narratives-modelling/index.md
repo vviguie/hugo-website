@@ -8,7 +8,7 @@ abstract: "Although climate scientists explore the effects of climate change for
 featured: false
 doi : "10.4000/cybergeo.27668"
 publication: "*Environmental Modelling & Software*"
-tags: ["Future", "Interdisciplinary", "Urban governance", "Urban growth", "Urban heat island"]
+tags: ["Modelling city evolutions","Adaptation",]
 doi: "10.1016/j.envsoft.2016.09.010"
 ---
 

@@ -8,5 +8,6 @@ abstract: "The question of what cities can contribute to mitigation and adapting
 featured: false
 publication: "*Environmental Research Letters*"
 doi: "10.1088/1748-9326/abb0b2"
+tags: ["Sustainable city development",]
 ---
 

@@ -9,6 +9,7 @@ featured: false
 publication: ""
 
 url_pdf: http://www2.centre-cired.fr/IMG/pdf/cired_wp_2019_72_pfeiffer_viguie_lecocq.pdf
+tags: ["Modelling city evolutions"]
   
 ---
 

@@ -10,5 +10,6 @@ publication: ""
 categories:
 - Book or report
 url_pdf: https://pastel.archives-ouvertes.fr/file/index/docid/1058629/filename/TH2012PEST1049_complete.pdf
+tags: ["Sustainable city development","Adaptation","Transport emissions","Modelling city evolutions",]
 ---
 
