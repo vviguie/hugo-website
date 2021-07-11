@@ -30,7 +30,7 @@ all_day: false
 publishDate: 2021-07-01T00:22:32+02:00
 
 authors: []
-tags: []
+tags: ["Adaptation"]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -56,7 +56,11 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=hDjqaP3xU6s
+
+links:
+- name: URL
+  url: https://www.apc-paris.com/agenda/cafe-climat-climatisation-a-paris-maladaptation-changement-climatique
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
