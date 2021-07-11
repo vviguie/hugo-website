@@ -1,0 +1,17 @@
+---
+title: "Nos Futurs"
+date: 2020-01-01
+publishDate: 2021-07-11T23:09:46.700787Z
+authors: ["Aline Aurias", "Roland Lehoucq", "Daniel Suchet", "Jérôme Vincent"]
+publication_types: ["5"]
+abstract: "Imaginer les Possibles du Changement Climatique !De Pierre BORDAGE , Estelle FAYE , Chloé CHEVALIER , Claude ECKEN , Raphaël GRANIER DE CASSAGNAC , Sylvie LAIN ́, JeanneA DEBATS , JeanMarc LIGNY , Laurent GENEFORT , Audrey BERRY , Anne BARRE , Philippe BIHOUIX , Vincent VIGUI',́ François MOUTOU , V'eńique MOREIRA , MarieJeanne HUSSET , Matthieu AUZANNEAU , Sylvain PELLERIN , Isabelle CZERNICHOWSKILAURIOL , Pascal MAUGIS , Jane LECOMTE , Claire CHENU , Catherine DUFOURNos Futurs est une anthologie de textes destin'es̀́ sensibiliser,  ̀informer et `p̀roduire des r'eci ́autour des enjeux du changement climatique.Ce livre part d un double constat :D'une part, la transition 'ecolíque au sens large, et les changements radicaux qui l'accompagnent, int'eresst́ et pr'eoccupt́ un public de plus en plus large, qui cherche des moyens de se saisir du sujet.D'autre part, alors que l'homme est un animal d'histoires, nous manquons de r'ecits pŕ nous approprier ces futurs, souhait'es ou suś. Certes, le GIEC (Groupe Intergouvernemental d'experts sur l'Evolution du Climat) produit r'eguli`emńt un panorama des cons'equences  ́ǹg terme du changement climatique qui permet d'imaginer `a qì le monde risque de ressembler. Mais ces rapports, s'ils font r'ef'erence  ́so ́fondamentaux pour une prise de d'ecision 'eclŕ'ee, neónt queéu lus par le grand public et peinent `a atìndre les imaginaires.C'est pour ça que nous avons form'e dix binômes t́eur-chercheur qui se saisiront de dix th`emes r̀mi ceux 'etudi'es par le ÉC, etónt le choix a fait l'objet d'un sondage aupr`es d'ul̀arge public. L'ambition est de pr'esenter ces dix thḿes so ̀un double 'eclairage : celui deá fiction, pour explorer les possibles, et celui de la vulgarisation scientifique, pour expliquer l''etat des connaissance ́En rassemblant ces vingt textes, issus de la rencontre entre auteurs et chercheurs, l'objectif est de donner `a voir ld̀iff'erence et la compl'emt́arit'e entre ces úx approch ́qui vont t̂re indispensables pour s'approprier les bouleversements qui s'annoncent.Nos Futurs s'adresse `a un largp̀ublic, des lecteurs qui cherchent comment aborder les enjeux climatiques aux militants d'ej`a engag'e ̀en passanṕar les amatŕs d'imaginaires sans pr'eoccupation initiale pour lćlimat.Les porteurs du projet :L'id'ee de ce livre a germ'e danĺe cerveau de Aline Auás (journaliste scientifique), Roland Lehoucq (astrophysicien au CEA et pr'esident du festival de l'imagiíre Les Utopiales), Daniel Suchet (Ma^r̂e de conf'erences `a l'Ecole pỳtechniqu ́et J'er^o ̂Vincent (directeur de laáison d 'edition ActuSF), `a Nantes, unò ́de novembre 2018, durant le festival des Utopiales.Les partenaires :Ce livre a 'et'e rendu possible par le soutied́e  ́Diagonale ParisSaclay ainsi que de la chaire Arts et Science de l'Ecole polytechnique, de l'Ecole Nationale Sup'erieure des Arts D'ecoratifs et de ŕis Science et Lettś. Il est 'egalement soutenu par le Collectif Citéns Pour le Climat, la fondation Elyx, le festival des Utopiales, l'association S[cube] et le r'eseau des m'ediath`eques de Pariàcla"
+featured: false
+publication: "*ACTU SF*"
+links:
+- name: URL
+  url: https://www.editions-actusf.fr/a/collectifd-auteur/nos-futurs
+tags: ["Adaptation"]
+categories:
+- Book or reports
+---
+
