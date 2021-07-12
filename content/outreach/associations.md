@@ -11,13 +11,13 @@ design:
   columns: '1'
 advanced:
   css_style: 'text-align: left;'
+#{{< relref "/publication/books/aurias-2020-nos-futurs" >}})
 ---
 
 # Outreach
 
 - I participated several times to the "[train du climat](https://trainduclimat.fr/)" which travels across France with researchers on board to inform people about climate change issues. [EMS Outreach & Communication Award 2017.](http://www.emetsoc.org/wp-content/uploads/2017/10/oc2017_train-du-climat.pdf)
 - Member of the scientific council of the [Office for climate education](https://www.oce.global/).
-
-
+- With the great [Catherine Dufour](https://fr.wikipedia.org/wiki/Catherine_Dufour) I contributed to one short story of the science fiction book [No(s) Futur(s)](https://www.editions-actusf.fr/a/collectifd-auteur/nos-futurs).
 
 
