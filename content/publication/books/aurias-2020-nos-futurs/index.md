@@ -22,6 +22,7 @@ links:
 tags: ["Adaptation"]
 categories:
 - Book or report
-- vulharisation
+- vulgarisation
 ---
+
 

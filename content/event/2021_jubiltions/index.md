@@ -59,6 +59,10 @@ url_code:
 url_pdf:
 url_video:
 
+links:
+  - name: URL
+    url: "https://www.futurs-urbains.fr/fileadmin/contributeurs/Labex-Futurs-Urbains/DIX_ANS_LABEX/10_ans_LabEx_Futurs_Urbains_-_Jubilations_urbaines.pdf"
+
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
