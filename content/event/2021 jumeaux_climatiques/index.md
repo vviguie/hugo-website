@@ -50,7 +50,10 @@ url_slides: media/2021_jumeaux_presentation.pdf
 
 url_code:
 url_pdf: 
-url_video:
+url_video: 
+links:
+  - name: URL
+    url: https://cites-unies-france.org/Les-ACTES-des-Rencontres-de-l-AICT-2021-enregistrements-des-conferences
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
