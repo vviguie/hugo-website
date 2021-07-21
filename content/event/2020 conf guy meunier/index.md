@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "The Chair Energy and Prosperity Chair is organizing on Decembre 14, an international webconference on mobility challenges in partnership with the Chair Armand Peugeot Chair and Climate Economics Chair."
+summary: "The Energy and Prosperity Chair is organizing on Decembre 14, an international webconference on mobility challenges in partnership with the Chair Armand Peugeot Chair and Climate Economics Chair."
 abstract:
 
 # Talk start and end times.
@@ -47,6 +47,10 @@ image:
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: http://www.chair-energy-prosperity.org/wp-content/uploads/2021/01/conference-mobility-viguie.pdf
+
+links:
+- name: URL
+  url: http://www.chair-energy-prosperity.org/event/international-conference-on-mobility-challenges-3/
 
 url_code:
 url_pdf:
