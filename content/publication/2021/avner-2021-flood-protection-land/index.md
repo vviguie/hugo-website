@@ -1,6 +1,6 @@
 ---
 title: "Flood Protection and Land Value Creation - Not All Resilience Investments Are Created Equal"
-date: 2021-07-01
+date: 2021-08-02
 publishDate: 2021-08-02T08:36:28.133745Z
 authors: ["Paolo Avner", "Vincent Viguié", "Bramka Arga Jafino", "Stéphane Hallegatte"]
 publication_types: ["2"]
