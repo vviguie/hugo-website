@@ -9,5 +9,6 @@ featured: false
 publication: "*Sustainable Development*"
 tags: ["big data", "Google maps", "smart cities", "sustainable development", "sustainable urban mobility", "transport","Transport emissions","Sustainable city development",]
 doi: "10.1002/sd.2221"
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/sd.2221"
 ---
 
