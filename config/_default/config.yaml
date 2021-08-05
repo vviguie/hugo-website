@@ -5,7 +5,7 @@
 
 title: 'Vincent Viguié' # Website name
 baseurl: 'www.vincentviguie.com' # Website URL
-copyright: '© 2021 Vincent Viguié, website icon made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/)' # Footer text, e.g. '© {year} Me'
+copyright: "© 2021 Vincent Viguié, website icon made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/). Feel free to use my website's [source code](https://github.com/vviguie/hugo-website)." # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

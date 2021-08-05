@@ -1,6 +1,8 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+This is the source code of my homepage. I build this website based on [Wowchemy Academic Template for Hugo](https://wowchemy.com).
+Feel free to use and share the source code anywhere you like.
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+
+## Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
