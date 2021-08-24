@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 21
 
-title: 'Publications'
+title: 'Publications and research topics'
 subtitle: 'For all my peer-reviewed articles, there should be a freely available version on [HAL](https://cv.archives-ouvertes.fr/vincent-viguie?langChosen=fr) or [Google Scholar](https://scholar.google.com/citations?user=iElc2G8AAAAJ&hl), either pre-print or post-print. But if you want the publisher version and do not have the access, [send me an email](mailto:viguie.cired@gmail.com).'
 
 content:

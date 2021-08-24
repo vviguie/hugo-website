@@ -15,6 +15,8 @@ image:
 links:
 - name: "Articles"
   url: 'papers_cities/#articles'
+- name: "Working papers"
+  url: 'papers_cities/#working_papers'
 - name: "Book chapters and reports"
   url: 'papers_cities/#books_reports'
 url_code: ""
