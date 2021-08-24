@@ -1,5 +1,5 @@
 ---
-title: Urban modelling 
+title: Urban economics and urban expansion modelling 
 summary: Urban economics, Urban structure dynamics (Land-use transport interaction models), Future studies and long-term scenarios
 tags:
 - Adaptation
