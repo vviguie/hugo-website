@@ -8,6 +8,6 @@ abstract: "This article analyses the observed and projected impacts of climate c
 featured: false
 publication: "*La Métórologie*"
 url_pdf : https://www.researchgate.net/profile/Vincent-Viguie-2/publication/274639512_Impacts_adaptation_et_vulnerabilite_des_systemes_naturels_et_humains_en_Europe/links/564f375808aeafc2aab3ae9c/Impacts-adaptation-et-vulnerabilite-des-systemes-naturels-et-humains-en-Europe.pdf
-tags: ["Adaptation",]
+tags: ["Adaptation","Adaptation policies"]
 ---
 

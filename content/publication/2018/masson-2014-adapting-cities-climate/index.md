@@ -9,6 +9,6 @@ Our four-step methodology consists of: first, defining interdisciplinary scenari
 featured: false
 publication: "*Urban Climate*"
 doi: "10.1016/j.uclim.2014.03.004"
-tags: ["Adaptation","Modelling city evolutions"]
+tags: ["Adaptation","Modelling city evolutions","heatwave","adaptation policies"]
 ---
 

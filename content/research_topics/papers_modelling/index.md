@@ -1,6 +1,6 @@
 ---
 title: Urban modelling 
-summary: Urban economics, modelling of coupled human/natural/engineering systems, Urban structure dynamics (Land-use transport interaction models), future studies and long-term scenarios
+summary: Urban economics, Urban structure dynamics (Land-use transport interaction models), Future studies and long-term scenarios
 tags:
 - Adaptation
 date: "2016-04-27T00:00:00Z"

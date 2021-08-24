@@ -10,6 +10,6 @@ publication: "*Villes et Adaptation Au Changement Climatique*"
 categories:
 - Book or report
 url_pdf: https://www.ecologie.gouv.fr/sites/default/files/ONERC_Rapport_2010_villes_et_adaptation.pdf
-tags: ["Adaptation",]
+tags: ["Adaptation","Adaptation policies","heatwave"]
 ---
 

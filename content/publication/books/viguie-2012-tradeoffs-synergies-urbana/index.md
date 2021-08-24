@@ -10,6 +10,6 @@ publication: "UGEC Viewpoints"
 url_pdf: https://ugecviewpoints.files.wordpress.com/2015/01/ugec-viewpoints-8.pdf#page=12
 categories:
 - Book or report
-tags: ["Adaptation","Sustainable city development",]
+tags: ["Adaptation","Sustainable city development","Adaptation policies"]
 ---
 

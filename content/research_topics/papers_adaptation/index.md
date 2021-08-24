@@ -1,8 +1,8 @@
 ---
 title: Climate change adaptation economics
-summary: Evaluation of climate policies, Climate change impacts and vulnerabilities, natural disasters indirect economic impacts
+summary: Evaluation of climate adaptation policies, climate change impacts and vulnerabilities, natural disasters indirect economic impacts
 tags:
-- Adaptation
+- Adaptation policies
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'adaptation'
+    tag: 'adaptation policies'
     category: ''
     publication_type: '3'
     author: ''

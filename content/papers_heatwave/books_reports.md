@@ -2,15 +2,16 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: 'github.vviguie.publications_with_template'
-# widget: pages
+#widget: 'pages2'
+
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 40
 
-title: 'Articles'
+title: 'Book chapters and reports'
 subtitle: ''
 
 content:
@@ -24,12 +25,11 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'sustainable city development'
-    category: ''
-    publication_type: '2'
+    tag: 'heatwave'
+    category: 'Book or report'
+    publication_type: ''
     author: ''
     exclude_featured: true
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -41,5 +41,4 @@ design:
   columns: '2'
 ---
 
-# Articles
-
+# Book chapters and reports

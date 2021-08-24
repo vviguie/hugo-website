@@ -10,6 +10,6 @@ publication: "*La  documentation  française*"
 categories:
 - Book or report
 url_pdf: https://www.ecologie.gouv.fr/sites/default/files/Efese_M%C3%A9thodologie_retour_exp%C3%A9rience_projet_IDEFESE.pdf
-tags: ["Adaptation",]
+tags: ["Adaptation","Sustainable city development", "heatwave"]
 ---
 

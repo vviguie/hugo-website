@@ -25,7 +25,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'adaptation'
+    tag: 'adaptation policies'
     category: 'Book or report'
     publication_type: ''
     author: ''

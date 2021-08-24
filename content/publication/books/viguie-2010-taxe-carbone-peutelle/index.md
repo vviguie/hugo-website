@@ -15,6 +15,6 @@ url_pdf: http://www.centre-cired.fr/wp-content/uploads/2020/10/chapitre_viguie-2
 links:
 - name: URL
   url: "https://books.openedition.org/pressesmines/1549"
-tags: ["Modelling city evolutions",]
+tags: ["Modelling city evolutions","transport"]
 ---
 

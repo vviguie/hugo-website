@@ -1,12 +1,12 @@
 ---
-title: Urban transport policies
-summary: "Mitigation of urban transport emissions, financing public transport, redistributive impacts of transport policies"
+title: Adaptation to heatwaves
+summary: Policies to reduce heatwave risk, impact of land-use on urban climate, nature-based solutions
 tags:
-- transport emissions
+- heatwave
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/papers_transport/"
+external_link: "/papers_heatwave/"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -14,11 +14,11 @@ image:
 
 links:
 - name: "Articles"
-  url: 'papers_transport/#articles'
+  url: 'papers_heatwave/#articles'
 - name: "Working papers"
-  url: 'papers_transport/#working_papers'
+  url: 'papers_heatwave/#working_papers'
 - name: "Book chapters and reports"
-  url: 'papers_transport/#books_reports'
+  url: 'papers_heatwave/#books_reports'
 url_code: ""
 url_pdf: ""
 url_slides: ""

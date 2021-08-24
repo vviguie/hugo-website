@@ -1,5 +1,5 @@
 ---
-title: "Canicules : Comment Adapter Nos Villes ? »"
+title: "Canicules : Comment Adapter Nos Villes ? "
 date: 2014-06-01
 publishDate: 2021-07-06T22:12:58.099971Z
 authors: ["Valéry Masson", "Vincent Viguié"]
@@ -12,6 +12,6 @@ categories:
 links:
 - name: 'URL'
   url: 'https://www.territorial.fr/PAR_TPL_IDENTIFIANT/23149/TPL_CODE/TPL_REVUE_ART_FICHE/PAG_TITLE/Canicules+:+comment+adapter+nos+villes+?/48-technicites.html'
-tags: ["Adaptation",]
+tags: ["Adaptation","heatwave","Sustainable city development"]
 ---
 

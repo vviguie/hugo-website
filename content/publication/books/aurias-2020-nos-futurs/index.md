@@ -19,7 +19,7 @@ publication: "*ACTU SF*"
 links:
 - name: URL
   url: https://www.editions-actusf.fr/a/collectifd-auteur/nos-futurs
-tags: ["Adaptation"]
+tags: ["Adaptation","Adaptation policies"]
 categories:
 - Book or report
 - vulgarisation

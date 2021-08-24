@@ -24,7 +24,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'sustainable city development'
+    tag: 'heatwave'
     category: ''
     publication_type: '2'
     author: ''
@@ -40,6 +40,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
+
 
 # Articles
 

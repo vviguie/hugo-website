@@ -1,5 +1,5 @@
 ---
-title: "Comment adapter le territoire parisien aux futures canicules. Pistes et stratégies d'adaptation au changement climatique\""
+title: "Comment adapter le territoire parisien aux futures canicules. Pistes et stratégies d'adaptation au changement climatique"
 date: 2014-07-01
 publishDate: 2021-07-06T22:06:13.187252Z
 authors: ["Agence Parisienne du Climat"]
@@ -10,6 +10,6 @@ publication: "Agence Parisienne du Climat"
 url_pdf: https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2016/12/12/brochurevf.pdf
 categories:
 - Book or report
-tags: ["Adaptation",]
+tags: ["Adaptation","heatwave","Sustainable city development"]
 ---
 

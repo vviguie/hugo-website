@@ -11,6 +11,6 @@ url_pdf: https://hal.inrae.fr/hal-02633193/document
 links:
  - name: "URL"
    url: "https://hal.inrae.fr/hal-02633193"
-tags: ["Adaptation",]
+tags: ["Adaptation","Adaptation policies"]
 ---
 

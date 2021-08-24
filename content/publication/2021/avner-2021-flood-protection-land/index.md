@@ -12,13 +12,8 @@ links:
   url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/489851627570942811/flood-protection-and-land-value-creation-not-all-resilience-investments-are-created-equal
   
 url_pdf: https://documents1.worldbank.org/curated/en/489851627570942811/pdf/Flood-Protection-and-Land-Value-Creation-Not-All-Resilience-Investments-Are-Created-Equal.pdf
-tags: ["Modelling city evolutions","Adaptation"]
+tags: ["Modelling city evolutions","Adaptation","flood","Adaptation policies"]
 projects: ["example"]
 ---
 
-hello:
-
-[Adaptation](/tag/adaptation/)             |  Urban economics | Transport| Transport
---- | --- | --- |---|---
-[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.google.fr)  |  [<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)|[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)|[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)
 

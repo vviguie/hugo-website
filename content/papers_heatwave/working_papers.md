@@ -1,16 +1,15 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: 'github.vviguie.publications_with_template'
-# widget: pages
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: 'Articles'
+title: 'Working papers'
 subtitle: ''
 
 content:
@@ -24,12 +23,11 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'sustainable city development'
+    tag: 'heatwave'
     category: ''
-    publication_type: '2'
+    publication_type: '3'
     author: ''
     exclude_featured: true
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -40,6 +38,4 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-# Articles
 

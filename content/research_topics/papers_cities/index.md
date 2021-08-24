@@ -1,8 +1,8 @@
 ---
-title: Sustainable city development
-summary: Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies
+title: Sustainable city development policies
+summary: Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies, Modelling of coupled human/natural/engineering systems.
 tags:
-- Adaptation
+- Sustainable city development
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

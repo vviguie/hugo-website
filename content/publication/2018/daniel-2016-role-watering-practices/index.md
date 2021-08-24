@@ -8,6 +8,6 @@ abstract: "Increasing heat-wave risk due to regional climate evolutions, exacerb
 featured: false
 publication: "*Urban Climate*"
 doi: "10.1016/j.uclim.2016.11.001"
-tags: ["Adaptation",]
+tags: ["Adaptation","heatwave"]
 ---
 

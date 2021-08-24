@@ -12,6 +12,6 @@ links:
 - name: URL
   url: http://ideas.repec.org/p/fae/wpaper/2015.09.html
 URL_pdf : http://faere.fr/pub/WorkingPapers/Viguie_FAERE_WP2015.09.pdf
-tags: ["Modelling city evolutions",]
+tags: ["Modelling city evolutions","transport emissions"]
 ---
 

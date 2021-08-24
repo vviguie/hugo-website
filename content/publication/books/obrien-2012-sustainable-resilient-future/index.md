@@ -10,6 +10,6 @@ publication: "*Managing the Risks of Extreme Events and Disasters to Advance Cli
 url_pdf: 'https://archive.ipcc.ch/pdf/special-reports/srex/SREX-Chap8_FINAL.pdf'
 categories:
 - Book or report
-tags: ["Adaptation",]
+tags: ["Adaptation","Adaptation policies"]
 ---
 
