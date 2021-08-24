@@ -24,7 +24,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'adaptation'
     category: ''
     publication_type: '2'
     author: ''
@@ -46,9 +46,7 @@ Most of my papers deal with adaptation to climate change. I have also worked on 
 
 For all my peer-reviewed articles, there should be a freely available version on [HAL](https://cv.archives-ouvertes.fr/vincent-viguie?langChosen=fr) or [Google Scholar](https://scholar.google.com/citations?user=iElc2G8AAAAJ&hl), either pre-print or post-print. But if you want the publisher version and do not have the access, [send me an email](mailto:viguie.cired@gmail.com).
 
-[Adaptation to climate change](/tag/adaptation/)             |  [Urban transport policies] | Transport| Transport
---- | --- | --- |---|---
-[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.google.fr)  |  [<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)|[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)|[<img src="http://localhost:4321/publication/2021/avner-2021-flood-protection-land/featured_hu7fba9da1679ce4a56c592454604cb9c1_117457_720x0_resize_q75_lanczos.jpg"  width="400" height="200" />](https://www.lemonde.fr)
+
 
 # Articles
 

@@ -1,23 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Sustainable city development
+summary: Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies
 tags:
-- Deep Learning
 - Adaptation
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "/papers_cities/"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- name: "Articles"
+  url: 'papers_cities/#articles'
+- name: "Book chapters and reports"
+  url: 'papers_cities/#books_reports'
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -28,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
