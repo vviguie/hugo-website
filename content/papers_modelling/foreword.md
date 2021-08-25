@@ -17,15 +17,10 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: 
-    image_darken: 1.0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_style: 'text-align: center'
 ---
 
+### Urban economics, Urban structure dynamics (Land-use transport interaction models), Future studies and long-term scenarios
 
+### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) 

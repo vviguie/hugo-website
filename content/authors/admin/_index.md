@@ -3,7 +3,7 @@
 title: Vincent Viguié
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Researcher

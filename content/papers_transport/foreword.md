@@ -17,15 +17,11 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: 
-    image_darken: 1.0
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_style: 'text-align: center'
 ---
 
+### Mitigation of urban transport emissions, financing public transport, redistributive impacts of transport policies
+
+### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) 
 
