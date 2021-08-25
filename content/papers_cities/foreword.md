@@ -24,4 +24,4 @@ advanced:
 
 ### Climate Policy implications on/from urban areas, Synergies and conflicts between urban climate policies and other urban policies, Modelling of coupled human/natural/engineering systems.
 
-### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) 
+### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) &nbsp; &nbsp; &nbsp;[`Talks`](#talks) 

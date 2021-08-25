@@ -30,7 +30,7 @@ all_day: false
 publishDate: 2021-07-01T00:22:32+02:00
 
 authors: []
-tags: ["Adaptation"]
+tags: ["Adaptation",'adaptation policies','Sustainable city development','heatwave']
 
 # Is this a featured event? (true/false)
 featured: false

@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-06-17T13:00:00+02:00
 
 authors: []
-tags: []
+tags: [Adaptation policies]
 
 # Is this a featured event? (true/false)
 featured: false
