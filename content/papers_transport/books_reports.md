@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 #widget: 'github.vviguie.publications_with_template'
-widget: 'pages2'
+widget: 'pages'
 
 
 # This file represents a page section.
