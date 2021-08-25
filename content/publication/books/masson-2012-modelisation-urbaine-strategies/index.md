@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modélisation Urbaine et Stratǵies d'adaptation Au Changement Climatique Pour
-  Anticiper La Demande et La Production 'érg'eq́ue
+title: Modélisation Urbaine et Stratégies d'adaptation Au Changement Climatique Pour
+  Anticiper La Demande et La Production d'énergie
 subtitle: ''
 summary: ''
 authors:
