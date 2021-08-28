@@ -8,7 +8,7 @@ abstract: "Although climate scientists explore the effects of climate change for
 featured: false
 doi : "10.4000/cybergeo.27668"
 publication: "*Environmental Modelling & Software*"
-tags: ["Modelling city evolutions","Adaptation",]
+tags: ["Modelling city evolutions","Adaptation","Adaptation policies"]
 doi: "10.1016/j.envsoft.2016.09.010"
 ---
 

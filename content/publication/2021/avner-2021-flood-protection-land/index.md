@@ -12,6 +12,8 @@ links:
   url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/489851627570942811/flood-protection-and-land-value-creation-not-all-resilience-investments-are-created-equal
   
 url_pdf: https://documents1.worldbank.org/curated/en/489851627570942811/pdf/Flood-Protection-and-Land-Value-Creation-Not-All-Resilience-Investments-Are-Created-Equal.pdf
-tags: ["Modelling city evolutions","Adaptation"]
+tags: ["Modelling city evolutions","Adaptation","flood","Adaptation policies"]
+#projects: ["example"]
 ---
+
 

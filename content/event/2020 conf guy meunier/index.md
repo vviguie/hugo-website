@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Energy and Prosperity academic Chair: Anticipating transit-induced changes in social composition of neighborhoodsan application to the Grand Paris Express"
+title: "Energy and Prosperity academic Chair: Anticipating transit-induced changes in social composition of neighborhoods, an application to the Grand Paris Express"
 event: International Conference on Mobility Challenges
 event_url: http://www.chair-energy-prosperity.org/event/international-conference-on-mobility-challenges-3/
 location: Webconference
@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2021-05-03T09:57:00+02:00
 
 authors: []
-tags: []
+tags: ['transport emissions','Modelling city evolutions']
 
 # Is this a featured event? (true/false)
 featured: false

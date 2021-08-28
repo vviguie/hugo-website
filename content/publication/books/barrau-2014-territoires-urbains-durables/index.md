@@ -14,6 +14,6 @@ links:
   url: https://www.gret.org/publication/territoires-urbains-durables-et-adaptation-aux-changements-climatiques-revue-bibliographique/
 categories:
 - Book or report
-tags: ["Adaptation"]
+tags: ["Adaptation","Adaptation policies","Sustainable city development"]
 ---
 

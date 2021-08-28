@@ -1,15 +1,17 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+#widget: 'github.vviguie.publications_with_template'
+widget: 'pages'
+
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: 'Working papers'
+title: 'Book chapters and reports'
 subtitle: ''
 
 content:
@@ -23,9 +25,9 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: '3'
+    tag: 'Modelling city evolutions'
+    category: 'Book or report'
+    publication_type: ''
     author: ''
     exclude_featured: true
 design:

@@ -12,6 +12,6 @@ links:
   url: https://theconversation.com/la-nature-ne-doit-plus-etre-loubliee-des-projets-damenagement-urbain-120540
 categories:
 - Book or report
-tags: ["Adaptation",]
+tags: ["Adaptation","Sustainable city development","heatwave"]
 ---
 

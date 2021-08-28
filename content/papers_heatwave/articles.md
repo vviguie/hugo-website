@@ -1,17 +1,16 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: 'github.vviguie.publications_with_template'
-#widget: 'pages2'
-
+#widget: 'github.vviguie.publications_with_template'
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
-title: 'Book chapters and reports'
+title: 'Articles'
 subtitle: ''
 
 content:
@@ -25,11 +24,12 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: 'Book or report'
-    publication_type: ''
+    tag: 'heatwave'
+    category: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
+
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -41,4 +41,4 @@ design:
   columns: '2'
 ---
 
-# Book chapters and reports
+

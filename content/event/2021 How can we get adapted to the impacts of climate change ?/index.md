@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-01-29T15:56:23+02:00
 
 authors: []
-tags: []
+tags: ['adaptation policies']
 
 # Is this a featured event? (true/false)
 featured: false

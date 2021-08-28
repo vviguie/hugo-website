@@ -8,7 +8,7 @@ abstract: "Why do high income residents tend to live in the suburbs in some citi
 featured: false
 publication: ""
 
-url_pdf: http://www2.centre-cired.fr/IMG/pdf/cired_wp_2019_72_pfeiffer_viguie_lecocq.pdf
+url_pdf: http://www.centre-cired.fr/wp-content/uploads/2021/07/cired_wp_2019_72_pfeiffer_viguie_lecocq.pdf
 tags: ["Modelling city evolutions"]
   
 ---

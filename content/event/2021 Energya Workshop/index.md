@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2021-05-03T09:57:00+02:00
 
 authors: []
-tags: []
+tags: ['heatwave']
 
 # Is this a featured event? (true/false)
 featured: false

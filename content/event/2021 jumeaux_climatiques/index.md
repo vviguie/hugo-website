@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-06-29T15:17:48+02:00
 
 authors: []
-tags: []
+tags: ['adaptation policies','Sustainable city development']
 
 # Is this a featured event? (true/false)
 featured: false
