@@ -31,7 +31,7 @@ education:
   - course: PhD in Environmental economics
     institution: Université Paris Est
     year: 2012
-  - course: MEng in Economics
+  - course: MEng in Economics and Finance
     institution: Ecole des Ponts ParisTech
     year: 2008
   - course: MSc in Physics 
