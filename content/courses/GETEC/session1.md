@@ -8,7 +8,7 @@ weight: 20
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+
 
 ## Videos presented in the course
 {{< youtube x1SgmFa0r04 >}}

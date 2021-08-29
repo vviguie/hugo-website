@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Urban Policy Choices  
+title: Climate Change and Urban Policy Choices [page under construction]
 linkTitle: Cities and climate
 summary: A course given in master GETEC in Sciences Po.
 date: '2021-01-24'
@@ -9,7 +9,13 @@ type: book
 
 A course given in [master GETEC](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html) in Sciences Po.
 
+{{< icon name="clock" pack="fas" >}} 2 hours per week, for 12 weeks
+
+{{< figure src="featured.jpg" caption="Image credit: [Pixabay](https://pixabay.com/fr/photos/l-architecture-immeubles-voitures-1837176/)">}}
+
 {{< toc hide_on="xl" >}}
+
+
 
 ## Objective of the course
 

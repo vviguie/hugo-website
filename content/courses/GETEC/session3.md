@@ -6,8 +6,6 @@ weight: 25
 ---
 # Health issues, heat waves and water availability
 
-Build a foundation in Python.
-
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
