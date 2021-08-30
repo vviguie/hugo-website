@@ -3,6 +3,7 @@ title: '6. Climate change mitigation I: Transport'
 date: '2021-01-01'
 type: book
 weight: 25
+hidden: true
 ---
 # Policies to reduce transport emissions in cities
 

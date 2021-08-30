@@ -3,6 +3,7 @@ title: 2. Climate change impacts I
 date: '2021-01-01'
 type: book
 weight: 25
+hidden: false
 ---
 # Key climate impacts and indirect impacts
 
@@ -10,39 +11,45 @@ weight: 25
 
 ## Videos
 
-#### Foreword
+### Foreword
 {{< youtube F3vbSSOXbPc >}}
  
-#### Key Impacts  
+### Key Impacts  
 {{< youtube HIzwBA3tHBk >}}
-#### Ecosystems and biodiversity  
+
+#### If you want to know more
+- [in French] [Observed climate change impacts in France](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf)
+- The [impacts with different levels of global warming](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#)
+
+### Ecosystems and biodiversity  
 {{< youtube XRCzT7TEz0Q >}}
-#### Agriculture and food security
+
+#### The reference document on this question
+- The [Global Assessment Report on Biodiversity and Ecosystem Services (2019)](https://ipbes.net/global-assessment) of IPBES
+
+### Agriculture and food security
 {{< youtube Uc4VpTWrbpA >}}
-#### Freshwater availability 
-{{< youtube DbuE2HKgoMo >}}
-#### War and migrations
+
+#### Some reference documents on these questions
+- [Food Security and Food Production Systems](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap7_FINAL.pdf) in the 5th IPCC report (2014)
+- The [special report on climate change and land (2019)](https://www.ipcc.ch/srccl/) of the IPCC
+- If you're interested by the adaptation of coffee farmers in Uganda, here are a few documents:
+  - [WRI report](https://www.wri.org/insights/ugandas-coffee-farmers-show-theres-no-one-size-fits-all-solution-climate-change-adaptation)
+  - [article in the National Geographic](https://www.nationalgeographic.com/science/article/climate-change-drought-uganda-coffee)
+  - [a technical note](https://www.sustaincoffee.org/assets/resources/Uganda_CountryProfile_Climate_Coffee_6-12.pdf)
+  - [The original agronomic study](ttps://www.researchgate.net/publication/263725702_The_Impact_of_Climate_Change_on_Coffee_in_Uganda_Lessons_from_a_case_study_in_the_Rwenzori_Mountains)
+
+### War and migrations
 {{< youtube CU7x8Niepbk >}}
 
-## To know more
+#### References cited in the video
+- Xu, C., Kohler, T.A., Lenton, T.M., Svenning, J.-C., Scheffer, M., 2020. Future of the human climate niche. PNAS 117, 11350–11355. https://doi.org/10.1073/pnas.1910114117
+- Mach, K.J., Kraan, C.M., Adger, W.N., Buhaug, H., Burke, M., Fearon, J.D., Field, C.B., Hendrix, C.S., Maystadt, J.-F., O’Loughlin, J., Roessler, P., Scheffran, J., Schultz, K.A., Uexkull, N. von, 2019. Climate as a risk factor for armed conflict. Nature 571, 193–197. https://doi.org/10.1038/s41586-019-1300-6
 
 
 
-#### References cited in the course
 
-## Case study group 1 : Cape Town water crisis
 
-Present, in less than 20 min, the Cape Town water crisis (mid-2017 to mid-2018).
 
-Explain what happened, which policies were implemented during the crisis, and which longer-terme policies were (or not) implemented to prevent such a crisis to happen again.
 
-So far, what were apparently the longer term consequences of this crisis? Did it create tensions or diminish them ?
-Could such a crisis happen in Europe, and could the policies/issues be transposed to European cities?
-
-#### A few references
-- https://en.wikipedia.org/wiki/Cape_Town_water_crisis
-- https://www.weforum.org/agenda/2019/08/cape-town-was-90-days-away-from-running-out-of-water-heres-how-it-averted-the-crisis/
-- https://theconversation.com/south-africas-real-water-crisis-not-understanding-whats-needed-126361
-- https://news.stanford.edu/2020/11/09/cape-towns-day-zero-drought-sign-things-come/
-- https://www.theguardian.com/world/2018/may/04/back-from-the-brink-how-cape-town-cracked-its-water-crisis
 

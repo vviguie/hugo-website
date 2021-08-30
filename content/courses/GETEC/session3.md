@@ -3,6 +3,7 @@ title: 3. Climate change impacts II
 date: '2021-01-01'
 type: book
 weight: 25
+hidden: false
 ---
 # Health issues and heat waves
 
@@ -12,8 +13,8 @@ weight: 25
 
 Here are the videos for the course:
 
-#### Health risks
-
+#### Freshwater availability 
+{{< youtube DbuE2HKgoMo >}}
 #### Heatwaves risk
 {{<youtube ipiBfS4cxy4>}}
 #### Adaptation to heatwavess
@@ -29,4 +30,5 @@ More ressources on heat and adaptation:
 - [in French] https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf
 - [in French] https://www.apc-paris.com/publication/comment-adapter-territoire-parisien-futures-canicules-pistes-strategies-dadaptation
 
-## Case study group 2
+
+

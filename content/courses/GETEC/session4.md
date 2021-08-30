@@ -1,10 +1,12 @@
 ---
-title: '4: Climate change impacts III : Natural disasters'
+title: '4: Climate change impacts III'
 date: '2021-01-01'
 type: book
 weight: 25
+hidden: false
 ---
-# Policies to reduce transport emissions in cities
+
+# Adaptation to natural disasters (floods, hurricanes etc.)
 
 <!--more-->
 
@@ -36,4 +38,4 @@ Here are the videos for the course:
 {{<youtube bBa9bVYKLP0>}}
 
 
-## Case study group 3
+

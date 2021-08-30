@@ -1,0 +1,60 @@
+## Case study group 1 
+### Cape Town water crisis
+
+Present, in less than 20 min, the Cape Town water crisis (mid-2017 to mid-2018).
+
+Explain what happened, which policies were implemented during the crisis, and which longer-terme policies were (or not) implemented to prevent such a crisis to happen again.
+
+So far, what were apparently the longer term consequences of this crisis? Did it create tensions or diminish them ?
+Could such a crisis happen in Europe, and could the policies/issues be transposed to European cities?
+
+### A few references
+- https://en.wikipedia.org/wiki/Cape_Town_water_crisis
+- https://www.weforum.org/agenda/2019/08/cape-town-was-90-days-away-from-running-out-of-water-heres-how-it-averted-the-crisis/
+- https://theconversation.com/south-africas-real-water-crisis-not-understanding-whats-needed-126361
+- https://news.stanford.edu/2020/11/09/cape-towns-day-zero-drought-sign-things-come/
+- https://www.theguardian.com/world/2018/may/04/back-from-the-brink-how-cape-town-cracked-its-water-crisis
+
+## Case study group 2
+
+Compare the strategies against heat waves in 3 cities: Paris, New York and Barcelona.
+
+### A few references
+- Barcelona climate plan: 
+  - https://cdn.locomotive.works/sites/5ab410c8a2f42204838f797e/content_entry5ae2f905a2f4220ae645f026/5afc10d27478206be9209e60/files/Bcn_Climate_Plan.pdf?1526468818
+  - https://www.barcelona.cat/barcelona-pel-clima/en/climate-plan/why-does-barcelona-need-climate-plan
+  - https://www.c40knowledgehub.org/s/article/Barcelona-s-Climate-Action-Plan-2018-2030?language=en_US
+- New york
+  - https://www1.nyc.gov/assets/orr/pdf/Cool_Neighborhoods_NYC_Report.pdf
+  - https://www.c40knowledgehub.org/s/article/Cool-Neighborhoods-NYC-A-comprehensive-approach-to-keep-communities-safe-in-extreme-heat?language=en_US
+- Paris
+  - https://cdn.paris.fr/paris/2019/07/24/1a706797eac9982aec6b767c56449240.pdf
+  - https://www.c40knowledgehub.org/s/article/Cities100-Paris-is-using-blue-and-green-infrastructure-to-tackle-city-heat?language=en_US
+  - https://www.theguardian.com/cities/2019/jul/31/i-followed-the-advice-for-paris-hottest-day-it-didnt-help
+  - https://www.apc-paris.com/actualite/canicule-solutions-pour-rafraichir-ville
+  - https://www.apc-paris.com/actualite/canicule-a-paris-ce-quil-faut-savoir-pour-se-proteger
+  - https://www.apc-paris.com/actualite/canicule-paris-2020-prevention-exceptionnelle
+- General ideas
+  - https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US
+  - (about a paper that I wrote) https://www.lemonde.fr/planete/article/2020/06/28/les-pistes-des-chercheurs-pour-maitriser-le-risque-caniculaire-qui-menace-l-ile-de-france_6044434_3244.html
+
+## Case study group 3
+### Cyclone Xynthia and its lessons
+During the night of February 27th, 2010, the cyclone Xynthia struck western France. More than 50 people died, one million homes were left without power and the total damages were above 1 billion euros. 
+
+The state and the local authorities were accused of mismanagement and bad preparation for such an event. Poor coastal development practices, gradually leading to an increased exposure to such a risk, were especially pinpointed. 
+
+Why did such a disaster happen, and were the lessons learned? Could a similar event happen nowadays?
+
+In this case study, I propose you to:
+- Briefly present the story of Xynthia cyclone
+- Analyze the institutional causes leading to the possibility of such a disaster, the lessons taken and what was done afterwards, both locally and nationally
+- Analyze to what extent these lessons were applied. Did they manage to limit the impacts of the following natural disasters which occurred in France?  (you can take the example of floods in the South of France or of hurricane Irma in Saint Berthélémy) (NB: on this last point, no definitive answer exists : make an educated guess and explain why).
+- This is a complex case study, many things have been written on this subject. Stick to the main messages, and try to find out the main controversies. 
+
+### A few references
+- https://www.lemonde.fr/climat/article/2018/10/15/les-intemperies-les-plus-meurtrieres-en-france-depuis-dix-ans_5369590_1652612.html
+- https://www.senat.fr/rap/r09-554/r09-554_mono.html
+- https://www.europe1.fr/faits-divers/A-t-on-tire-les-lecons-de-Xynthia-676522
+- https://www.ecologie.gouv.fr/sites/default/files/20170203_Bilan_Xynthia-v4.pdf
+- https://journals.openedition.org/cybergeo/23763#tocto2n8
