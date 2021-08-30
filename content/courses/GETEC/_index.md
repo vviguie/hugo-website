@@ -63,8 +63,9 @@ Here are a few ideas of websites with basic information on climate change (many 
 - https://www.campaigncc.org/climate_change/introduction 
 - https://www.nytimes.com/article/climate-change-global-warming-faq.html 
 - https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf [a nice document explaining how to teach climate change, really worth reading]
+- [in French] https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/
 
-If you are in France, it is worth trying to participate to a Fresque du climat event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French].
+If you are in France, it is worth trying to participate to a [Fresque du climat](https://fresqueduclimat.org/) event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French]. 
 
 Finally, for more information, here are the main reference documents (difficult to read in their entirety, but useful to look for specific questions) : 
 
