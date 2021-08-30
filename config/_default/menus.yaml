@@ -43,9 +43,9 @@ main:
     parent: outreach
     url: 'outreach/#talks'
     weight: 66
-#  - name: "Courses"
-#    url: '/courses/'
-#    weight: 80
+  - name: "Courses"
+    url: '/courses/'
+    weight: 80
   - name: "Contact"
     url: '#contact'
     weight: 90
