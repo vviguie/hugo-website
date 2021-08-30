@@ -32,10 +32,26 @@ There are 12 sessions, grouped into 4 themes:
 -	Implementing climate policies (3 sessions)
 -	Cross-cutting issues (3 sessions) 
 
-# Courses in this program
+## Courses in this program
 
 {{< list_children >}}
 
+## Self-assessment quiz
+To know your knowledge level on climate change.
+
+It is recommended that you know what to answer to the following questions, before the beginning of the semester:
+{{< spoiler text="Click to unroll the questions" >}}
+-	Could you explain simply what is the greenhouse effect and what is climate change ?
+-	What are the main greenhouse gases, and how are they produced by human activities?
+-	Why do we say that red meat consumption is an important cause of greenhouse gases emissions?
+-	If we stopped all GHG emissions now, how long would it take for the climate to come back to normal?
+-	What is the link between climate change and ozone layer?
+-	What is the link between climate change and air pollution?
+-	What is the link between climate change and global biodiverse decrease?
+-	What will be the main impacts of climate change in a city like Paris?
+-	What will be the main impacts of climate change in a city like Madrid?
+-	What will be the main impacts of climate change in a city like New York?
+{{< /spoiler >}}
 
 ## FAQs
 
