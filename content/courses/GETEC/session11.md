@@ -9,7 +9,7 @@ hidden: false
 
 <!--more-->
 
-Now that we have studied the main drivers of emissions in cities, how can we frame a mitigation strategy in practice?
+Now that we have studied the main drivers of emissions in cities, how can we frame a mitigation strategy in practice? Which climate targets should we choose, which schedule, at what cost, with the help of whom?...
 
 ### Mitigation planning
 {{< youtube kaQ7wa2U4Ag>}}
