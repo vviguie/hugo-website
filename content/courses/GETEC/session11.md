@@ -2,12 +2,14 @@
 title: '11: Implementing climate policies III'
 date: '2021-01-01'
 type: book
-weight: 26
+weight: 70
 hidden: false
 ---
 # Framing a mitigation strategy
 
 <!--more-->
+
+Now that we have studied the main drivers of emissions in cities, how can we frame a mitigation strategy in practice?
 
 ### Mitigation planning
 {{< youtube kaQ7wa2U4Ag>}}

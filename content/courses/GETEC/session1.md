@@ -8,9 +8,28 @@ weight: 20
 
 <!--more-->
 
+In this lecture, we quickly cover the basics of the greenhouse effect and of climate change. It is an introductory lesson meant to be sure that these notions are correctly understood, as they are important to understand the issues around urban climate policies.
+
 ## Presentation
 
 [{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/08/Course-1-GETEC-Viguie.pdf)
+
+## Self-assessment quiz
+To know your knowledge level on climate change.
+
+It is recommended that you know what to answer to the following questions, to take the most of the next sessions.
+{{< spoiler text="Click to unroll the questions" >}}
+-	Could you explain simply what is the greenhouse effect and what is climate change ?
+-	What are the main greenhouse gases, and how are they produced by human activities?
+-	Why do we say that red meat consumption is an important cause of greenhouse gases emissions?
+-	If we stopped all GHG emissions now, how long would it take for the climate to come back to normal?
+-	What is the link between climate change and ozone layer?
+-	What is the link between climate change and air pollution?
+-	What is the link between climate change and global biodiverse decrease?
+-	What will be the main impacts of climate change in a city like Paris?
+-	What will be the main impacts of climate change in a city like Madrid?
+-	What will be the main impacts of climate change in a city like New York?
+{{< /spoiler >}}
 
 ## Videos presented in the course
 

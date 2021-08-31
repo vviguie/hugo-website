@@ -2,11 +2,13 @@
 title: '6. Climate change mitigation I'
 date: '2021-01-01'
 type: book
-weight: 25
+weight: 45
 ---
 # Transport emissions in cities
 
 <!--more-->
+
+In this lecture, we cover the first part of emissions in cities: transport emissions. 
 
 ## Videos
 

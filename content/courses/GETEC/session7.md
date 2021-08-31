@@ -2,18 +2,20 @@
 title: '7. Cross-cutting issues I'
 date: '2021-01-01'
 type: book
-weight: 25
+weight: 50
 hidden: false
 ---
 # Urban form and land planning
 
 <!--more-->
 
+In this lecture, we discuss an important part of urban policies: land planning. Land planning plays a key role to get adapted to climate change impacts, but also to reduce emissions, and to mitigate  losses in ecosystem services. It also plays a key role on social and economic issues. How can we conciliate all these questions? Are there synergies and trade-offs?
+
 ## Videos
 ### Urban planning and urban design
 {{<youtube -6rdn12GhHs>}}
  
-References
+#### References
 - https://www.theguardian.com/cities/2015/feb/11/tale-four-cities-london-delhi-tokyo-bogota-data (original study is here: https://lsecities.net/archives/category/research-projects/resource-urbanisms)
 - https://lsecities.net/wp-content/uploads/2012/12/the-electric-city-newspaper.pdf page 16 to 22
 ### Urban sprawl

@@ -2,13 +2,15 @@
 title: '5: Implementing climate policies I'
 date: '2021-01-01'
 type: book
-weight: 25
+weight: 40
 hidden: false
 ---
 
 # Framing an adaptation strategy.
 
 <!--more-->
+
+Now that we have studied the main impacts of climate change, and a few adaptation policies, how can we frame an adaptation strategy in practice?
 
 ## Videos
 

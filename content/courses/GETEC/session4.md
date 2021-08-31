@@ -2,13 +2,16 @@
 title: '4: Climate change impacts III'
 date: '2021-01-01'
 type: book
-weight: 25
+weight: 35
 hidden: false
 ---
 
 # Adaptation to natural disasters (floods, hurricanes etc.)
 
 <!--more-->
+In this lecture, we cover the second type of direct impacts : natural disasters. Climate change can induce natural disasters in a number of ways : hurricanes, river floods, coastal floods, landslides, wildfires etc.
+
+Adaptation to these impacts imposes changes in the way traditional natural risk prevention is done. this is especially due to the progressive nature of climate change, and to the quantitative uncertainties surrounding the exact magnitude of its impacts.
 
 ## Videos
 

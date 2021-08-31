@@ -9,6 +9,12 @@ hidden: false
 
 <!--more-->
 
+In this lecture, we cover the main impacts of climate change. On a given territory, climate change can have basically two types of impacts:
+- Direct impacts, such as floods, heat waves etc. These impact directly affect the territory
+- Indirect impacts, i.e. impacts which indirectly affect a territory via trade, the movements of population etc. They include population migrations, the risk of war, the destabilization of food markets etc.
+
+Both direct and indirect impacts can affect cities, but the adaptation strategies are competely different. 
+
 ## Videos
 
 ### Foreword
