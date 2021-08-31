@@ -33,6 +33,11 @@ Please also watch this video: Sébastien Maire - Paris and the Resilience Approa
 ## To know more
 [optional] I suggest you to read : [CEREMA The resilience compass - Benchmarks for territorial resilience](https://www.cerema.fr/fr/centre-ressources/boutique/resilience-compass-benchmarks-territorial-resilience) (it can be downloaded freely from the website of CEREMA).
 
+If you want to know more about the state of adaptation policies in France, you can read:
+- [In French] The report of the French Senate of the country readiness to cope with climate impacts https://www.senat.fr/espace_presse/actualites/201905/adaptation_de_la_france_aux_changements_climatiques_a_lhorizon_2050.html
+- [The 2021 report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
+
+
 ### References cited in the videos
 - [first video] [Hallegatte, S., F. Lecocq, and C. de Perthuis. 2011. “Designing Climate Change Adaptation Policies: An Economic Framework.” Policy Research Working Paper Series.](https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-5568)
 - [second video] [Magnan, A. K., E.l.f. Schipper, M. Burkett, S. Bharwani, I. Burton, S. Eriksen, F. Gemenne, J. Schaar, and G. Ziervogel. 2016. “Addressing the Risk of Maladaptation to Climate Change.” Wiley Interdisciplinary Reviews: Climate Change 7 (5): 646–65.](https://doi.org/10.1002/wcc.409)
