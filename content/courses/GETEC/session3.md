@@ -9,7 +9,7 @@ hidden: false
 
 <!--more-->
 In this lecture, we cover a first type of direct impacts : 
-- The impacts on freshwater avilability
+- The impacts on freshwater availability
 - The increase in heat wave risk
 
 Adaptation to these impacts are important elements of adaptation strategies of numerous cities around the world. 
