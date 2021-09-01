@@ -1,5 +1,5 @@
 ---
-title: "Les territoires français face au défi climatique : attńuation et adaptation"
+title: "Les territoires français face au défi climatique : atténuation et adaptation"
 date: 2013-01-01
 publishDate: 2021-06-28T18:08:49.929257Z
 authors: ["Vincent Viguié", "Stéphane Hallegatte"]
