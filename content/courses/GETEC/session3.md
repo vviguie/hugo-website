@@ -18,18 +18,26 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 
 Here are the videos for the course:
 
-#### Freshwater availability 
+### Freshwater availability 
 {{< youtube DbuE2HKgoMo >}}
-#### Heatwaves risk
+
+#### To know more
+- A [C40 webpage](https://www.c40.org/other/the-future-we-don-t-want-restoring-the-flow) about freshwater availability in various cities across the world.
+- On C40 website, examples of adaptation policies in:
+  - [New York](https://www.c40knowledgehub.org/s/article/Cities100-In-New-York-City-effective-water-management-cuts-costs-and-carbon-and-boosts-resilience?language=en_US)
+  - [Lisbon](https://www.c40knowledgehub.org/s/article/Cities100-Lisbon-is-future-proofing-its-water-supply-with-a-recycled-water-programme-and-rain-fed-greenspaces?language=en_US)
+  - [Delhi](https://www.c40knowledgehub.org/s/article/Cities100-Delhi-is-providing-clean-and-free-water-for-all-and-investing-in-a-water-secure-future?language=en_US)
+- To know more about water and climate change in Paris, see [this document](https://www.apc-paris.com/actualite/changement-climatique-a-paris-quels-impacts-sur-leau) [in French].
+
+### Heatwaves
+#### Heatwaves and health issues
 {{<youtube ipiBfS4cxy4>}}
-#### Adaptation to heatwavess
+#### Adaptation to heatwaves
 {{<youtube Xovo8Lc1qPo>}}
  
-## To know more
+#### To know more
 
-To know more about water and climate change in Paris, see [this document](https://www.apc-paris.com/actualite/changement-climatique-a-paris-quels-impacts-sur-leau) [in French].
-
-More ressources on heat and adaptation:
+More resources on heat and adaptation:
 - https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US
 - https://www.epa.gov/heatislands/adapting-heat
 - [in French] https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf

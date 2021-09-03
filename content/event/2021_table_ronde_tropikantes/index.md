@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Risques face au changement climatique: inégalités d'exposition et adaptation en milieu urbain"
+title: "Table ronde: Risques face au changement climatique, inégalités d'exposition et adaptation en milieu urbain"
 event: Les Tropikantes
 event_url: https://lestropikantes.com/
 location: Jardin d’agronomie Tropicale de Paris

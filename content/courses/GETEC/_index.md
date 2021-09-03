@@ -32,9 +32,21 @@ There are 12 sessions, grouped into 4 themes:
 -	Implementing climate policies (3 sessions)
 -	Cross-cutting issues (3 sessions) 
 
-## Courses in this program
+#### Courses in this program
 
 {{< list_children >}}
+
+## General references [under consruction]
+
+- [C40 knowledge hub](https://www.c40knowledgehub.org) *"Cutting-edge insights and practical resources from leading climate cities."* This website provides synthetic reports about main climate-related issues in cities, as well as numerous examples of adaptation and mitigation policies implemented in cities around the world. 
+- [ICLEI website](https://www.iclei.org/) also provides similar resources.
+- About climate change impacts : World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub)
+
+For more information, here are the main reference documents (difficult to read in their entirety, but useful to look for specific questions) : 
+
+- [IPCC, ed. 2014. “Chapter 8: Urban Areas.” In Climate Change 2014: Impacts, Adaptation, and Vulnerability](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap8_FINAL.pdf ). Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (Eds.)]. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. 
+- [IPCC, ed. 2014. “Chapter 12: Human Settlements, Infrastructure and Spatial Planning.” In Climate Change 2014: Mitigation of Climate Change](https://www.ipcc.ch/report/ar5/wg3/human-settlements-infrastructure-and-spatial-planning/). Cambridge: Cambridge University Press. 
+- Rosenzweig, C., Solecki, W., Romero-Lankao, P., Mehrotra, S., Dhakal, S., & Ali Ibrahim, S. (Eds.). (2018). [Climate Change and Cities: Second Assessment Report of the Urban Climate Change Research Network.](https://uccrn.ei.columbia.edu/arc3.2 ) Cambridge University Press.
 
 
 ## FAQs
@@ -51,11 +63,6 @@ Here are a few ideas of websites with basic information on climate change (many 
 
 If you are in France, it is worth trying to participate to a [Fresque du climat](https://fresqueduclimat.org/) event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French]. 
 
-Finally, for more information, here are the main reference documents (difficult to read in their entirety, but useful to look for specific questions) : 
-
-- [IPCC, ed. 2014. “Chapter 8: Urban Areas.”](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap8_FINAL.pdf ) In Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L. White (Eds.)]. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. 
-- [IPCC, ed. 2014. “Chapter 12: Human Settlements, Infrastructure and Spatial Planning.”](https://www.ipcc.ch/report/ar5/wg3/human-settlements-infrastructure-and-spatial-planning/) In Climate Change 2014: Mitigation of Climate Change: Contribution of Working Group III to the Fifth Assessment Report of the IIntergovernmental Panel on Climate Change. Cambridge: Cambridge University Press. 
-- Rosenzweig, C., Solecki, W., Romero-Lankao, P., Mehrotra, S., Dhakal, S., & Ali Ibrahim, S. (Eds.). (2018). [Climate Change and Cities: Second Assessment Report of the Urban Climate Change Research Network.](https://uccrn.ei.columbia.edu/arc3.2 ) Cambridge University Press. 
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="session1" >}}
