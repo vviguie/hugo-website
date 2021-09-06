@@ -1,29 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Invitation à 'Entendez-vous l'éco ?' (France Culture)"
-event: Entendez-vous l'éco ?
-event_url: https://www.franceculture.fr/emissions/entendez-vous-leco
-location: Sur France Culture ou en replay
+title: "Interview par France Info"
+event:
+event_url: 
+location: https://www.francetvinfo.fr/meteo/canicule/comment-la-climatisation-meilleure-ennemie-des-canicules-a-t-elle-pris-l-humanite-a-son-piege_4703041.html
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
-abstract: "Notions, pensées, auteurs, débats d’actualité: chaque jour, du lundi au jeudi, Entendez-vous l’éco ? fait résonner toutes les déclinaisons de l’économie et de son impact sur la société. Pour que, dans le brouhaha d’une actualité souvent saturée, l’éco parvienne jusqu’à nous…
-
-L’économie n’est pas qu’une discipline de spécialistes. C'est un champ d’idées, éternellement en friche, un domaine qui tâtonne et innove, incontournable pour celui qui s’intéresse à son temps. Traverser les grands courants économiques, c’est envisager tous les chemins possibles, ceux qui ont été empruntés, ici ou ailleurs, et ceux qui restent à inventer. "
+summary:  
+abstract: Consommation d'énergie, émission de gaz à effet de serre... Comment la climatisation, meilleure ennemie des canicules, piège l'humanité. D'un équipement de confort, la climatisation est en passe de devenir indispensable dans de plus en plus de régions du monde. Pourtant, son utilisation joue un rôle non négligeable dans le réchauffement climatique. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-09-06T14:00:00+02:00
-date_end: 2021-09-06T15:00:00+02:00
-all_day: false
+date: 2021-08-22T00:00:00+02:00
+date_end: 2021-08-22T00:00:00+02:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-09-02T15:39:05+02:00
+publishDate: 2021-09-03T14:23:16+02:00
 
 authors: []
 tags: []
@@ -52,11 +50,10 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: 
-
+url_video:
 links:
-- name: Replay
-  url: https://www.franceculture.fr/emissions/entendez-vous-leco
+- name: article
+  url: https://www.francetvinfo.fr/meteo/canicule/comment-la-climatisation-meilleure-ennemie-des-canicules-a-t-elle-pris-l-humanite-a-son-piege_4703041.html
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

@@ -10,9 +10,41 @@ weight: 20
 
 In this lecture, we quickly cover the basics of the greenhouse effect and of climate change. It is an introductory lesson meant to be sure that these notions are correctly understood, as they are important to understand the issues around urban climate policies.
 
-## Presentation
+## Main presentation
 
 [{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/08/Course-1-GETEC-Viguie.pdf)
+
+#### Video presented in the course 
+CO2 concentration in the atmosphere during one year.
+
+{{< youtube x1SgmFa0r04 >}}
+
+## Evolution of greenhouse gases emissions
+
+
+### How much time do we have to act?
+{{< youtube _sbCbWEnbjs>}}
+
+#### See also
+Another explanation of the carbon budget:
+
+{{< youtube R071WPD5MCc >}}
+
+#### References
+- [The carbon budget clock](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263) and its [explanation](https://www.mcc-berlin.net/en/research/co2-budget.html)
+- For more info: https://carbontracker.org/carbon-budgets-where-are-we-now/ 
+
+### The historical evolution of GHG emissions
+
+{{< youtube Gt96OuvvzzA>}}
+
+#### The impacty of Covid 19 on emissions
+
+{{<youtube y43Yc8rphLQ>}}
+
+#### References
+All the figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/).
+
 
 ## Self-assessment quiz
 To know your knowledge level on climate change.
@@ -31,13 +63,6 @@ It is recommended that you know what to answer to the following questions, to ta
 -	What will be the main impacts of climate change in a city like New York?
 {{< /spoiler >}}
 
-## Videos presented in the course
-
-### Carbon concentration during one year
-{{< youtube x1SgmFa0r04 >}}
-
-### The carbon budget
-{{< youtube R071WPD5MCc >}}
 
 ## References cited in the course
 - [Planetary boundaries](https://science.sciencemag.org/content/347/6223/1259855)
@@ -51,6 +76,7 @@ It is recommended that you know what to answer to the following questions, to ta
 
 ## To know more
 
+- The [Global Carbon project](https://www.globalcarbonproject.org/products/internetResources.htm#General) references many internet resources on climate change and emissions.
 - The [EPA website](https://www.epa.gov/ghgemissions/overview-greenhouse-gases) provides a nice introduction to what is climate change and what are greenhouse gases.
 - The [WRI website](https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector) and its [Climate Watch](https://www.wri.org/initiatives/climate-watch) platform, provides clear explanations about where the emissions come from, and the link with economic activity.
 - [Map of observed temperature changes everywhere in the world](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) on carbonbrief.org.
