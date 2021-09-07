@@ -3,7 +3,7 @@
 
 title: "Invitation à 'Entendez-vous l'éco ?' (France Culture)"
 event: Entendez-vous l'éco ?
-event_url: https://www.franceculture.fr/emissions/entendez-vous-leco
+event_url: https://www.franceculture.fr/emissions/entendez-vous-l-eco/quand-on-etouffe-en-ville
 location: Sur France Culture ou en replay
 address:
   street:
@@ -56,7 +56,7 @@ url_video:
 
 links:
 - name: Replay
-  url: https://www.franceculture.fr/emissions/entendez-vous-leco
+  url: https://www.franceculture.fr/emissions/entendez-vous-l-eco/quand-on-etouffe-en-ville
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
