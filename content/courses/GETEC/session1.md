@@ -36,6 +36,7 @@ Another explanation of the carbon budget:
 
 ### The historical evolution of GHG emissions
 
+#### Until 2020
 {{< youtube Gt96OuvvzzA>}}
 
 #### The impacty of Covid 19 on emissions
@@ -45,6 +46,12 @@ Another explanation of the carbon budget:
 #### References
 All the figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/).
 
+### Who is responsible for climate change?
+
+[{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/09/who_responsible.pdf)
+
+#### References
+The figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/), the report "[Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/2-causes-du-changement-climatique)", and the [2021 report](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/) of the French High Panel for Climate Change (Haut Conseil pour le Climat).
 
 ## Self-assessment quiz
 To know your knowledge level on climate change.
