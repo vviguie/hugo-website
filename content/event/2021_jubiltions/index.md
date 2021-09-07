@@ -62,6 +62,8 @@ url_video:
 links:
   - name: URL
     url: "https://www.futurs-urbains.fr/fileadmin/contributeurs/Labex-Futurs-Urbains/DIX_ANS_LABEX/10_ans_LabEx_Futurs_Urbains_-_Jubilations_urbaines.pdf"
+  - name: Résultat de l'atelier d'écriture
+    url: https://parvis.hypotheses.org/2661
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
