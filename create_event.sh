@@ -1,0 +1,1 @@
+hugo new  --kind event event/2021_truc
