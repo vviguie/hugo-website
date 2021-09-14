@@ -34,7 +34,9 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 - Some background on cities networks https://www.nature.com/news/polopoly_fs/1.20668!/menu/main/topColumns/topLeftColumn/pdf/537611a.pdf
 
 ## More references
-- The Carbon Climate Registry at http://carbonn.org/climateregistry/ presents greenhouse gas emissions commitments, emissions inventories and climate mitigation/adaptation actions reported by local governments. 
-- So does the NAZCA website https://climateaction.unfccc.int/
+- [Center for Climate and Energy Solutions: "City climate policies"](https://www.c2es.org/content/city-climate-policy/)
+- [C40 Cities and Sustainia: "Cities100: 100 Solutions for Climate Action in Cities" (report)](https://www.climaterealityproject.org/sites/climaterealityproject.org/files/CITIES100_2016.pdf)
+- [The Carbon Climate Registry](http://carbonn.org/climateregistry/) presents greenhouse gas emissions commitments, emissions inventories and climate mitigation/adaptation actions reported by local governments. 
+- So does the [NAZCA website](https://climateaction.unfccc.int/)
 - [The different ways to compensate emissions](http://compensating%20emissions%20https//www.c40knowledgehub.org/s/article/Defining-carbon-neutrality-for-cities-and-managing-residual-emissions-Cities-perspective-and-guidance?language=en_US) (NB: this is controversial, for good reasons)
 

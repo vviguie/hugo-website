@@ -30,6 +30,7 @@ CO2 concentration in the atmosphere during one year.
 - [in French] [Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/2-causes-du-changement-climatique)
 - [Global carbon project](https://www.globalcarbonproject.org/) for the latest figures about the greenhouse gases emissions and concentration in the atmosphere
 - The ["spaghetti graph"](https://www.wri.org/data/world-greenhouse-gas-emissions-2016) of all greenhouse gases emissions in the world.
+
 ## Evolution of greenhouse gases emissions
 
 
@@ -87,7 +88,10 @@ It is recommended that you know what to answer to the following questions, to ta
 - The [Global Carbon project](https://www.globalcarbonproject.org/products/internetResources.htm#General) references many internet resources on climate change and emissions.
 - The [EPA website](https://www.epa.gov/ghgemissions/overview-greenhouse-gases) provides a nice introduction to what is climate change and what are greenhouse gases.
 - The [WRI website](https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector) and its [Climate Watch](https://www.wri.org/initiatives/climate-watch) platform, provides clear explanations about where the emissions come from, and the link with economic activity.
+- [MIT](https://climate.mit.edu/) and [NASA](https://climate.nasa.gov/) websites on climate change provide clear introductory articles and great infographics. So does [Imperial College website](https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/)
 - [Map of observed temperature changes everywhere in the world](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) on carbonbrief.org.
 - The [Interactive atlas of the last IPCC report](https://interactive-atlas.ipcc.ch/)
 - Climate Action Tracker (https://climateactiontracker.org/)
+Here are a few ideas of websites with basic information on climate change (many other exist) :
+- [Our World in data](https://ourworldindata.org/) to get key figures on climate change.
 

@@ -14,14 +14,10 @@ In this lecture, we cover a first type of direct impacts :
 
 Adaptation to these impacts are important elements of adaptation strategies of numerous cities around the world. 
 
-## Videos
-
-Here are the videos for the course:
-
-### Freshwater availability 
+## Freshwater availability 
 {{< youtube DbuE2HKgoMo >}}
 
-#### To know more
+### To know more
 - A [C40 webpage](https://www.c40.org/other/the-future-we-don-t-want-restoring-the-flow) about freshwater availability in various cities across the world.
 - On C40 website, examples of adaptation policies in:
   - [New York](https://www.c40knowledgehub.org/s/article/Cities100-In-New-York-City-effective-water-management-cuts-costs-and-carbon-and-boosts-resilience?language=en_US)
@@ -29,19 +25,20 @@ Here are the videos for the course:
   - [Delhi](https://www.c40knowledgehub.org/s/article/Cities100-Delhi-is-providing-clean-and-free-water-for-all-and-investing-in-a-water-secure-future?language=en_US)
 - To know more about water and climate change in Paris, see [this document](https://www.apc-paris.com/actualite/changement-climatique-a-paris-quels-impacts-sur-leau) [in French].
 
-### Heatwaves
-#### Heatwaves and health issues
+## Heatwaves
+### Heatwaves and health issues
 {{<youtube ipiBfS4cxy4>}}
-#### Adaptation to heatwaves
+### Adaptation to heatwaves
 {{<youtube Xovo8Lc1qPo>}}
  
-#### To know more
+### To know more
 
 More resources on heat and adaptation:
-- https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US
-- https://www.epa.gov/heatislands/adapting-heat
-- [in French] https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf
-- [in French] https://www.apc-paris.com/publication/comment-adapter-territoire-parisien-futures-canicules-pistes-strategies-dadaptation
+- [How to adapt your city to extreme heat?](https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US) on C40 website
+- [Adapting to Heat](https://www.epa.gov/heatislands/adapting-heat) on 
+U.S. Environmental Protection Agency website
+- The [explanation of heat island effects](https://climate.mit.edu/explainers/urban-heat-islands) on MIT website
+- [in French] [What is the heat island effect?](https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf) and [How can we adapt Paris to heatwaves?](https://www.apc-paris.com/publication/comment-adapter-territoire-parisien-futures-canicules-pistes-strategies-dadaptation) by the Agence Parisienne du Climat
 
 
 

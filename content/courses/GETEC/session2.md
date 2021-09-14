@@ -15,25 +15,24 @@ In this lecture, we cover the main impacts of climate change. On a given territo
 
 Both direct and indirect impacts can affect cities, but the adaptation strategies are competely different. 
 
-## Videos
-
-### Foreword
+## Foreword
 {{< youtube F3vbSSOXbPc >}}
  
-### Key Impacts  
+## Key Impacts  
 {{< youtube HIzwBA3tHBk >}}
 
 #### If you want to know more
 - [in French] [Observed climate change impacts in France](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf)
 - The [impacts with different levels of global warming](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#)
+- [How we can model the climate](https://climate.mit.edu/explainers/climate-models) on MIT website.s
 
-### Ecosystems and biodiversity  
+## Ecosystems and biodiversity  
 {{< youtube XRCzT7TEz0Q >}}
 
 #### The reference document on this question
 - The [Global Assessment Report on Biodiversity and Ecosystem Services (2019)](https://ipbes.net/global-assessment) of IPBES
 
-### Agriculture and food security
+## Agriculture and food security
 {{< youtube Uc4VpTWrbpA >}}
 
 #### Some reference documents on these questions
@@ -45,14 +44,16 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
   - [a technical note](https://www.sustaincoffee.org/assets/resources/Uganda_CountryProfile_Climate_Coffee_6-12.pdf)
   - [The original agronomic study](ttps://www.researchgate.net/publication/263725702_The_Impact_of_Climate_Change_on_Coffee_in_Uganda_Lessons_from_a_case_study_in_the_Rwenzori_Mountains)
 
-### War and migrations
+## War and migrations
 {{< youtube CU7x8Niepbk >}}
 
 #### References cited in the video
 - Xu, C., Kohler, T.A., Lenton, T.M., Svenning, J.-C., Scheffer, M., 2020. Future of the human climate niche. PNAS 117, 11350–11355. https://doi.org/10.1073/pnas.1910114117
 - Mach, K.J., Kraan, C.M., Adger, W.N., Buhaug, H., Burke, M., Fearon, J.D., Field, C.B., Hendrix, C.S., Maystadt, J.-F., O’Loughlin, J., Roessler, P., Scheffran, J., Schultz, K.A., Uexkull, N. von, 2019. Climate as a risk factor for armed conflict. Nature 571, 193–197. https://doi.org/10.1038/s41586-019-1300-6
 
-
+## General references
+- [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. It was later developped into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
+- [Collapse: How Societies Choose to Fail or Succeed](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (2005) by Jared Diamond. He reviews the causes of historical and pre-historical instances of societal collapse, particularly those involving significant influences from environmental changes.
 
 
 

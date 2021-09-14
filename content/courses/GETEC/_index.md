@@ -36,11 +36,12 @@ There are 12 sessions, grouped into 4 themes:
 
 {{< list_children >}}
 
-## General references [under consruction]
+## General references
 
+- [Cities and Climate Change (article)](https://climate.mit.edu/explainers/cities-and-climate-change) on MIT website
+- [U.S. National Climate Assessment: "Built Environment, Urban Systems, and Cities" (report)](https://nca2018.globalchange.gov/chapter/11/)
 - [C40 knowledge hub](https://www.c40knowledgehub.org) *"Cutting-edge insights and practical resources from leading climate cities."* This website provides synthetic reports about main climate-related issues in cities, as well as numerous examples of adaptation and mitigation policies implemented in cities around the world. 
-- [ICLEI website](https://www.iclei.org/) also provides similar resources.
-- About climate change impacts : World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub)
+- [Carbon Brief](https://www.carbonbrief.org) provides clear articles about the latest research on climate change and climate policies. Their newsletter is a must-read for anyone interested by climate change.
 
 For more information, here are the main reference documents (difficult to read in their entirety, but useful to look for specific questions) : 
 
@@ -55,10 +56,9 @@ For more information, here are the main reference documents (difficult to read i
 A good understanding of the physical mechanisms behind climate change, the origin of greenhouse gases emissions, and the main consequences of climate changes, is required.
 
 Here are a few ideas of websites with basic information on climate change (many other exist) :
-- https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/ 
-- https://www.campaigncc.org/climate_change/introduction 
-- https://www.nytimes.com/article/climate-change-global-warming-faq.html 
-- https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf [a nice document explaining how to teach climate change, really worth reading]
+- [MIT](https://climate.mit.edu/) and [NASA](https://climate.nasa.gov/) websites on climate change provide clear introductory articles and great infographics. So does [Imperial College website](https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/)
+- [NY Times FAQ on climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html)
+- [A nice document by IPCC explaining how to teach climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), really worth reading]
 - [in French] https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/
 
 If you are in France, it is worth trying to participate to a [Fresque du climat](https://fresqueduclimat.org/) event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French]. 
