@@ -19,6 +19,7 @@ TP de modélisation
 <!--more-->
 {{< icon name="clock" pack="fas" >}} 3h
 
+{{< figure src="TP_EEET.jpg" title="Exemple de carte de densité de population">}}
 
 ## Fichiers du TP
 {{< icon name="download" pack="fas" >}} [fichiers du TP](http://www.centre-cired.fr/wp-content/uploads/2021/08/TP_EEET.zip)
