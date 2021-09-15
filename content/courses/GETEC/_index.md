@@ -4,6 +4,14 @@ linkTitle: Cities and climate
 summary: A course given in master GETEC in Sciences Po.
 date: '2021-01-24'
 type: book
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: false
+  notice: >-
+    Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.
 ---
 
 

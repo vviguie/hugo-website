@@ -4,6 +4,14 @@ date: '2021-01-01'
 type: book
 weight: 25
 toc: true
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: false
+  notice: >-
+    Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.
 ---
 
 TP de modélisation
@@ -84,6 +92,8 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 {{< figure src="GPE.png">}}
 
 ## Script
+
+{{< spoiler text="Cliquer ici pour afficher le script Python pour le TP" >}}
 
 ```python
 
@@ -215,4 +225,10 @@ sc1_surface_urba = np.sum(outNedum['coeff_land']*(outNedum['simul_2030_sc1_BAU_l
 carto(outNedum['part_inond'])
 
 ```
+{{< /spoiler >}}
+
+## Pour en savoir plus
+- Le livre de référence sur l'économie urbaine: Fujita, M., 1989. Urban Economic Theory: Land Use and City Size. Cambridge University Press, Cambridge [Cambridgeshire].
+- Un cours du MIT sur le même thème: Brueckner, J.K., 2012. [Lectures on Urban Economics](https://mitpress.mit.edu/books/lectures-urban-economics). MIT Press, Cambridge, Mass.
+- Un article dont ce TP est tiré: Viguié, V., Hallegatte, S., 2012. [Trade-offs and synergies in urban climate policies](https://hal-enpc.archives-ouvertes.fr/hal-00716121/file/postprint.pdf). Nature Climate Change 2, 334–337. https://doi.org/10.1038/nclimate1434
 

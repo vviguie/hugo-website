@@ -16,7 +16,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "https://www.academie-sciences.fr/pdf/conf/climat2020/Viguie_Vincent.pdf"
-url_video: "https://www.youtube.com/watch?v=75Xe4AArSSY"
+url_video: "https://youtu.be/_5IqLAHfkDQ?t=7445"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

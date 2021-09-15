@@ -3,6 +3,14 @@ title: '1. Cross-cutting issue I: Introduction'
 date: '2021-01-01'
 type: book
 weight: 20
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: false
+  notice: >-
+    Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.
 ---
 # Introduction to climate change and greenhouse gases emissions
 

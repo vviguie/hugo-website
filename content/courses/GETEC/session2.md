@@ -4,6 +4,14 @@ date: '2021-01-01'
 type: book
 weight: 25
 hidden: false
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: false
+  notice: >-
+    Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.
 ---
 # Key climate impacts and indirect impacts
 
