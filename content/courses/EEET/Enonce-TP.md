@@ -41,7 +41,7 @@ Ces politiques sont supposées avoir des effets sur les déplacements domicile-t
 
 Par ailleurs, on définit un scénario d’évolution des variables socio-économiques utilisées en entrée de NEDUM-2D entre 2010 et 2030. Ce scénario de référence est défini comme étant le scénario « Central hypothesis for 2030 » dans le tableau ci-dessous (les hypothèses basses et hautes servent à des études de sensibilité des résultats qui ne sont pas demandées dans ce TP). On compare les résultats en sortie du modèle pour ces entrées en appliquant ou non les politiques précédemment citées.
 
-{{< figure src="/table.png" title="Scenarios" >}}
+{{< figure src="/table.png" title="Scénarios" >}}
 
 ## Description des données
 Le fichier ‘NEDUM_output.csv’ contient les valeurs de 4 variables de sortie pour des simulations de NEDUM-2D pour 5 différents scénarios (scénario de référence pour les variables + activation ou non des politiques). Chaque variable se présente sous la forme d’un vecteur avec les valeurs pour chaque point de grille de l’espace utilisé pour l’application de NEDUM-2D à l’agglomération parisienne (6541 “pixels” de 1km x 1km).

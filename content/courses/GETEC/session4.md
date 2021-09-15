@@ -48,7 +48,7 @@ Adaptation to these impacts imposes changes in the way traditional natural risk 
   - [In France (2)](https://www.institutparisregion.fr/fileadmin/NewEtudes/Etude_1234/NR_709_web.pdf) 
   - [In Netherlands](https://psmag.com/environment/are-the-floating-houses-of-the-netherlands-a-solution-against-the-rising-seas)
 - [Description of the systems of insurance against natural disasters in several countries](https://www.sciencedirect.com/science/article/pii/S221242091530159X)
-  - [in French] another article on the same topic: https://www.cairn.info/revue-vie-et-sciences-de-l-entreprise-2014-1-page-60.htm?contenu=article
+  - [in French] [another article on the same topic](https://www.cairn.info/revue-vie-et-sciences-de-l-entreprise-2014-1-page-60.htm?contenu=article), and an [op-ed in Le Monde](https://www.lemonde.fr/idees/article/2021/01/30/assurer-des-biens-dans-un-climat-deregle-coutera-de-plus-en-plus-cher_6068196_3232.html) about the limits of national solidarity to cope with climate-related disasters.
 - Finally, as a reference, [a manual on disaster risk management and climate change in cities](https://uccrn.ei.columbia.edu/sites/default/files/content/pubs/ARC3.2-PDF-Chapter-3-Disasters-and-Risk-wecompress.com_.pdf)
 
 
