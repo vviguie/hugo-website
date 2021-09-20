@@ -15,6 +15,10 @@ Adaptation to these impacts imposes changes in the way traditional natural risk 
 
 
 ## Natural disasters
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/09/course-catnat.pdf)
+{{% /callout %}}
+
 ### Natural disasters (1)
 {{<youtube chefob0ptu4>}}
 ### Natural disasters (2)
@@ -29,6 +33,9 @@ Adaptation to these impacts imposes changes in the way traditional natural risk 
 - As a note: Hurricane Sandy, in 2012, caused destructions in New York City mainly due to its *storm surge* (local sea level rise during the hurricane, making the sea go inland and cause floods). Hurricane Ida, in 2021, caused destructions mainly due to its intense rainfall that overwhelmed the sewers, leading to *pluvial flooding*. Adaptation policies to both phenomena are different. See for instance [here](https://www.technologyreview.com/2021/09/03/1034315/ida-dodged-nyc-flood-defenses-climate-change-storm/) for an analysis.
 
 ## Adaptation to natural disasters 
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/09/course-catnat-adaptation.pdf)
+{{% /callout %}}
 
 ### Overview
 {{<youtube wdMzTYRFk6E>}}
