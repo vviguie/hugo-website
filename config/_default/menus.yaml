@@ -39,7 +39,7 @@ main:
     parent: outreach
     url: 'outreach/#videos'
     weight: 64
-  - name: "Recent and upcoming talks"
+  - name: "Recent & Upcoming Talks and Interviews"
     parent: outreach
     url: 'outreach/#talks'
     weight: 66

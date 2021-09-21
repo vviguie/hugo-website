@@ -9,6 +9,6 @@ featured: false
 publication: "*npj Urban Sustainability*"
 doi: "10.1038/s42949-021-00027-9"
 url_pdf: "https://www.nature.com/articles/s42949-021-00027-9.pdf"
-tags: ["Sustainable city development","Adaptation"]
+tags: ["Sustainable city development","Adaptation","heatwave"]
 ---
 
