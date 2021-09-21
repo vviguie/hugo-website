@@ -27,7 +27,7 @@ Adaptation to these impacts imposes changes in the way traditional natural risk 
 ### To know more
 - An article by Carbon Brief about [what the 2021 IPCC report says about extreme weather and climate change](https://www.carbonbrief.org/explainer-what-the-new-ipcc-report-says-about-extreme-weather-and-climate-change)
 - The [articles on the effects of climate change, on NASA website](https://climate.nasa.gov/effects/)
-- a [UN report](https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer) about the increase in weather-related disasters since 50 years.
+- a [2021 UN report](https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer) about the increase in weather-related disasters since 50 years.
 - On storm surges you can see :
 {{<youtube bBa9bVYKLP0>}}
 - As a note: Hurricane Sandy, in 2012, caused destructions in New York City mainly due to its *storm surge* (local sea level rise during the hurricane, making the sea go inland and cause floods). Hurricane Ida, in 2021, caused destructions mainly due to its intense rainfall that overwhelmed the sewers, leading to *pluvial flooding*. Adaptation policies to both phenomena are different. See for instance [here](https://www.technologyreview.com/2021/09/03/1034315/ida-dodged-nyc-flood-defenses-climate-change-storm/) for an analysis.
