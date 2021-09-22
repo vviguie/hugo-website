@@ -21,16 +21,15 @@ TP de modélisation
 
 {{< figure src="TP_EEET.jpg" title="Exemple de carte de densité de population">}}
 
+{{% callout note %}}
 Ce TP nécessite de pouvoir faire tourner des scripts Python. Vous pouvez installer par exemple la disctribution [Anaconda](https://www.anaconda.com/).
-
+{{% /callout %}}
 ## Fichiers du TP
-{{< icon name="download" pack="fas" >}} [fichiers du TP](http://www.centre-cired.fr/wp-content/uploads/2021/08/TP_EEET.zip)
 
-Le dossier comprend 4 fichiers:
-- `TP Modele urbain NEDUM.pdf` : énoncé du TP (reproduit sur cette page)
-- `Script_analyse.py` : fonctions Python principales (reproduit aussi sur cette page)
-- `Slides_NEDUM.pdf` : présentation du modèle NEDUM
-- `output_NEDUM.csv` : données pour le TP
+Vous pouvez télécharger: 
+- [{{< icon name="download" pack="fas" >}} `presentation TP.pdf` : présentation du modèle NEDUM](http://www.centre-cired.fr/wp-content/uploads/2021/09/presentation-TP.pdf)
+-   [{{< icon name="download" pack="fas" >}} `output_NEDUM.csv` : données pour le TP](http://www.centre-cired.fr/wp-content/uploads/2021/09/output_NEDUM.csv)
+
 
 ## Énoncé du TP
 
@@ -98,9 +97,9 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 
 ## Script Python pour le TP
 
-Le script Python pour le TP peut être téléchargé [ici](https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4)
+Le script Python pour le TP peut être téléchargé [ici](https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4) ou [ici](https://gist.github.com/vviguie/f23508efc43dd6d2fdd132eccadbac1c) si vous ne pouvez pas installer la librairie Geopandas.
 
-{{< spoiler text="Sinon, cliquez ici pour l'afficher" >}}
+{{< spoiler text="Sinon, cliquez ici pour afficher le script" >}}
 
 <script src="https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4.js"></script>
 {{< /spoiler >}}
