@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Urban Policy Choices [page under construction]
+title: Climate Change and Urban Policy Choices
 linkTitle: Cities and climate
 summary: A course given in master GETEC in Sciences Po.
 date: '2021-01-24'
