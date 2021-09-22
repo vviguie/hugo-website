@@ -97,11 +97,58 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 
 ## Script Python pour le TP
 
-Le script Python pour le TP peut être téléchargé [ici](https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4) ou bien [ici](https://gist.github.com/vviguie/f23508efc43dd6d2fdd132eccadbac1c) si vous ne pouvez pas installer la librairie Geopandas.
+[{{< icon name="download" pack="fas" >}} Vous pouvez télécharger ici le script Python](https://gist.github.com/vviguie/71a53c723cbffa4c3c7befc464cfa919)(au format Jupyter).
 
-{{< spoiler text="Sinon, cliquez ici pour afficher le script" >}}
+Alternativement, si vous préférez un fichier Python simple (pour Spyder, par exemple), vous pouvez le télécharger [ici](https://gist.github.com/vviguie/f23508efc43dd6d2fdd132eccadbac1c).
 
-<script src="https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4.js"></script>
+Si vous voulez tracer des cartes plus jolies, avec des fonds de carte, vous pouvez utiliser la fonction suivante (nécessite les packages geopandas, contextily et shapely):
+{{< spoiler text="cliquer ici pour afficher la fonction" >}}
+
+```python
+import geopandas
+import contextily as ctx
+from shapely.geometry import Point #pour faire des cartes
+
+%% Pour tracer une carte avec un fond de carte 
+
+# fonction qui trace une carte
+def carto(variable=outNedum['coeff_land'],X=outNedum['X'],Y=outNedum['Y']):   
+    # creation d'un geodataframe (pour afficher comme une carte)
+    # 1. on cree les infos spatiales
+    geometry = [Point(xy) for xy in zip(X, Y)]
+    # 2. on cree le dataframe a transformer en geodataframe
+    data_frame_temp=pd.concat([X,Y,pd.Series(variable)], axis=1)
+    # 3. on le convertit en geodataframe
+    geodata_frame_temp = geopandas.GeoDataFrame(data_frame_temp, geometry=geometry)
+    
+    # on fixe le bon système de coordonnées
+    # CRS = coordinate reference system (cf. https://en.wikipedia.org/wiki/Spatial_reference_system)
+    # le CRS 2154 c'est le système de référence de l'IGN pour les cartes autour de Paris
+    geodata_frame_temp.crs = "EPSG:2154"
+    # on convertit dans le système de coordonnées utilisé par Google Map et Open Street Map (nécessaire pour ajouter automatiquement un fond de crte)
+    geodata_frame_temp=geodata_frame_temp.to_crs(epsg=3857)
+    
+    # on trace la carte
+    ax=geodata_frame_temp.plot(column=geodata_frame_temp.columns[2],
+              alpha=0.5, 
+              edgecolor="None",
+              legend=True,
+              marker='o',
+              s=20)
+    # on ajoute un fond de carte: le fond Stamen Toner (https://wiki.openstreetmap.org/wiki/Stamen)
+    ctx.add_basemap(ax,
+                source=ctx.providers.Stamen.Toner,
+                alpha=0.8
+                )
+    # ax.set_axis_off() 
+    return ax
+
+#pour fermer les autres figures
+plt.close('all')
+
+carto(outNedum['simul_2030_sc3_ZI_logement'] * outNedum['coeff_land'])
+```
+
 {{< /spoiler >}}
 
 ## Pour en savoir plus
