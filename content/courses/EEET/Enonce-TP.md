@@ -22,7 +22,7 @@ TP de modélisation
 {{< figure src="TP_EEET.jpg" title="Exemple de carte de densité de population">}}
 
 {{% callout note %}}
-Ce TP nécessite de pouvoir faire tourner des scripts Python. Vous pouvez installer par exemple la disctribution [Anaconda](https://www.anaconda.com/).
+Ce TP nécessite de pouvoir faire tourner des scripts Python. Vous pouvez installer par exemple la distribution [Anaconda](https://www.anaconda.com/).
 {{% /callout %}}
 ## Fichiers du TP
 
@@ -89,7 +89,7 @@ carto(
 ### Introduction
 Dans ce TP, nous allons utiliser le modèle NEDUM-2D pour étudier des stratégies 2010-2030 de transition post-carbone pour l’agglomération parisienne s’appuyant sur plusieurs politiques :
 
-- Le passage d’une tarification “par  zones” des transports en commun à un tarif unique pour l’ensemble des zones. Cela correspond principalement à une baisse des tarifs de transport en commun, notamment pour les localisations périphériques.
+- Le passage d’une tarification “par  zones” des transports en commun à un tarif unique pour l’ensemble des zones. Cela correspond principalement à une **baisse des tarifs** de transport en commun, notamment pour les localisations périphériques.
 - La mise en place d’une ceinture verte en 2010, qui correspond à l’interdiction de construction dans la zone située en dehors des limites de l’agglomération en 2010.
 - L’interdiction de toute nouvelle construction de bâtiments résidentiels (par rapport à 2010) dans les zones inondables de l’Ile-de-France.
 
