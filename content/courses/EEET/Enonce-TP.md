@@ -97,7 +97,7 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 
 ## Script Python pour le TP
 
-Le script Python pour le TP peut être téléchargé [ici](https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4) ou [ici](https://gist.github.com/vviguie/f23508efc43dd6d2fdd132eccadbac1c) si vous ne pouvez pas installer la librairie Geopandas.
+Le script Python pour le TP peut être téléchargé [ici](https://gist.github.com/vviguie/a7dee5f0c8c1c40732c1c4efdf20bea4) ou bien [ici](https://gist.github.com/vviguie/f23508efc43dd6d2fdd132eccadbac1c) si vous ne pouvez pas installer la librairie Geopandas.
 
 {{< spoiler text="Sinon, cliquez ici pour afficher le script" >}}
 
