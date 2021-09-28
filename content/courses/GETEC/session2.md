@@ -32,7 +32,7 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 #### If you want to know more
 - [in French] [Observed climate change impacts in France](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf)
 - The [impacts with different levels of global warming](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#)
-- [How we can model the climate](https://climate.mit.edu/explainers/climate-models) on MIT website.s
+- [How we can model the climate](https://climate.mit.edu/explainers/climate-models) on MIT website.
 
 ## Ecosystems and biodiversity  
 {{< youtube XRCzT7TEz0Q >}}
