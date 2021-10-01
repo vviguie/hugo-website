@@ -1,6 +1,6 @@
 ---
 title: "Climate Mitigation in the Mediterranean Europe: An Assessment of Regional and City-Level Plans"
-date: 2021-10-01
+date: 2021-06-27
 publishDate: 2021-06-29T16:18:16.352116Z
 authors: ["Monica Salvia", "Marta Olazabal", "Paris A. Fokaides", "Léa Tardieu", "Sofia G. Simoes", "Davide Geneletti", "Sonia De Gregorio Hurtado", "Vincent Viguié", "Niki-Artemis Spyridaki", "Filomena Pietrapertosa", "Byron I. Ioannou", "Marko Matosović", "Alexandros Flamos", "Mario V. Balzan", "Efren Feliu", "Klavdija Rižnar", "Nataša Belšak Šel", "Oliver Heidrich", "Diana Reckien"]
 publication_types: ["2"]
