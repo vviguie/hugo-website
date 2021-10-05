@@ -10,27 +10,28 @@ weight: 45
 
 In this lecture, we cover the first part of emissions in cities: transport emissions. 
 
-## Videos
 
-Here are the videos for the course:
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-transport.pdf)
+{{% /callout %}}
 
-### Global figures and concepts
+## Global figures and concepts
 {{<youtube GpRv3fbX1dE>}}
 
 #### References
 - https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf
-### Activity and modal share
+## Activity and modal share
 {{<youtube WAjoxDCGxv0>}}
 
 #### References
 - https://www.c40knowledgehub.org/s/article/How-to-achieve-a-walking-and-cycling-transformation-in-your-city?language=en_US (you can find there the description of the "superblock" policy in Barcelona)
 - https://www.c40knowledgehub.org/s/article/How-to-make-public-transport-an-attractive-option-in-your-city?language=en_US
 - see also https://usa.streetsblog.org/2018/05/07/six-secrets-from-the-planner-of-sevillas-lightning-bike-network/ for the story of bicycle promotion in Sevilla.
-### Energy intensity
+## Energy intensity
 {{<youtube -Z701co2ZCs>}}
 #### References
 - https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/note_danalyse_ndeg78_-_gb.pdf
-### Fuel choice
+## Fuel choice
 {{<youtube lvbzoIEjeb0>}}
 
 #### References
