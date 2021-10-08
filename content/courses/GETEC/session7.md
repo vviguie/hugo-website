@@ -28,7 +28,7 @@ In this lecture, we discuss an important part of urban policies: land planning. 
 - https://www.oecd.org/environment/tools-evaluation/Policy-Highlights-Rethinking-Urban-Sprawl.pdf
 - https://iopscience.iop.org/article/10.1088/1748-9326/ab6669
  
-## The "window of opportunity
+## The "window of opportunity"
 {{<youtube eLAMx6VZdbk>}}
  
 #### Reference

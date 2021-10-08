@@ -27,7 +27,7 @@ main:
     parent : research
     url: '#phd_supervision'
     weight: 14
-  - name: "Communication/media"
+  - name: "Communication/media/talks"
     identifier : outreach
     url: 'outreach/'
     weight: 60
