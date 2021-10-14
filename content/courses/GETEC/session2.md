@@ -60,6 +60,7 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 - Mach, K.J., Kraan, C.M., Adger, W.N., Buhaug, H., Burke, M., Fearon, J.D., Field, C.B., Hendrix, C.S., Maystadt, J.-F., O’Loughlin, J., Roessler, P., Scheffran, J., Schultz, K.A., Uexkull, N. von, 2019. Climate as a risk factor for armed conflict. Nature 571, 193–197. https://doi.org/10.1038/s41586-019-1300-6
 
 ## General references
+- [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
 - [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. It was later developped into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
 - [Collapse: How Societies Choose to Fail or Succeed](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (2005) by Jared Diamond. He reviews the causes of historical and pre-historical instances of societal collapse, particularly those involving significant influences from environmental changes.
 
