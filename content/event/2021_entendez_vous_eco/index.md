@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Invitation à 'Entendez-vous l'éco ?' (France Culture)"
+title: "Invitation à 'Entendez-vous l'éco ?' (France Culture) Les sociétés face aux catastrophes climatiques, 
+Épisode 1 : Quand on étouffe en ville"
 event: Entendez-vous l'éco ?
 event_url: https://www.franceculture.fr/emissions/entendez-vous-l-eco/quand-on-etouffe-en-ville
 location: Sur France Culture ou en replay
@@ -12,9 +13,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Notions, pensées, auteurs, débats d’actualité: chaque jour, du lundi au jeudi, Entendez-vous l’éco ? fait résonner toutes les déclinaisons de l’économie et de son impact sur la société. Pour que, dans le brouhaha d’une actualité souvent saturée, l’éco parvienne jusqu’à nous…
-
-L’économie n’est pas qu’une discipline de spécialistes. C'est un champ d’idées, éternellement en friche, un domaine qui tâtonne et innove, incontournable pour celui qui s’intéresse à son temps. Traverser les grands courants économiques, c’est envisager tous les chemins possibles, ceux qui ont été empruntés, ici ou ailleurs, et ceux qui restent à inventer. "
+abstract: "Alors que la moitié de la population mondiale vit aujourd'hui dans les villes, la hausse des températures liée au changement climatique questionne les villes quant à leurs capacités actuelles et futures de rester des espaces vivables et viables d'un point de vue économique et social. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

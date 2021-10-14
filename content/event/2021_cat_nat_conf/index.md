@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Energy and Prosperity academic Chair: Anticipating transit-induced changes in social composition of neighborhoods, an application to the Grand Paris Express"
-event: International Conference on Mobility Challenges
-event_url: http://www.chair-energy-prosperity.org/event/international-conference-on-mobility-challenges-3/
-location: Webconference
+title: "Global indirect impacts of extreme flood events"
+event: Second International Conference on Natural Hazards and Risks in a Changing World 2021
+event_url: https://www.uni-potsdam.de/en/natriskchange/activities/second-international-natriskchange-conference-2021
+location: University of Potsdam
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "The Energy and Prosperity Chair is organizing on Decembre 14, an international webconference on mobility challenges in partnership with the Chair Armand Peugeot Chair and Climate Economics Chair."
-abstract:
+summary: "Second International Conference on Natural Hazards and Risks in a Changing World 2021, Presented by Samuel Juhel (CIRED / LMD)"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-14T09:57:00+02:00
-date_end: 2020-12-14T09:57:00+02:00
-all_day: true
+date: 2021-10-05T17:00:00+02:00
+date_end: 2021-10-06T19:00:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-05-03T09:57:00+02:00
+publishDate: 2021-10-14T21:07:49+02:00
 
-authors: [Basile Pfeiffer,Vincent Viguié]
-tags: ['transport emissions','Modelling city evolutions']
+authors: [Samuel Juhel, Vincent Viguié]
+tags: ["adaptation policies"]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -46,11 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: http://www.chair-energy-prosperity.org/wp-content/uploads/2021/01/conference-mobility-viguie.pdf
-
-links:
-- name: URL
-  url: http://www.chair-energy-prosperity.org/event/international-conference-on-mobility-challenges-3/
+url_slides:
 
 url_code:
 url_pdf:
