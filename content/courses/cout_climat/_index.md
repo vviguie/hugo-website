@@ -1,8 +1,8 @@
 ---
-title: Les impacts du changement climatique 
+title: Les impacts du changement climatique
 #linkTitle: Cities modelling
-summary: A lecture (in French) given in several masters.
-date: '2021-01-24'
+summary: A 3h lecture (in French) given in several masters.
+date: '2021-10-14'
 type: book
 copyright_license:
   enable: true
@@ -12,6 +12,7 @@ copyright_license:
   notice: >-
     Except as otherwise noted, this work is licensed under {license}, and code
     samples are licensed under the MIT License.
+weight: 20
 ---
 
 Un cours donné dans plusieurs masters.
@@ -26,7 +27,7 @@ Un cours donné dans plusieurs masters.
 ## Pour en savoir plus
 
 - les rapports du [groupe 2 du GIEC](https://www.ipcc.ch/working-group/wg2/)
-- Les augmentations de température observés en France et dans le monde: 
+- Les augmentations de température observés en France et dans le monde:
   - The famous ["warming stripes" graph](https://showyourstripes.info/)
   - [Variations de température observées partout dans le monde](https://www.carbonbrief.org/)
 - [Les impacts du changement climatique](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf) observés en France
@@ -37,7 +38,3 @@ Un cours donné dans plusieurs masters.
 #### Ressources générales sur le changement climatique
 - [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
 - Les sites web du [MIT](https://climate.mit.edu/) et de la [NASA](https://climate.nasa.gov/) sur le changement climatique
-
-
-
-
