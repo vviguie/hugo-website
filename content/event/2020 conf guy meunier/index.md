@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2021-05-03T09:57:00+02:00
 
-authors: [Basile Pfeiffer,Vincent Viguié]
+authors: []
 tags: ['transport emissions','Modelling city evolutions']
 
 # Is this a featured event? (true/false)
