@@ -1,7 +1,7 @@
 ---
-title: Les impacts économiques du changement climatique 
+title: Les impacts du changement climatique 
 #linkTitle: Cities modelling
-summary: A 3h lecture (in French) given in several masters.
+summary: A lecture (in French) given in several masters.
 date: '2021-01-24'
 type: book
 copyright_license:
@@ -14,7 +14,7 @@ copyright_license:
     samples are licensed under the MIT License.
 ---
 
-Un cours donné dans le cadre de diverses formations à l'[École des Ponts ParisTech](https://www.ecoledesponts.fr), l'[École Polytechnique](https://www.polytechnique.edu/), l'[École Nationale de la Météorologie](http://www.enm-toulouse.fr), [AgroParisTech](http://www2.agroparistech.fr/), au [Master Transition énergétique et Territoires](https://www.ecoledesponts.fr/master-tet-transition-energetique-territoires), au [Master Science politique – Parcours Action Humanitaire Internationale – de l'Université Paris Est Créteil](https://masterhumanitaire.wordpress.com/), à [l'école doctorale des Sciences de l'Environnement d'Ile de France](http://ed129.sorbonne-universite.fr/fr/index.html)...
+Un cours donné dans plusieurs masters.
 
 {{< icon name="clock" pack="fas" >}} 2 ou 3h de cours
 
@@ -33,7 +33,6 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 - [Les impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#) pour différents niveaux de réchauffement
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
 - [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
-- [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
 
 #### Ressources générales sur le changement climatique
 - [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
