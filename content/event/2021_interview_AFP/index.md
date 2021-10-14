@@ -26,7 +26,7 @@ publishDate: 2021-08-10T00:00:00+02:00
 authors: []
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
