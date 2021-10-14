@@ -2,7 +2,7 @@
 title: Les impacts économiques du changement climatique 
 #linkTitle: Cities modelling
 summary: A 3h lecture (in French) given in several masters.
-date: '2021-01-24'
+date: '2021-10-14'
 type: book
 copyright_license:
   enable: true
@@ -12,6 +12,7 @@ copyright_license:
   notice: >-
     Except as otherwise noted, this work is licensed under {license}, and code
     samples are licensed under the MIT License.
+weight: 20
 ---
 
 Un cours donné dans le cadre de diverses formations à l'[École des Ponts ParisTech](https://www.ecoledesponts.fr), l'[École Polytechnique](https://www.polytechnique.edu/), l'[École Nationale de la Météorologie](http://www.enm-toulouse.fr), [AgroParisTech](http://www2.agroparistech.fr/), au [Master Transition énergétique et Territoires](https://www.ecoledesponts.fr/master-tet-transition-energetique-territoires), au [Master Science politique – Parcours Action Humanitaire Internationale – de l'Université Paris Est Créteil](https://masterhumanitaire.wordpress.com/), à [l'école doctorale des Sciences de l'Environnement d'Ile de France](http://ed129.sorbonne-universite.fr/fr/index.html)...

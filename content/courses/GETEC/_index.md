@@ -1,8 +1,11 @@
 ---
 title: Climate Change and Urban Policy Choices
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linkTitle: Cities and climate
+# Page summary for search engines.
 summary: A course given in master GETEC in Sciences Po.
-date: '2021-01-24'
+date: '2021-09-24'
+# Book page type (do not modify).
 type: book
 copyright_license:
   enable: true
@@ -12,6 +15,8 @@ copyright_license:
   notice: >-
     Except as otherwise noted, this work is licensed under {license}, and code
     samples are licensed under the MIT License.
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 10
 ---
 
 
