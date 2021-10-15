@@ -3,7 +3,7 @@ title: Climate Change and Urban Policy Choices
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linkTitle: Cities and climate
 # Page summary for search engines.
-summary: A course given in master GETEC in Sciences Po.
+summary: A course given in master GETEC in Sciences Po, and covering, during the whole semester, theoretical and practical issues about adaptation and mitigation policies in cities.
 date: '2021-09-24'
 # Book page type (do not modify).
 type: book

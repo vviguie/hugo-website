@@ -26,7 +26,6 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 
 ## Pour en savoir plus
 
-- les rapports du [groupe 2 du GIEC](https://www.ipcc.ch/working-group/wg2/)
 - Les augmentations de température observés en France et dans le monde:
   - The famous ["warming stripes" graph](https://showyourstripes.info/)
   - [Variations de température observées partout dans le monde](https://www.carbonbrief.org/)
@@ -35,7 +34,9 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
 - [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
 - [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
+- [Demain, quel climat sur le pas de ma porte ? Un grand format interactif de l’Agence France-Presse](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/)
 
 #### Ressources générales sur le changement climatique
 - [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
 - Les sites web du [MIT](https://climate.mit.edu/) et de la [NASA](https://climate.nasa.gov/) sur le changement climatique
+- les rapports du [groupe 2 du GIEC](https://www.ipcc.ch/working-group/wg2/)

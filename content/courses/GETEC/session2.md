@@ -61,6 +61,8 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 
 ## General references
 - [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
+- [A nice interactive article by the Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+- (in French)[A nice interactive article by AFP](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/)
 - [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. It was later developped into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
 - [Collapse: How Societies Choose to Fail or Succeed](https://en.wikipedia.org/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed) (2005) by Jared Diamond. He reviews the causes of historical and pre-historical instances of societal collapse, particularly those involving significant influences from environmental changes.
 
