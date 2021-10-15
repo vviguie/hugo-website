@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Flood Protection and Land Value Creation – Not All Resilience Investments Are
-  Created Equal
+title: "World Bank blog: Flood Protection and Land Value Creation" 
 subtitle: ''
 summary: ''
 authors:

@@ -12,7 +12,9 @@ address:
   postcode:
   country:
 summary: "Second International Conference on Natural Hazards and Risks in a Changing World 2021, Presented by Samuel Juhel (CIRED / LMD)"
-abstract: ""
+abstract: "Recent climate risk analysis expects that economic impacts from extreme events will increase, mainly by exposure increase. While the direct consequences of natural disasters are felt locally -- where the natural disasters occur -- the consequent functional disruptions often spread through inter-industry flows by creating bottlenecks and delays in the supply chains systems, thus creating indirect economic damages. 
+Such indirect damages have often proven to make up for a major part of the total social cost of extreme weather events. Quantifying them is therefore crucial to properly account for the consequences of climate-induced disasters. Research in risk and disaster analysis has studied indirect damages for specific past or simulated events (Hurricane Katrina in Louisiana, possible storm surges in Rotterdam, 2007 summer floods in the UK) and how they add up to total damage assessments. So far, however, there is no clear view on the magnitude, at the global scale, of how such indirect impacts export to other countries in the global economy.
+This study aims at assessing the potential indirect impacts of global river floods. Here, we use an input-output model, ARIO, that simulates the indirect impacts of natural disasters through trade networks, and which has already been used and assessed several times for disaster analysis in the literature. We use the EORA26 multi-regional input-output table as a basis for representing the global economy. For each country, we compare the 'imported economic impacts', i.e. the impacts on production related to foreign flood events, with the costs of local extreme flood events. We aim to highlight the interrelations of climate impacts between each country, and the potential benefits of international cooperation for adaptation by showing examples of how the local vulnerability translates to global risk."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
