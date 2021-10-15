@@ -34,7 +34,8 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
 - [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
 - [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
-- [Demain, quel climat sur le pas de ma porte ? Un grand format interactif de l’Agence France-Presse](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/)
+- [Demain, quel climat sur le pas de ma porte ?](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/) Un grand format interactif de l’Agence France-Presse
+  - [Un article similaire sur le site du Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
 
 #### Ressources générales sur le changement climatique
 - [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
