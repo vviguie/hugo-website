@@ -19,6 +19,8 @@ links:
   url: 'papers_modelling/#working_papers'
 - name: "Book chapters and reports"
   url: 'papers_modelling/#books_reports'
+- name: "Talks & media"
+  url: 'papers_modelling/#talks'
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -19,6 +19,8 @@ links:
   url: 'papers_heatwave/#working_papers'
 - name: "Book chapters and reports"
   url: 'papers_heatwave/#books_reports'
+- name: "Talks & media"
+  url: 'papers_heatwave/#talks'
 url_code: ""
 url_pdf: ""
 url_slides: ""

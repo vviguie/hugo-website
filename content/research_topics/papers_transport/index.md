@@ -19,6 +19,8 @@ links:
   url: 'papers_transport/#working_papers'
 - name: "Book chapters and reports"
   url: 'papers_transport/#books_reports'
+- name: "Talks & media"
+  url: 'papers_transport/#talks'
 url_code: ""
 url_pdf: ""
 url_slides: ""

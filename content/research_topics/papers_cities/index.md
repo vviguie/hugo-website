@@ -19,6 +19,8 @@ links:
   url: 'papers_cities/#working_papers'
 - name: "Book chapters and reports"
   url: 'papers_cities/#books_reports'
+- name: "Talks & media"
+  url: 'papers_cities/#talks'
 url_code: ""
 url_pdf: ""
 url_slides: ""
