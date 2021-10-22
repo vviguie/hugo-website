@@ -23,9 +23,9 @@ advanced:
   css_style: 'text-align: left;'
 ---
 
-- [Charlotte Liotta](http://www.centre-cired.fr/fr/charlotte-liotta/)
-- [Samuel Juhel](http://www.centre-cired.fr/fr/samuel-juhel/)
-- [Basile Pfeiffer](http://www.centre-cired.fr/fr/basile-pfeiffer/)
+- [Charlotte Liotta](http://www.centre-cired.fr/fr/charlotte-liotta/), co-supervised with [Felix Creutzig](https://www.mcc-berlin.net/~creutzig/) (MCC Berlin)
+- [Samuel Juhel](http://www.centre-cired.fr/fr/samuel-juhel/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMd, ENS Paris)
+- [Basile Pfeiffer](http://www.centre-cired.fr/fr/basile-pfeiffer/), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
 
 
 
