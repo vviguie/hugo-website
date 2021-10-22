@@ -11,6 +11,10 @@ hidden: false
 
 Now that we have studied the main drivers of emissions in cities, how can we frame a mitigation strategy in practice? Which climate targets should we choose, which schedule, at what cost, with the help of whom?...
 
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-mitigation.pdf)
+{{% /callout %}}
+
 ### Mitigation planning
 {{< youtube kaQ7wa2U4Ag>}}
 

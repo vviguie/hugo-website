@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: http://www.centre-cired.fr/wp-content/uploads/2021/10/monocentric_urban_model_validation.pdf
 
 url_code:
 url_pdf:

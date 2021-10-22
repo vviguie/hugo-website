@@ -11,6 +11,11 @@ hidden: false
 
 In this lecture, we cover the remaining emissions of cities. This raises the key question of the _definition_ of the emissions of a city.
 
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-other-emissions.pdf)
+{{% /callout %}}
+
+
 ## Defining city GHG emissions
 {{< youtube yPgIpodE3Do>}}
 
