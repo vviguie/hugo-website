@@ -24,6 +24,7 @@ interests:
 - Climate change adaptation economics
 - Sustainable city development
 - Prospective modelling
+- Urban economics and urban transport policies
 
 # Education to show in About widget
 education:
