@@ -24,5 +24,5 @@ advanced:
 
 ### Evaluation of climate adaptation policies, climate change impacts and vulnerabilities, natural disasters indirect economic impacts
 
-### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) &nbsp; &nbsp; &nbsp;[`Talks`](#talks) 
+### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books & reports`](#books_reports) &nbsp; &nbsp; &nbsp;[`Talks & media`](#talks) 
 

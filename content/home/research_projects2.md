@@ -24,6 +24,8 @@ advanced:
 ---
 
 
+〉[Euro-LCP](https://www.lcp-initiative.eu/)initiative
+
 〉<a class="spip_out" href="https://web.b.ebscohost.com/abstract?direct=true&amp;profile=ehost&amp;scope=site&amp;authtype=crawler&amp;jrnl=10297006&amp;AN=140483291&amp;h=AcuHMwUSZiSsmtHNZ9cKHfW6Ud%2b2zMzBlhBbaNwahOb3QWY%2bSIY18OYUiJCzBy1fTrrkilcAQfIBi48rnhFtOQ%3d%3d&amp;crl=c&amp;resultNs=AdminWebAuth&amp;resultLocal=ErrCrlNotAuth&amp;crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d10297006%26AN%3d140483291" rel="external">Poll-Expo</a> (2019-...) Air quality and inequalities of exposure in the Great Paris area.
 
 〉 <a class="spip_out" href="https://idefese.wordpress.com/" rel="external">IDEFESE</a> (2017-2020) Ecosystem services and climate change impacts in Paris Region

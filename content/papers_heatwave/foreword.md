@@ -23,4 +23,4 @@ advanced:
 
 ### Policies to reduce heatwave risk, impact of land-use on urban climate, nature-based solutions
 
-### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books and reports`](#books_reports) &nbsp; &nbsp; &nbsp;[`Talks`](#talks) 
+### [`Articles`](#articles) &nbsp; &nbsp; &nbsp; [`Working papers`](#working_papers) &nbsp; &nbsp; &nbsp;[`Books & reports`](#books_reports) &nbsp; &nbsp; &nbsp;[`Talks & media`](#talks) 
