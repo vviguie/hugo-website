@@ -49,5 +49,7 @@ In this lecture, we discuss an important part of urban policies: land planning. 
 ## To know more
 - Nice comparisons between cities characteristics: [Urban Observatory ](https://www.urbanobservatory.org/compare/index.html)
 - More generally, several [publications by LSE cities](https://www.lse.ac.uk/Cities/publications) examine these issues.
+- A book by Alain Bertaud: "[Order without Design, How Markets Shape Cities](https://mitpress.mit.edu/books/order-without-design)"
+- If you want to see an example of a planning document, you can have a look at the [master plan of Paris metropolitan region (*Schéma directeur de la région île de France*)](https://www.institutparisregion.fr/fileadmin/DataStorage/SavoirFaire/NosTravaux/planification/sdrif/CDGT_declinaison_HD.pdf).
 
 
