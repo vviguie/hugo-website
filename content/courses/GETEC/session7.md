@@ -37,6 +37,9 @@ In this lecture, we discuss an important part of urban policies: land planning. 
 ## Should we promnote urban density?
 
 {{<youtube XQaBm00ZHHc>}}
+
+#### Reference
+- [In French] A short report on the density of different neighborhoods in Paris Metropolitan Area (*Île de France Région*), with a historical perspective. [Part 1](https://www.institutparisregion.fr/nos-travaux/publications/apprehender-la-densite-1/), [Part 2](https://www.institutparisregion.fr/nos-travaux/publications/apprehender-la-densite-2/) and [Part 3](https://www.institutparisregion.fr/nos-travaux/publications/apprehender-la-densite-3/).
  
 ## Urban planning and transport
 
