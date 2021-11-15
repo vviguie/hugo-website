@@ -20,8 +20,10 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 {{< youtube yPgIpodE3Do>}}
 
 #### References
-- Some background on consumption-based emissions : https://resourcecentre.c40.org/resources/consumption-based-ghg-emissions
+- Some background on consumption-based emissions vs. production-based emissions : https://resourcecentre.c40.org/resources/consumption-based-ghg-emissions
 - Global Protocol for Community-scale Greenhouse Gas Emission Inventories : https://ghgprotocol.org/greenhouse-gas-protocol-accounting-reporting-standard-cities
+  - A youtube video presenting this framework : https://www.youtube.com/watch?v=M9_bZ3GsoZA&ab_channel=IISDReportingServices%2FEarthNegotiationsBulletin%28ENB%29
+- A [comparison of emission inventories of different cities](https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US)
 
 ## Production-based emissions
 {{< youtube d1EQH2kTfqM>}}
@@ -29,8 +31,10 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 #### References
 - [The peak in cities emissions](https://c40-production-images.s3.amazonaws.com/other_uploads/images/1923_Peaking_emissions_Media_Pack_Extended_version.original.pdf?1536847923)
 - [How to reduce emissions of cities](https://www.c40knowledgehub.org/s/article/Deadline-2020-How-cities-will-get-the-job-done?language=en_US)
+- [A nice video](https://www.youtube.com/watch?v=DtqSIplGXOA&ab_channel=RealWorldVisuals) showing New York City's greenhouse gas emissions.
 
 ## Consumption-based emissions
+#### The definition of consumption-based emissions
 {{< youtube C8hg7joIGoU>}}
 
 #### Reducing consumption in cities
