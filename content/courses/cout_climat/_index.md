@@ -28,7 +28,7 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 
 ### Les émissions mondiales de gaz a effet de serre
 - [Emissions and expected warming based on current pledges and policies of the countries](https://climateactiontracker.org/global/temperatures/), on the Climate action tracker website.
-- [L'horloge climatique sur le site du MCC Berlin.](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm) et son explication [ici](https://www.mcc-berlin.net/en/research/co2-budget.html).
+- [L'horloge climatique sur le site du MCC Berlin](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm) et son explication [ici](https://www.mcc-berlin.net/en/research/co2-budget.html).
 {{< spoiler text="Vous pouvez également l'afficher en cliquant ici" >}}
 <iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
 {{< /spoiler >}}
