@@ -9,5 +9,5 @@ hidden: false
 
 <!--more-->
 
-
+Info on the moodle page of the course (restricted to Science Po students).
 
