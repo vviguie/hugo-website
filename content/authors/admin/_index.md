@@ -90,7 +90,7 @@ I am a researcher in climate change economics at [Ecole des Ponts ParisTech](htt
 
 {{< icon name="book-open" pack="fas" >}}  My research and writing explore environmental urban policies, and especially adaptation strategies to reduce our vulnerability to climate change impacts in cities. I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues. 
 
-I am part of the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and of the [Euro-LCP Research Network](https://www.lcp-initiative.eu/).
+I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and of the [Euro-LCP Research Network](https://www.lcp-initiative.eu/). I am a deputy board member of Ecole des Ponts ParisTech, and a member of the scientific council of the [Groupement Régional des Experts sur le Climat d'île de France (GREC Île de France)](https://www.uvsq.fr/territoire-et-climat-le-grec-en-ile-de-france).
 
 {{< icon name="chalkboard-teacher" pack="fas" >}}  I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/) and [Agroparistech](http://www2.agroparistech.fr/Presentation-of-AgroParisTech.html), and like to [communicate about climate policies]({{< relref "/outreach" >}}).
 
