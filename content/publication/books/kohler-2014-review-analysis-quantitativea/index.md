@@ -3,7 +3,7 @@
 
 title: A Review and Analysis of Quantitative Integrated Environmental Assessment Methods
   for Urban Areas
-subtitle: ''
+subtitle: 'Chapter in the book “Understanding Cities: Advances in Integrated Assessment of Urban Sustainability"'
 summary: ''
 authors:
 - Jonathan Köhler
@@ -47,15 +47,19 @@ projects: []
 publishDate: '2021-08-24T22:36:51.558641Z'
 publication_types:
 - '6'
-abstract: '--- * An introduction to the challenges facing urban areas and the urgent
-  need to make them more sustainable. * A key challenge is the complexity of cities
-  that leads to non-linear and unintended consequences of, often well meant, interventions.
-  * Underlines the case for a more integrated response to deliver more sustainable
+abstract: 'An introduction to the challenges facing urban areas and the urgent
+  need to make them more sustainable:
+  - A key challenge is the complexity of cities that leads to non-linear and unintended consequences of, often well meant, interventions.
+  - Underlines the case for a more integrated response to deliver more sustainable
   urban areas, and the need for a new generation of integrated assessment methods
-  and tools to operationalise this. * Introduces the structure of the rest of the
+  and tools to operationalise this.  
+  - Introduces the structure of the rest of the
   book.'
-publication: ''
+publication: '*Centre for Earth Systems Engineering Research (CESER), Newcastle, UK*'
 tags: ["Modelling city evolutions",]
 categories:
 - Book or report
+links:
+- name: book webpage
+  url: https://eprints.ncl.ac.uk/208835
 ---
