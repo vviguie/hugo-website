@@ -53,9 +53,11 @@ abstract: 'This volume demonstrates how urban climate science can provide valuab
 publication: '*Springer International Publishing*'
 categories:
 - Book or report
-doi: 10.1007/978-3-030-87598-5
+
 tags: ["Adaptation","Sustainable city development", "heatwave"]
 links:
 - name: book webpage
   url: https://www.springer.com/us/book/9783030875978#aboutBook
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-030-87598-5_11
 ---

@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Videos
-subtitle: 'A few outreach videos / Quelques vidéos de conférences de vulgarisation'
+subtitle: 'A few outreach videos/ Quelques vidéos de conférences de vulgarisation'
 
 content:
   # Page type to display. E.g. project.
@@ -50,4 +50,4 @@ advanced:
   css_style: 'text-align: left;'
 ---
 
-{{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}{{< icon name="youtube" pack="fab" >}}{{< /staticref >}} Other videos can be seen on {{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}youtube{{< /staticref >}}. 
+{{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}{{< icon name="youtube" pack="fab" >}}{{< /staticref >}} Other videos can be seen on {{< staticref "https://www.youtube.com/playlist?list=PLJBOxn4SE9f2yd0edPjIi59lhNymMVLM1" "newtab">}}youtube{{< /staticref >}}, and videos of several lectures can be seen in the [Courses]({{< relref "/courses" >}}) page.

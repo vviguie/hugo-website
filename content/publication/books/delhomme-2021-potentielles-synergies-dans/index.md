@@ -11,8 +11,10 @@ categories:
 - Book or report
 
 links:
-- name: URL
+- name: article
   url: https://www.construction21.org/france/articles/h/dossier-mobilites-28-de-potentielles-synergies-dans-le-secteur-des-transports-et-de-l-amenagement-urbain-etude-de-cas-de-la-region-ile-de-france.html
+- name: pdf of the whole book
+  url: https://www.cerema.fr/fr/centre-ressources/boutique/mobilites-decarbonees-defi-global
 tags: ["Transport emissions",]
 ---
 
