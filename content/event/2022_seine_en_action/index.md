@@ -51,6 +51,7 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
+url_slides: https://www.dropbox.com/s/r8jj873i0kqc36z/22_02_03_urgence_climatique_locale.pdf?dl=0
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
