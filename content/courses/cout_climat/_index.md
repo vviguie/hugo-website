@@ -22,7 +22,43 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 {{< figure src="featured.jpg" caption="Image credit: © DR">}}
 
 ## Présentation
-{{< icon name="download" pack="fas" >}} [Présentation Powerpoint](https://www.dropbox.com/s/xmveztfma7xd36u/viguie%20cours%20impacts.pdf?dl=0)
+
+### Présentation Powerpoint
+{{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/xmveztfma7xd36u/viguie%20cours%20impacts.pdf?dl=0)
+
+### Vidéos
+{{< spoiler text="Une partie du cours avait été enregistrée en vidéo en 2020 durant le confinement. Cliquer ici pour afficher ces vidéos." >}}
+
+#### Introduction (partie 1)
+{{< youtube kjlvspacFM8 >}} 
+
+
+#### Introduction (partie 2)
+{{< youtube Dxa8lSpOGqc >}} 
+
+#### Impacts sur les écosystèmes
+
+{{< youtube MrlmGFyMO_o >}} 
+
+#### Impacts sur l'accès à l'eau
+
+{{< youtube pO_qwvcgwxw >}} 
+
+#### Impacts sur l'Agriculture
+{{< youtube WWvjz3Gx8nA >}}
+
+#### Impacts sur la Santé
+{{< youtube r9kgMo1kEqA >}}
+
+#### Impacts sur les catastrophes naturelles
+[Work in progress]
+
+#### Impacts sur le risque de guerre et de migrations [vidéo en anglais]
+{{< youtube CU7x8Niepbk >}}
+
+
+
+{{< /spoiler >}}
 
 ## Pour en savoir plus
 
