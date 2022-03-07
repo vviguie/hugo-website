@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Research projects
 subtitle: Main on-going and past funded projects. See also on my [institutional webpage](http://www.centre-cired.fr/vincent-viguie/).
-weight: 32  # section position on page
+weight: 65  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'

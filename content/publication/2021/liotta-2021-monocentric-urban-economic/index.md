@@ -53,6 +53,8 @@ abstract: 'Despite a large body of work that developed over more than 60 years, 
   the standard urban model seems to still capture surprisingly well the inner structure
   of many cities across the world, both in developed and in developing countries.'
 URL_pdf : http://arxiv.org/abs/2111.02112
-url_slides: http://www.centre-cired.fr/wp-content/uploads/2021/10/monocentric_urban_model_validation.pdf
+links:
+- name: slides
+  url: http://www.centre-cired.fr/wp-content/uploads/2021/10/monocentric_urban_model_validation.pdf
 publication: '*arXiv:2111.02112 [econ, q-fin]*'
 ---
