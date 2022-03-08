@@ -22,9 +22,12 @@ bio: My research interests include adaptation to climate change, urban policies,
 # Interests to show in About widget
 interests:
 - Climate change adaptation economics
-- Sustainable city development
-- Prospective modelling
+- Assesment of sustainable city development strategies
+- Equity and climate justice
+- Urban sprawl modelling
 - Urban economics and urban transport policies
+
+
 
 # Education to show in About widget
 education:
@@ -88,7 +91,12 @@ highlight_name: false
 
 I am a researcher in climate change economics at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), in the  [Centre International de recherche sur l'environnement et le développement, (CIRED)](www.centre-cired.fr).  
 
-{{< icon name="book-open" pack="fas" >}}  My research and writing explore environmental urban policies, and especially adaptation strategies to reduce our vulnerability to climate change impacts in cities. I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues. 
+{{< icon name="book-open" pack="fas" >}}   I use economic modelling, GIS and data science, interdisciplinary integrated assesment models, as well as stakeholder analysis to address salient research questions on environmental urban policies, such as :
+- the effectivenes of adaptation strategies
+- the interactions between mitigation and adaptation policies 
+- the social and ecological trade-offs 
+
+I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues.
 
 I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and of the [Euro-LCP Research Network](https://www.lcp-initiative.eu/). I am a deputy board member of Ecole des Ponts ParisTech, and a member of the scientific council of the [Groupement Régional des Experts sur le Climat d'île de France (GREC Île de France)](https://www.uvsq.fr/territoire-et-climat-le-grec-en-ile-de-france).
 

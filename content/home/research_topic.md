@@ -43,8 +43,6 @@ advanced:
   css_style: 'text-align: left;'
 ---
 
-Most of my papers deal with adaptation to climate change. I have also worked on several projects on mitigation policies in cities, and especially on how urban planning can play an important role on transport emission reductions (actually, both subjects are [deeply connected](https://doi.org/10.1038/nclimate1434)).
-
 {{% callout note %}}
 You can see all my publications [here](./publication/).
 {{% /callout %}}
