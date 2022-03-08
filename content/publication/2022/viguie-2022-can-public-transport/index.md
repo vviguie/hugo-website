@@ -9,8 +9,7 @@ authors:
 - Vincent Viguie
 - Charlotte Liotta
 - Basile Pfeiffer
-tags:
-- "Modelling city evolutions"
+tags: ["Sustainable city development","Modelling city evolutions","Transport emissions"]
 categories: []
 date: '2022-03-01'
 lastmod: 2022-03-07T12:26:28+01:00
