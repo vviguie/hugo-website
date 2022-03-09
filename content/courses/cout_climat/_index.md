@@ -71,20 +71,24 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 
 ### Les conséquences déjà observées du changement climatique
 - Les augmentations de température observés en France et dans le monde:
-  - The famous ["warming stripes" graph](https://showyourstripes.info/)
-  - [Variations de température observées partout dans le monde](https://www.carbonbrief.org/)
-- [Les impacts du changement climatique](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf) observés en France
+  - Le célèbre ["warming stripes" graph](https://showyourstripes.info/)
+  - [Carte des variations de température observées partout dans le monde](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) sur le site Carbonbrief
+- [Les impacts du changement climatique](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf) observés en France sur le site web de l'ONERC (ministère de l'environnement)
 
 
 ### Les impacts projetés par les modèles
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
-- [Les impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#) pour différents niveaux de réchauffement
+- [Un graphique interactif des impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#) pour différents niveaux de réchauffement
 
 ### Les conséquences de ces impacts dans la vie de tous les jours
 - Une description très parlante est l'article "The Uninhabitable Earth", paru en 2017 ([Original version](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) or [annotated version, with comments](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html)). C'est un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
 - [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
 - [Demain, quel climat sur le pas de ma porte ?](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/) Un grand format interactif de l’Agence France-Presse
   - [Un article similaire sur le site du Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+
+### L'adaptation au changement climatique en France
+- Le Chapitre 4 du [rapport du haut conseil pour le climat de 2021](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
+- Un rapport du Sénat publié en 2019: ["Adapter la France aux dérèglements climatiques à l'horizon 2050 : urgence déclarée"](https://www.senat.fr/notice-rapport/2018/r18-511-notice.html)
 
 ### Ressources générales sur le changement climatique
 - [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
