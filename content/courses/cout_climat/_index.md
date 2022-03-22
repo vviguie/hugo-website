@@ -27,7 +27,7 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 {{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/xmveztfma7xd36u/viguie%20cours%20impacts.pdf?dl=0)
 
 ### Vidéos
-{{< spoiler text="Une partie du cours avait été enregistrée en vidéo en 2020 durant le confinement. Cliquer ici pour afficher ces vidéos." >}}
+{{< spoiler text="L'essentiel du cours avait été enregistré en vidéo en 2020 durant le confinement (à destination d'étudiants en master/école d'ingénieur). Cliquer ici pour afficher ces vidéos." >}}
 
 #### Introduction (partie 1)
 {{< youtube kjlvspacFM8 >}} 
@@ -57,6 +57,12 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 {{< youtube CU7x8Niepbk >}}
 
 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Autre vidéo: enregistrement de ce même cours donné à l'école doctorale des Sciences de l'environnement d'Île de France le 9 mars 2022 (NB: ce cours étant donné à des doctorants du domaine, je passe beaucoup plus vite sur certains points). Cliquer ici pour afficher la vidéo." >}}
+
+{{< youtube segbLeA-zyU >}}
 
 {{< /spoiler >}}
 
