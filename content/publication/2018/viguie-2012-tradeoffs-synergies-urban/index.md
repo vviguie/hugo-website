@@ -9,5 +9,9 @@ featured: false
 publication: "*Nature Climate Change*"
 tags: ["Adaptation", "Sustainable city development","Transport emissions","Modelling city evolutions","Adaptation policies","flood"]
 doi: "10.1038/nclimate1434"
+url_pdf : http://www.centre-cired.fr/wp-content/uploads/2022/03/Viguie-et-Hallegatte-2012-Trade-offs-and-synergies-in-urban-climate-policies2.pdf
+links:
+- name: Supplementary information
+  url: http://www.centre-cired.fr/wp-content/uploads/2022/03/Viguie-et-Hallegatte-2012-Trade-offs-and-synergies-in-urban-climate-policies.pdf
 ---
 
