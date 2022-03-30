@@ -1,5 +1,5 @@
 ---
-title: Les impacts économiques du changement climatique
+title: Les impacts économiques et politiques du changement climatique
 #linkTitle: Cities modelling
 summary: A 3h lecture (in French) given in several masters.
 date: '2021-10-14'
