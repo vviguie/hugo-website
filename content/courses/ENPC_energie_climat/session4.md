@@ -1,5 +1,5 @@
 ---
-title: 4. Les scénarios de transition énergétique en France
+title: "4. Analyse économique et politiques environnementales: le cas des politiques d'efficacité énergétique dans les bâtiments."
 date: '2021-01-01'
 type: book
 weight: 45
@@ -13,17 +13,17 @@ copyright_license:
     Except as otherwise noted, this work is licensed under {license}, and code
     samples are licensed under the MIT License.
 ---
-La politique énergétique et climatique française, la question du nucléaire.
+Comment concevoir des politiques d'amélioration de l'efficacité énergétique des logements? Comment mesurer et anticiper le coût et l'efficacité de ces politiques?
 
 <!--more-->
 
 
-Cours présenté par Philippe Quirion. Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
+Cours présenté par Gaetan Giraudet. Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
+
 
 #### Pour en savoir plus
-- Les [4 scénarios de l'Ademe pour atteindre la neutralité carbone en France](https://transitions2050.ademe.fr/)
-- Les [scénarios de l'institut Negawatt](https://negawatt.org/)
-- le rapport de RTE [Futurs énergétiques 2050 : les scénarios de mix de production à l’étude permettant d’atteindre la neutralité carbone à l’horizon 2050](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques)
-- Le rapport [Coût d’un système électrique optimal sans émissions de CO2 pour la France, avec et sans nucléaire](https://hal.archives-ouvertes.fr/hal-02434990/document) et l'article [Low-carbon options for the French power sector: What role for renewables, nuclear energy and carbon capture and storage?](https://www.sciencedirect.com/science/article/pii/S0140988320303443)
-- [Nuclear Power in a Clean Energy System](https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system) by the International Energy Agency
+
+- [Policies for low-carbon and affordable home heating: A French outlook](https://www.sciencedirect.com/science/article/abs/pii/S0301421521000094)
+- [Efficacité économique et effets distributifs de long-terme des politiques de rénovation énergétique des logements](https://www.cairn.info/revue-economie-et-prevision-2020-1-page-43.htm)
+- [Aides publiques à l’efficacité énergétique: Mérites respectifs des subventions ad valorem et spécifiques](https://www.cairn.info/revue-d-economie-politique-2018-6-page-1089.htm)
 

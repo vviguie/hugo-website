@@ -3,7 +3,7 @@ title: Introduction aux questions économiques et (géo)politiques de la transit
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linkTitle: Transition énergétique et changement climatique
 # Page summary for search engines.
-summary: Un module d'introduction (18h) donné en première année à l'École des Ponts et Chaussées
+summary: Un module d'introduction (18h) donné en première année à l'École des Ponts et Chaussées.
 date: '2021-09-24'
 # Book page type (do not modify).
 type: book
