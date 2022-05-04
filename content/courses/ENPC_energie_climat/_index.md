@@ -33,6 +33,7 @@ Un cours d'introduction donné en première année à l'[École des Ponts et Cha
 ## Objectifs du cours
 
 Le changement climatique est un péril majeur pour nos sociétés. Ce changement, dont on commence déjà à voir des effets et dont l’origine humaine n’est plus remise en doute, n’est cependant dû qu’à des choix que nous faisons tous les jours, et il est encore temps d’agir pour en limiter les effets. 
+
 Ce cours introductif a pour objectif de présenter les principales idées de cadrage sur cette question, en mettant l‘accent sur les éclairages apportés par l’analyse économique et politique : pourquoi le changement climatique est-il grave ? Que peut-on attendre des négociations climatiques ? Quels freins nous empêchent de réduire nos émissions de gaz à effet de serre ? Quelles sont les interactions avec les objectifs de réduction de la pauvreté ? Les politiques actuelles sont-elles efficaces ?…
 
 Plusieurs chercheurs experts du sujet interviennent pour animer des séances sur leurs thèmes respectifs, et le cours demande aux étudiants de participer à des débats, de faire des présentations, et de réaliser un certain nombre de travaux individuels d'analyse avant les cours. 
@@ -42,8 +43,14 @@ Les objectifs principaux du cours sont triples:
 - Illustrer en quoi les connaissances scientifiques et économiques permettent de cadrer les débats.
 - Entraîner les étudiants à l'analyse économique et politique de sujets de société.
 
+## Validation et infographies
+
+Pour valider le cours, les étudiants doivent animer des débats sur les sujets du cours et faire des présentations. Ils doivent également produire des infographies sur des questions du cours qui les ont intéressés. Quelques exemples sont disponibles sur twitter, en cherchant [#ENPC_ECO_CLIMAT](https://twitter.com/search?q=%23ENPC_ECO_CLIMAT&src=typeahead_click&f=live).
+
 
 ## Aperçu des séances
+
+Les séances 6 et 7 alternent suivant les années.
 
 {{< list_children >}}
 
