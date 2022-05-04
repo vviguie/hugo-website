@@ -17,6 +17,7 @@ Enjeux géopolitiques, inégalités internationales et intra-nationales d'émisi
 
 <!--more-->
 
+{{< figure src="cours_enpc_2.jpeg" title="&copy; Photo by [Li-An Lim](https://unsplash.com/@li_anlim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-accord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
 
 ## Les inégalités d'émissions entre les pays
 

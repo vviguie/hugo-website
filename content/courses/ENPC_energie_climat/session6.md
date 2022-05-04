@@ -17,8 +17,9 @@ Au delà des états, les villes et les régions mènent des stratégies de trans
 
 <!--more-->
 
+{{< figure src="cours_enpc_6.jpg" title="&copy; Photo by [arihant daga](https://unsplash.com/@stonepicker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-accord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
 
-Cours présenté par Charlotte Liotta. Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
+Cours présenté par [Charlotte Liotta](https://www.centre-cired.fr/charlotte-liotta/). Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
 
 Pour en savoir plus, mon cours [Climate Change and Urban Policy Choices]({{< ref "/courses/getec/" >}} "Climate Change and Urban Policy Choices") regarde ces aspects plus en détail.
 

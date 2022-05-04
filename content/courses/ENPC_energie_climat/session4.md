@@ -17,8 +17,11 @@ Comment concevoir des politiques d'amélioration de l'efficacité énergétique 
 
 <!--more-->
 
+{{< figure src="cours_enpc_4.jpg" title="&copy; Photo by [Robert Linder](https://unsplash.com/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-accord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
 
-Cours présenté par Gaetan Giraudet. Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
+
+
+Cours présenté par [Gaetan Giraudet](https://www.centre-cired.fr/louis-gaetan-giraudet/). Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
 
 
 #### Pour en savoir plus

@@ -16,6 +16,8 @@ Panorama des émissions de gaz à effet de serre, rappels sur le cycle du carbon
 
 <!--more-->
 
+{{< figure src="cours_enpc_1.jpg" title="&copy; Photo by [Chris LeBoutillier](https://unsplash.com/@chrisleboutillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/emissions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
+
 
 ## Introduction
 {{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/mxa14u3nuwc9r2e/1_Intro.pdf?dl=0)

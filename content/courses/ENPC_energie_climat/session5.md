@@ -16,9 +16,9 @@ copyright_license:
 La politique énergétique et climatique française, la question du nucléaire.
 
 <!--more-->
+{{< figure src="cours_enpc_5.jpg" title="&copy; Photo by [Gonz DDL](https://unsplash.com/@gonz_ddl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-accord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
 
-
-Cours présenté par Philippe Quirion. Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
+Cours présenté par [Philippe Quirion](https://www.centre-cired.fr/philippe-quirion/). Infos sur la page Moodle du cours (*Accès réservé aux étudiants de l'École des Ponts et Chaussées*).
 
 #### Pour en savoir plus
 - Les [4 scénarios de l'Ademe pour atteindre la neutralité carbone en France](https://transitions2050.ademe.fr/)

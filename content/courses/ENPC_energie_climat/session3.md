@@ -17,6 +17,7 @@ Quels seront les impacts du changement climatique dans la vie de tous les jours?
 
 <!--more-->
 
+{{< figure src="cours_enpc_3.jpg" title="&copy; Photo by [NOAA](https://unsplash.com/es/@noaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-accord?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">}}
 
 Ce cours est extrait d'un cours plus large que je donne: [Les impacts économiques et politiques du changement climatique]({{< ref "/courses/cout_climat/" >}} "Les impacts économiques et politiques du changement climatique").
 
