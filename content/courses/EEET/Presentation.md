@@ -23,7 +23,7 @@ Modélisation des villes et enjeux environnementaux.
 
 
 ## Présentation
-{{< icon name="download" pack="fas" >}} [Présentation Powerpoint](http://www.centre-cired.fr/wp-content/uploads/2021/08/modelisation_transports2020.pdf)
+{{< icon name="download" pack="fas" >}} [Télécharger la présentation Powerpoint](http://www.centre-cired.fr/wp-content/uploads/2021/08/modelisation_transports2020.pdf)
 
 ## Pour en savoir plus
 

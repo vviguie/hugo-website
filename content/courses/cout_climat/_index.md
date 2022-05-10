@@ -85,6 +85,7 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 ### Les impacts projetés par les modèles
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
 - [Un graphique interactif des impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#) pour différents niveaux de réchauffement
+- [L'atlas interactif du dernier rapport du GIEC](https://interactive-atlas.ipcc.ch/)
 
 ### Les conséquences de ces impacts dans la vie de tous les jours
 - Une description très parlante est l'article "The Uninhabitable Earth", paru en 2017 ([Original version](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) or [annotated version, with comments](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html)). C'est un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
