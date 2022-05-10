@@ -71,7 +71,7 @@ A good understanding of the physical mechanisms behind climate change, the origi
 Here are a few ideas of websites with basic information on climate change (many other exist) :
 - [MIT](https://climate.mit.edu/) and [NASA](https://climate.nasa.gov/) websites on climate change provide clear introductory articles and great infographics. So does [Imperial College website](https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/)
 - [NY Times FAQ on climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html) and the [plain language definition of Climate Jargon](https://www.nytimes.com/interactive/2021/10/31/climate/climate-change-sustainability-definition.html?action=click)
-- [A nice document by IPCC explaining how to teach climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), really worth reading]
+- [A nice document by IPCC explaining how to teach climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), really worth reading
 - [in French] https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/
 
 If you are in France, it is worth trying to participate to a [Fresque du climat](https://fresqueduclimat.org/) event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French]. 
