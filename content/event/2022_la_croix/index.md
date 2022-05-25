@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Imaginer les Possibles du Changement Climatique"
-event: Rencontres de la bibliothèque de Toulouse, Temps fort écologie
-event_url: https://www.bibliotheque.toulouse.fr/agenda/nos-futurs-imaginer-les-possibles-du-changement-climatique/
-location: Médiathèque José Cabanis, Bibliothèque de Toulouse
+title: "Interview dans La Croix"
+event: "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
+event_url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Table ronde avec Catherine Dufour, autrice de science-fiction et fantasy et Daniel Suchet, maître de conférences (École polytechnique), spécialisé dans les questions d’énergie.
-abstract: "Avec Catherine Dufour, autrice de science-fiction et fantasy, Vincent Viguié, économiste, ingénieur des Ponts, Eaux et Forêts et chercheur au Centre International de Recherche sur l’Environnement et le Développement et Daniel Suchet, maître de conférences (École polytechnique), spécialisé dans les questions d’énergie."
+summary: Interview dans le cadre d'un article "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
+abstract: Pour s’adapter au changement climatique, les grandes métropoles ont multiplié ces dernières années les projets de plantation d’arbres en ville. Les spécialistes insistent néanmoins sur la nécessité de privilégier la qualité à la quantité.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-24T18:00:00+02:00
-date_end: 2022-05-24T19:00:00+02:00
+date: 2022-05-25T14:12:09+02:00
+date_end: 2022-05-25T14:12:09+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-05-24T18:29:15+02:00
+publishDate: 2022-05-25T14:12:09+02:00
 
-authors: ['Catherine Dufour', 'Daniel Suchet','Vincent Viguié']
-tags: ['adaptation policies','Sustainable city development']
+authors: []
+
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -51,6 +51,9 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
+links:
+- name: article
+  url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,7 +69,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 
-links:
-- name: URL
-  url: https://www.bibliotheque.toulouse.fr/agenda/nos-futurs-imaginer-les-possibles-du-changement-climatique/
+tags: [heatwave, "adaptation policies", "Sustainable city development"]
 ---

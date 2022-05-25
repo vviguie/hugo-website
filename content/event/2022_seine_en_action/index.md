@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Intervention à l'événement de la coopération des agences d'urbanisme de la Vallée de la Seine"
+title: "La Seine en action(s) - Des projets pour une vallée décarbonée: Intervention à l'événement de la coopération des agences d'urbanisme de la Vallée de la Seine"
 event: "La Seine en action(s) - Des projets pour une vallée décarbonée"
 event_url: https://www.vdseine.fr/la-seine-en-actions/
 location: On line
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: ""
+summary: Journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine
 abstract: "La Seine en action(s) - Des projets pour une vallée décarbonée: journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine."
 
 # Talk start and end times.
