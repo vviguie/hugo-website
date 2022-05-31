@@ -17,7 +17,7 @@ abstract: Consommation d'énergie, émission de gaz à effet de serre... Comment
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-08-22T00:00:00+02:00
-date_end: 2021-08-22T00:00:00+02:00
+#date_end: 2021-08-22T00:00:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).

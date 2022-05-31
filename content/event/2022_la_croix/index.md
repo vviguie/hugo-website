@@ -16,9 +16,9 @@ abstract: Pour s’adapter au changement climatique, les grandes métropoles ont
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-25T14:12:09+02:00
-date_end: 2022-05-25T14:12:09+02:00
-all_day: false
+date: 2022-05-25T14:00:00+02:00
+#date_end: 2022-05-25T14:12:09+02:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2022-05-25T14:12:09+02:00
