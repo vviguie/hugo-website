@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Intervention à la DRIEAT Île de France: Aménagement et adaptation au changement climatique"
-event: Atelier des services de l'Etat franciliens sur l'adaptation au changement climatique
+title: "Les risques climatiques pour le secteur de l'assurance et de la réassurance"
+event: Séminaire de la Commission de la réassurance - Table ronde sur l'impact du changement climatique
 event_url:
 location:
 address:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: Atelier des services de l'Etat franciliens sur l'adaptation au changement climatique et les enjeux pour les politiques d'aménagement en Île de France.
-abstract: Atelier des services de l'Etat franciliens sur l'adaptation au changement climatique et les enjeux pour les politiques d'aménagement en Île de France.
+summary: Séminaire de la Commission de la réassurance - Table ronde sur l'impact du changement climatique
+abstract: France Assureurs est le principal organisme de représentation professionnelle des entreprises d’assurance en France.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-08T12:00:00+02:00
-date_end: 2021-10-08T12:00:00+02:00
-all_day: true
+date: 2022-06-13T09:30:00+02:00
+date_end: 2022-06-13T10:30:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-10-12T12:03:26+02:00
+publishDate: 2022-06-13T14:28:55+02:00
 
 authors: []
-tags: ['adaptation policies','Sustainable city development']
+tags: ["adaptation policies"]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -46,11 +46,13 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: http://www.centre-cired.fr/wp-content/uploads/2021/10/presentation_viguie-1.pdf
+url_slides: https://www.centre-cired.fr/wp-content/uploads/2022/06/Presentation_viguie_june_2022.pdf
 
 url_code:
 url_pdf:
 url_video:
+
+
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

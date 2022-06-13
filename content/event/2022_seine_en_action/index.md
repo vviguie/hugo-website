@@ -1,18 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "La Seine en action(s) - Des projets pour une vallée décarbonée: Intervention à l'événement de la coopération des agences d'urbanisme de la Vallée de la Seine"
+title: "L’urgence à agir localement pour le climat"
 event: "La Seine en action(s) - Des projets pour une vallée décarbonée"
 event_url: https://www.vdseine.fr/la-seine-en-actions/
 location: On line
 address:
   street:
   city:
-  region:
+  region: 
   postcode:
-  country:
-summary: Journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine
-abstract: "La Seine en action(s) - Des projets pour une vallée décarbonée: journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine."
+  country: 
+summary: Intervention à l'événement de la coopération des agences d'urbanisme de la Vallée de la Seine.
+abstract: "*Journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine.*
+La décarbonation est un défi majeur pour le développement de la Vallée de la Seine. De nombreuses actions sont déjà engagées. Quels enjeux pour l'accélération de la décarbonation de la Vallée de la Seine ? Comment le fleuve peut-il agir comme catalyseur de projets ? Comment tirer parti des atouts du territoire ?
+
+- Séquence 1 : La décarbonation : quels défis pour la France et la Vallée de la Seine ?
+Les intervenants de cette séquence replaceront la Vallée de la Seine dans les dynamiques de décarbonation à l'échelle nationale et internationale.  Ils rappelleront les enjeux de la transition énergétique et écologique. Ils analyseront l’impact des changements climatiques à venir sur la Vallée de la Seine et dresseront les perspectives pour une Vallée de la Seine décarbonée.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +29,7 @@ all_day: false
 publishDate: 2022-02-02T09:28:43+01:00
 
 authors: []
-tags: ['Sustainable city development']
+tags: ['Sustainable city development','adaptation policies']
 
 # Is this a featured event? (true/false)
 featured: false
@@ -68,7 +73,3 @@ slides: ""
 projects: []
 ---
 
-La décarbonation est un défi majeur pour le développement de la Vallée de la Seine. De nombreuses actions sont déjà engagées. Quels enjeux pour l'accélération de la décarbonation de la Vallée de la Seine ? Comment le fleuve peut-il agir comme catalyseur de projets ? Comment tirer parti des atouts du territoire ? L'événement mêlera les dimensions prospective et opérationnelle. Au cours de la matinée, vous assisterez à des échanges avec des experts, des opérateurs et des porteurs d'action au coeur du défi de la décarbonation. 
-
-Séquence 1 : La décarbonation : quels défis pour la France et la Vallée de la Seine ?
-Les intervenants de cette séquence replaceront la Vallée de la Seine dans les dynamiques de décarbonation à l'échelle nationale et internationale.  Ils rappelleront les enjeux de la transition énergétique et écologique. Ils analyseront l’impact des changements climatiques à venir sur la Vallée de la Seine et dresseront les perspectives pour une Vallée de la Seine décarbonée.
