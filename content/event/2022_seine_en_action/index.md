@@ -12,7 +12,7 @@ address:
   postcode:
   country: 
 summary: Intervention à l'événement de la coopération des agences d'urbanisme de la Vallée de la Seine.
-abstract: "*Journée organisée par la la coopération des agences d'urbanisme de la Vallée de la Seine.*
+abstract: "*Journée organisée par la coopération des agences d'urbanisme de la Vallée de la Seine.*
 La décarbonation est un défi majeur pour le développement de la Vallée de la Seine. De nombreuses actions sont déjà engagées. Quels enjeux pour l'accélération de la décarbonation de la Vallée de la Seine ? Comment le fleuve peut-il agir comme catalyseur de projets ? Comment tirer parti des atouts du territoire ?
 
 - Séquence 1 : La décarbonation : quels défis pour la France et la Vallée de la Seine ?
