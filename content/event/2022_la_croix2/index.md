@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interview dans La Croix"
-event: "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
-event_url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
+event: "Climatiser son logement pendant une canicule : une fausse bonne idée ?"
+event_url:  https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
 location:
 address:
   street:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: Interview dans le cadre d'un article "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
-abstract: Pour s’adapter au changement climatique, les grandes métropoles ont multiplié ces dernières années les projets de plantation d’arbres en ville. Les spécialistes insistent néanmoins sur la nécessité de privilégier la qualité à la quantité.
+summary: "Interview dans le cadre d’un article “Climatiser son logement pendant une canicule : une fausse bonne idée ?“"
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-25T14:00:00+02:00
-#date_end: 2022-05-25T14:12:09+02:00
+date: 2022-06-16T17:30:27+02:00
+date_end: 2022-06-16T17:30:27+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-05-25T14:12:09+02:00
+publishDate: 2022-06-16T17:30:27+02:00
 
 authors: []
-
+tags: ['adaptation policies','heatwave']
 
 # Is this a featured event? (true/false)
 featured: true
@@ -53,7 +53,7 @@ url_pdf:
 url_video:
 links:
 - name: Article
-  url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
+  url: https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -68,6 +68,4 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-tags: [heatwave, "adaptation policies", "Sustainable city development"]
 ---

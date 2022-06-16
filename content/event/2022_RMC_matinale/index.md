@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans La Croix"
-event: "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
-event_url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
+title: "Interview dans la matinale de RMC"
+event: "Le reportage de la rédaction: Canicule : climatisation, un bien pour un mal ?"
+event_url: https://www.rmcbfmplay.com/video/rmc-story/apolline-matin/jeudi-16-juin-2022-06h07h?contentId=Product::NEUF_NUM23_N23559962099527A&universe=PROVIDER
 location:
 address:
   street:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: Interview dans le cadre d'un article "Face au réchauffement climatique, l’arbre devient un sujet épineux pour les grandes villes"
-abstract: Pour s’adapter au changement climatique, les grandes métropoles ont multiplié ces dernières années les projets de plantation d’arbres en ville. Les spécialistes insistent néanmoins sur la nécessité de privilégier la qualité à la quantité.
+summary: "06h/07h la matinale de RMC. Le reportage de la rédaction: Canicule : climatisation, un bien pour un mal ?"
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-25T14:00:00+02:00
-#date_end: 2022-05-25T14:12:09+02:00
-all_day: true
+date: 2022-06-16T06:14:26+02:00
+date_end: 2022-06-16T06:15:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-05-25T14:12:09+02:00
+publishDate: 2022-06-16T11:07:30+02:00
 
 authors: []
-
+tags: ['adaptation policies','heatwave']
 
 # Is this a featured event? (true/false)
 featured: true
@@ -50,10 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
-links:
-- name: Article
-  url: https://www.la-croix.com/Face-rechauffement-climatique-larbre-devient-sujet-epineux-grandes-villes-2022-05-25-1201216836
+url_video: https://www.rmcbfmplay.com/video/rmc-story/apolline-matin/jeudi-16-juin-2022-06h07h?contentId=Product::NEUF_NUM23_N23559962099527A&universe=PROVIDER
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -68,6 +65,4 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-tags: [heatwave, "adaptation policies", "Sustainable city development"]
 ---
