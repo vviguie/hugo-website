@@ -11,21 +11,21 @@ main:
     identifier : research
     url: '/research'
     weight: 10
-  - name: "Publications per topic"
+  - name: "Research topics"
     parent: research
     url: '#research_topic'
     weight: 11
-  - name: "See all publications"
+  - name: "Team"
     parent: research
-    url: '/publication/'
+    url: '#phd_supervision'
     weight: 12
-  - name: Research projects
+  - name: Main research projects
     parent : research
     url: '#research_projects2'
     weight: 13
-  - name: PhD supervisions
-    parent : research
-    url: '#phd_supervision'
+  - name: "See all publications"
+    parent: research
+    url: '/publication/'
     weight: 14
   - name: "Communication/media/talks"
     identifier : outreach
@@ -35,13 +35,17 @@ main:
     parent: outreach
     url: 'outreach/#associations'
     weight: 64
+  - name: "Media"
+    parent: outreach
+    url: 'outreach/#media'
+    weight: 65
+  - name: "Academic and non-academic talks"
+    parent: outreach
+    url: 'outreach/#talks'
+    weight: 66
   - name: "Videos"
     parent: outreach
     url: 'outreach/#videos'
-    weight: 64
-  - name: "Talks and Interviews"
-    parent: outreach
-    url: 'outreach/#talks'
     weight: 66
   - name: "Courses"
     url: '/courses/'

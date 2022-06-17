@@ -7,10 +7,11 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
-title: 'Talks and Interviews'
-subtitle: ''
+title: 'Recent talks'
+subtitle: 'Academic and non-academic presentations'
+
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -22,7 +23,7 @@ content:
     author: ""
     category: ""
     tag: ""
-    exclude_featured: false
+    exclude_featured: true
     exclude_future: false
     exclude_past: false
     publication_type: ""

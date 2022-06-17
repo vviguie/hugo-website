@@ -1,4 +1,6 @@
 ---
+title: Communication
+
 # Homepage
 type: widget_page
 

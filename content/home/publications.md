@@ -12,7 +12,7 @@ headless: true
 weight: 65
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Peere-reviewed articles, reports, working papers and book chapters'
 
 content:
   # Page type to display. E.g. post, talk, publication...

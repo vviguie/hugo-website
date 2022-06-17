@@ -1,5 +1,5 @@
 ---
-title: Talks and Interviews
+title: Academic and non-academic presentations, media interventions
 
 # View.
 #   1 = List
