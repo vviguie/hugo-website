@@ -22,7 +22,7 @@ TP de modélisation
 {{< figure src="TP_EEET.jpg" title="Exemple de carte de densité de population">}}
 
 {{% callout note %}}
-Ce TP nécessite de pouvoir faire tourner des scripts Python. Vous pouvez installer par exemple la distribution [Anaconda](https://www.anaconda.com/), ou faire tourner le code en ligne sur [Google Colab](https://colab.research.google.com).
+Ce TP nécessite de pouvoir faire tourner des scripts Python. Vous pouvez installer par exemple la distribution [Anaconda](https://www.anaconda.com/), ou éventuellement faire tourner le code en ligne sur [Google Colab](https://colab.research.google.com).
 {{% /callout %}}
 ## Fichiers du TP
 
@@ -146,7 +146,7 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 
 
 
-{{< figure src="GPE.png">}}
+{{< figure src="GPE.jpg">}}
 
 
 ## Pour en savoir plus
