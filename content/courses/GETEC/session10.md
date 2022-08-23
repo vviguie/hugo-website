@@ -16,6 +16,11 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 {{% /callout %}}
 
 
+## Required reading
+
+[The problem with net-zero emissions targets](https://www.carbonbrief.org/guest-post-the-problem-with-net-zero-emissions-targets/).
+
+
 ## Defining city GHG emissions
 {{< youtube yPgIpodE3Do>}}
 

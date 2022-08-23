@@ -16,6 +16,11 @@ Now that we have studied the main impacts of climate change, and a few adaptatio
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-adaptation.pdf)
 {{% /callout %}}
 
+## Required reading
+
+- [World Bank. Adaptation Principles : A Guide for Designing Strategies for Climate Change Adaptation and Resilience](https://openknowledge.worldbank.org/handle/10986/34780)
+- [CEREMA. The resilience compass - Benchmarks for territorial resilience](https://www.cerema.fr/fr/centre-ressources/boutique/resilience-compass-benchmarks-territorial-resilience) (it can be downloaded freely from the website of CEREMA)
+
 ## Adaptation strategies
 {{<youtube 2nfl-ZZ71Ok>}}
 ## When should adaptation begin?
@@ -31,11 +36,10 @@ Now that we have studied the main impacts of climate change, and a few adaptatio
 Please also watch this video: Sébastien Maire - Paris and the Resilience Approach to Cities
 {{<youtube IwsC4w7_4mA>}}
  
-## [optional] I suggest you to read these two reports 
-- [World Bank. Adaptation Principles : A Guide for Designing Strategies for Climate Change Adaptation and Resilience](https://openknowledge.worldbank.org/handle/10986/34780)
-- [CEREMA. The resilience compass - Benchmarks for territorial resilience](https://www.cerema.fr/fr/centre-ressources/boutique/resilience-compass-benchmarks-territorial-resilience) (it can be downloaded freely from the website of CEREMA)
+
 
 ## To know more
+- To know more on general questions on adaptation policies in cities, you can have a look at the [Chapter 6 "Cities, Settlements and Key Infrastructure"](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter06.pdf) of the working group 2 of the last IPCC report. You can especially read the 5 Frequently Asked Questions (near the end of the chapter).
 - To know more about the state of adaptation policies in France, you can read:
   - [In French] The [report](https://www.senat.fr/espace_presse/actualites/201905/adaptation_de_la_france_aux_changements_climatiques_a_lhorizon_2050.html) of the French Senate of the country readiness to cope with climate impacts 
   - [The 2021 report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)

@@ -15,6 +15,11 @@ In this lecture, we discuss an important part of urban policies: land planning. 
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/city-shape.pdf)
 {{% /callout %}}
 
+## Required reading
+
+[The spatial organization of cities: Deliberate outcome or unforeseen consequence?](https://alainbertaud.com/wp-content/uploads/2013/06/AB_The_spatial_organization_of_cities_Version_31.pdf) a 2004 article by Alain Bertaud. We will discuss this paper during the class (NB: you will study these questions in depth in the second semester in the Urban Ecomomics class).
+
+
 ## Urban planning and urban design
 {{<youtube -6rdn12GhHs>}}
  

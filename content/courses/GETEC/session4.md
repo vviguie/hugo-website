@@ -13,6 +13,9 @@ In this lecture, we cover the second type of direct impacts : natural disasters.
 
 Adaptation to these impacts imposes changes in the way traditional natural risk prevention is done. this is especially due to the progressive nature of climate change, and to the quantitative uncertainties surrounding the exact magnitude of its impacts.
 
+## Required reading
+
+[How climate change affects extreme weather around the world](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/?utm_campaign=Weekly%20Briefing&utm_content=20220822&utm_medium=email&utm_source=Revue%20newsletter) (2022).
 
 ## Natural disasters
 {{% callout note %}}

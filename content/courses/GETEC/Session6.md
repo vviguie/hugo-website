@@ -15,6 +15,11 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-transport.pdf)
 {{% /callout %}}
 
+## Required reading
+
+- [Why green and healthy transport modes deliver vast rewards for cities](https://www.c40knowledgehub.org/s/article/Why-shifting-to-green-and-healthy-transport-modes-delivers-vast-rewards-for-cities?language=en_US) by C40
+- An [in-depth study](https://www.transportenvironment.org/discover/how-clean-are-electric-cars/) by Transport and Environment comparing the life-cycle emissions of electric, and diesel and petrol cars. See also the first 3 pages of the [report](https://www.transportenvironment.org/wp-content/uploads/2020/04/TEs-EV-life-cycle-analysis-LCA.pdf).
+
 ## Global figures and concepts
 {{<youtube GpRv3fbX1dE>}}
 
@@ -36,7 +41,6 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 
 #### References
 - https://www.c40knowledgehub.org/s/article/How-to-drive-electric-vehicle-uptake-in-your-city?language=en_US
-- https://www.transportenvironment.org/sites/te/files/T%26E%E2%80%99s%20EV%20life%20cycle%20analysis%20LCA.pdf
 
  
 ## To know more

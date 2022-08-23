@@ -146,7 +146,7 @@ Enfin, une variable ‘coeff_land’ donne la part de la surface du pixel qui es
 
 
 
-{{< figure src="GPE.jpg">}}
+{{< figure src="GPE.jpg" title="Tracé du Grand Paris Express et calendrier initial du projet">}}
 
 
 ## Pour en savoir plus

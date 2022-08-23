@@ -22,6 +22,10 @@ In this lecture, we cover a first type of direct impacts :
 
 Adaptation to these impacts are important elements of adaptation strategies of numerous cities around the world. 
 
+## Required reading
+
+[Why avoiding climate change ‘maladaptation’ is vital](https://www.carbonbrief.org/guest-post-why-avoiding-climate-change-maladaptation-is-vital/) (2021).
+
 ## Freshwater availability 
 {{< youtube DbuE2HKgoMo >}}
 
