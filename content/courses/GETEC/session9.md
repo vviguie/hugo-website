@@ -13,4 +13,5 @@ In this lecture, we cover the second part of emissions in cities: residential em
 
 This course will be presented by a guest speaker.
 
+Info on the moodle page of the course (_restricted to Science Po students_).
 

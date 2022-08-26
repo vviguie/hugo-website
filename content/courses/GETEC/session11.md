@@ -17,7 +17,8 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 
 ## Required reading
 
-[Ostrom, E., 2009. A Polycentric Approach for Coping with Climate Change. Background paper for the WDR 2010.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/480171468315567893/a-polycentric-approach-for-coping-with-climate-change)
+[Ostrom, E., 2009. A Polycentric Approach for Coping with Climate Change. Background paper for the WDR 2010.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/480171468315567893/a-polycentric-approach-for-coping-with-climate-change) This is a classic article by Elinor Orstrom, who won the 2009 Nobel Prize in Economic Sciences. You can find a summary of somne of the main ideas in [this interview](https://www.thenewhumanitarian.org/feature/2012/04/25/interview-nobel-prize-winner-elinor-ostrom-climate-change) (but I strongly advise to read the whole paper). 
+
 
 ### Mitigation planning
 {{< youtube kaQ7wa2U4Ag>}}

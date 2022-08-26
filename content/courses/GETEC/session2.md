@@ -44,7 +44,7 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 {{< youtube XRCzT7TEz0Q >}}
 
 #### The reference document on this question
-- The [Global Assessment Report on Biodiversity and Ecosystem Services (2019)](https://ipbes.net/global-assessment) of IPBES
+- The [Biodiversity And Climate Change report](https://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf) by IPBES and IPCC 
 
 ## Agriculture and food security
 {{< youtube Uc4VpTWrbpA >}}
