@@ -22,7 +22,7 @@ In this lecture, we quickly cover the basics of the greenhouse effect and of cli
 
 #### Presentation
 
-[{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/08/Course-1-GETEC-Viguie.pdf)
+{{< icon name="download" pack="fas" >}} Download the presentation [First part](https://www.centre-cired.fr/wp-content/uploads/2022/08/1.-course-1-2022.pdf) and [second part](https://www.centre-cired.fr/wp-content/uploads/2022/08/2.-2022-evolution-emissions2.pdf).
 
 #### Video presented in the course 
 CO2 concentration in the atmosphere during one year.
@@ -39,12 +39,11 @@ CO2 concentration in the atmosphere during one year.
 - [Global carbon project](https://www.globalcarbonproject.org/) for the latest figures about the greenhouse gases emissions and concentration in the atmosphere
 - The ["spaghetti graph"](https://www.wri.org/data/world-greenhouse-gas-emissions-2016) of all greenhouse gases emissions in the world.
 
-## Evolution of greenhouse gases emissions
-
+## Evolution of greenhouse gases emissions 
 
 ### How much time do we have to act?
 {{< youtube _sbCbWEnbjs>}}
-
+ 
 #### See also
 Another explanation of the carbon budget:
 
@@ -55,6 +54,7 @@ Another explanation of the carbon budget:
 - For more info: https://carbontracker.org/carbon-budgets-where-are-we-now/ 
 
 ### The historical evolution of GHG emissions
+*This is the course as it was presented in 2020. The slides with updated figures can be found [here](https://www.centre-cired.fr/wp-content/uploads/2022/08/2.-2022-evolution-emissions2.pdf) (but the main messages are still valid today).*
 
 #### Until 2020
 {{< youtube Gt96OuvvzzA>}}
