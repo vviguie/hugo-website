@@ -6,15 +6,15 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 6
   - name: Research and publications
     identifier : research
     url: '/research'
-    weight: 10
-  - name: "Research topics"
+    weight: 9
+  - name: "Research topics and publications"
     parent: research
     url: '#research_topic'
-    weight: 11
+    weight: 10    
   - name: "Team"
     parent: research
     url: '#phd_supervision'

@@ -44,6 +44,6 @@ advanced:
 ---
 
 {{% callout note %}}
-You can see all my publications [here](./publication/).
+You can see my latest papers [here](#publications) and all my publications [here](./publication/).
 {{% /callout %}}
 
