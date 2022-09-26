@@ -45,6 +45,7 @@ Please also watch this video: Sébastien Maire - Paris and the Resilience Approa
   - [The 2021 report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
 - To get information on adaptation strategies in various cities, [C40 Cities: Adaptation Data Explorer (Interactive Map)](https://www.c40knowledgehub.org/s/article/Adaptation-Data-Explorer-City?language=en_US).
 - Knowledge on resilience and disaster risk management on World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub) website.
+- To know more on the public park Enghaveparken (Copenhagen) that I use as an example, [a video presentation of the project](https://www.youtube.com/watch?v=e5gjLW2PRfs).
 
 ## References cited in the videos
 - [first video] [Hallegatte, S., F. Lecocq, and C. de Perthuis. 2011. “Designing Climate Change Adaptation Policies: An Economic Framework.” Policy Research Working Paper Series.](https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-5568)
