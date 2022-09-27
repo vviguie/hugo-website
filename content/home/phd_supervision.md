@@ -26,7 +26,11 @@ advanced:
 
 - [Charlotte Liotta](http://www.centre-cired.fr/fr/charlotte-liotta/), co-supervised with [Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) (MCC Berlin)
 - [Samuel Juhel](http://www.centre-cired.fr/fr/samuel-juhel/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
-- [Basile Pfeiffer](http://www.centre-cired.fr/fr/basile-pfeiffer/), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
+- [Adrien Delahais](https://www.centre-cired.fr/adrien-delahais/), co-supervised with [Fabien Leurent](https://www.centre-cired.fr/fabien-leurent/) (CIRED, Ecole des Ponts ParisTech)
+- [Théo Mandonnet](http://www.centre-cired.fr/fr/samuel-juhel/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
+
+## Former PhD students
+- [Basile Pfeiffer](https://www.theses.fr/s165897), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
 
 
 ## Interns
