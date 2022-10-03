@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Vincent Viguié
+title: Dr. Vincent Viguié
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Researcher
+role: Urban climate policies
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ education:
   - course: MEng in Economics and Finance
     institution: Ecole des Ponts ParisTech
     year: 2008
-  - course: MSc in Physics 
+  - course: MSc in Theoretical Physics 
     institution: Ecole Normale Supérieure de Lyon
     year: 2006
   - course: "'Agrégation' of Physics"
