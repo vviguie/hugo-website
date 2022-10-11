@@ -54,7 +54,7 @@ url_video:
 
 links:
 - name: URL
-  url: http://www.chair-energy-prosperity.org/event/international-conference-on-mobility-challenges-3/
+  url: http://www.journeeseconomie.org/index.php?arc=a6&num=902
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

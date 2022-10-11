@@ -68,6 +68,9 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+categories:
+- Conférence grand public
 ---
 
 Avec la participation de :

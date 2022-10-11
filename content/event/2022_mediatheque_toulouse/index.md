@@ -69,4 +69,7 @@ projects: []
 links:
 - name: URL
   url: https://www.bibliotheque.toulouse.fr/agenda/nos-futurs-imaginer-les-possibles-du-changement-climatique/
+
+categories:
+- Conférence grand public
 ---

@@ -70,4 +70,7 @@ slides: ""
 projects: []
 
 tags: [heatwave, "adaptation policies", "Sustainable city development"]
+
+categories:
+- Interview
 ---
