@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans La Croix"
-event: "Climatiser son logement pendant une canicule : une fausse bonne idée ?"
-event_url:  https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
-location:
+title: "Participation à l'émission Le débat du jour sur RFI"
+event: "Le débat du jour"
+event_url: https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/
+location: RFI
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "Interview dans le cadre d’un article “Climatiser son logement pendant une canicule : une fausse bonne idée ?“"
-abstract:
+summary: Un débat de société où des experts abordent une question de société et confrontent leurs points de vue. Présenté par Romain Auzouy.
+abstract: Un débat de société où des experts abordent une question de société et confrontent leurs points de vue. Présenté par Romain Auzouy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-16T17:30:27+02:00
-date_end: 2022-06-16T17:30:27+02:00
-all_day: true
+date: 2022-10-11T19:30:00+02:00
+date_end: 2022-10-11T20:00:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-06-16T17:30:27+02:00
+publishDate: 2022-10-11T11:34:59+02:00
 
 authors: []
-tags: ['adaptation policies','heatwave']
+tags: ['adaptation policies','heatwave','Sustainable city development']
 
 # Is this a featured event? (true/false)
 featured: true
@@ -37,23 +37,18 @@ image:
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: 
 links:
-- name: Article
-  url: https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
+- name: Replay
+  url: https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/
+  icon_pack: fa-regular
+  icon: fa-headphones
 
 categories:
 - Interview

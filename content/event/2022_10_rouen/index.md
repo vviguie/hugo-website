@@ -51,8 +51,8 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
-link:
-- name: URL
+links:
+- name: Replay
   url: https://www.metropole-rouen-normandie.fr/la-metropole-rouen-normandie-capitale-du-monde-dapres/le-forum-de-la-resilience
 
 # Markdown Slides (optional).

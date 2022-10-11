@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans La Croix"
-event: "Climatiser son logement pendant une canicule : une fausse bonne idée ?"
-event_url:  https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
+title: "Interview dans Le Monde"
+event: De l’adaptation à la « maladaptation », apprendre à vivre avec le changement climatique
+event_url: https://www.lemonde.fr/idees/article/2022/10/05/de-l-adaptation-a-la-maladaptation-apprendre-a-vivre-avec-le-changement-climatique_6144426_3232.html
 location:
 address:
   street:
@@ -11,17 +11,17 @@ address:
   region:
   postcode:
   country:
-summary: "Interview dans le cadre d’un article “Climatiser son logement pendant une canicule : une fausse bonne idée ?“"
-abstract:
+summary: "Interview dans le cadre d’un article “De l’adaptation à la « maladaptation », apprendre à vivre avec le changement climatique“"
+abstract: Face à l’inaction des Etats et à l’augmentation des aléas climatiques, l’adaptation au réchauffement est devenue un volet central de la recherche. Mais pour éviter les effets pervers, elle doit prendre en compte des enjeux d’équité et de justice, notamment liés au genre. Par Claire Legros.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-16T17:30:27+02:00
-date_end: 2022-06-16T17:30:27+02:00
+date: 2022-10-05T10:43:32+02:00
+date_end: 2022-10-05T10:43:32+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-06-16T17:30:27+02:00
+publishDate: 2022-10-07T10:43:32+02:00
 
 authors: []
 tags: ['adaptation policies','heatwave']
@@ -53,10 +53,7 @@ url_pdf:
 url_video:
 links:
 - name: Article
-  url: https://www.la-croix.com/Climatiser-logement-canicule-fausse-bonne-idee-2022-06-16-1201220360
-
-categories:
-- Interview
+  url: https://www.lemonde.fr/idees/article/2022/10/05/de-l-adaptation-a-la-maladaptation-apprendre-a-vivre-avec-le-changement-climatique_6144426_3232.html
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
