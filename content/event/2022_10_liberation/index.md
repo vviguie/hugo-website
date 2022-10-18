@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation à l'émission Le débat du jour sur RFI"
-event: "Le débat du jour"
-event_url: https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20221011-faut-il-apprendre-%C3%A0-vivre-avec-le-changement-climatique
-location: RFI
+title: "Interview par Libération"
+event: "Mondial «neutre en carbone» au Qatar: «C’est l’exemple typique du greenwashing»"
+event_url: https://www.liberation.fr/environnement/climat/mondial-neutre-en-carbone-au-qatar-cest-lexemple-typique-du-greenwashing-20221017_XPZVPNWG75BPHK6JLZQHM3CIII/
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Un débat de société où des experts abordent une question de société et confrontent leurs points de vue. Présenté par Romain Auzouy.
-abstract: Un débat de société où des experts abordent une question de société et confrontent leurs points de vue. Présenté par Romain Auzouy.
+summary: "Interview dans le cadre de l'article 'Mondial «neutre en carbone» au Qatar: «C’est l’exemple typique du greenwashing»'" 
+abstract: Le bilan environnemental de la Coupe du monde de football en novembre restera «très élevé» malgré les affirmations des organisateurs.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-10-11T19:30:00+02:00
-date_end: 2022-10-11T20:00:00+02:00
-all_day: false
+date: 2022-10-18T10:05:06+02:00
+date_end: 2022-10-18T10:05:06+02:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-10-11T11:34:59+02:00
+publishDate: 2022-10-18T10:05:06+02:00
 
 authors: []
-tags: ['adaptation policies','heatwave','Sustainable city development']
+tags: ['adaptation policies','heatwave']
 
 # Is this a featured event? (true/false)
 featured: true
@@ -37,21 +37,23 @@ image:
   focal_point: ""
   preview_only: false
 
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
 url_code:
 url_pdf:
-url_video: 
+url_video:
 links:
-- name: Replay
-  url: https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20221011-faut-il-apprendre-%C3%A0-vivre-avec-le-changement-climatique
-  icon_pack: fa-regular
-  icon: fa-headphones
-
-categories:
-- Interview
+- name: Article
+  url: https://www.liberation.fr/environnement/climat/mondial-neutre-en-carbone-au-qatar-cest-lexemple-typique-du-greenwashing-20221017_XPZVPNWG75BPHK6JLZQHM3CIII/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,4 +68,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+categories:
+- interview
 ---
