@@ -18,8 +18,9 @@ Now that we have studied the main impacts of climate change, and a few adaptatio
 
 ## Required reading
 
-- [World Bank. Adaptation Principles : A Guide for Designing Strategies for Climate Change Adaptation and Resilience](https://openknowledge.worldbank.org/handle/10986/34780)
+
 - [CEREMA. The resilience compass - Benchmarks for territorial resilience](https://www.cerema.fr/fr/centre-ressources/boutique/resilience-compass-benchmarks-territorial-resilience) (it can be downloaded freely from the website of CEREMA)
+- [Urban planning for resilience and health: key messages](https://www.who.int/europe/publications/i/item/WHO-10665-355760) by the World Health Organization
 
 ## Adaptation strategies
 {{<youtube 2nfl-ZZ71Ok>}}
@@ -44,7 +45,7 @@ Please also watch this video: Sébastien Maire - Paris and the Resilience Approa
   - [In French] The [report](https://www.senat.fr/espace_presse/actualites/201905/adaptation_de_la_france_aux_changements_climatiques_a_lhorizon_2050.html) of the French Senate of the country readiness to cope with climate impacts 
   - [The 2021 report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
 - To get information on adaptation strategies in various cities, [C40 Cities: Adaptation Data Explorer (Interactive Map)](https://www.c40knowledgehub.org/s/article/Adaptation-Data-Explorer-City?language=en_US).
-- Knowledge on resilience and disaster risk management on World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub) website.
+- Knowledge on resilience and disaster risk management on World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub) website. You can especially read [Adaptation Principles : A Guide for Designing Strategies for Climate Change Adaptation and Resilience](https://openknowledge.worldbank.org/handle/10986/34780).
 - To know more on the public park Enghaveparken (Copenhagen) that I use as an example, [a video presentation of the project](https://www.youtube.com/watch?v=e5gjLW2PRfs).
 
 ## References cited in the videos
