@@ -34,7 +34,7 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 {{< youtube d1EQH2kTfqM>}}
 
 #### References
-- [The peak in cities emissions](https://c40-production-images.s3.amazonaws.com/other_uploads/images/1923_Peaking_emissions_Media_Pack_Extended_version.original.pdf?1536847923)
+- [The peak in cities emissions](https://www.c40knowledgehub.org/s/article/27-C40-Cities-have-peaked-their-greenhouse-gas-emissions?language=en_US) (and its [update](https://www.c40.org/news/30-of-the-world-s-largest-most-influential-cities-have-peaked-greenhouse-gas-emissions/))
 - [How to reduce emissions of cities](https://www.c40knowledgehub.org/s/article/Deadline-2020-How-cities-will-get-the-job-done?language=en_US)
 - [A nice video](https://www.youtube.com/watch?v=DtqSIplGXOA&ab_channel=RealWorldVisuals) showing New York City's greenhouse gas emissions.
 
@@ -46,7 +46,7 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 {{< youtube wcm_DlTHKyo>}}
 
 #### References
-- The report by C40 that I am mentioning several times is https://www.c40knowledgehub.org/s/article/The-future-of-urban-consumption-in-a-1-5-C-world?language=en_US
-- A previous work on the same subject can be found here https://www.c40knowledgehub.org/s/article/Consumption-based-GHG-emissions-of-C40-cities?language=en_US
+- The report by C40 that I am mentioning several times: [The future of urban consumption in a 1.5°C world](https://www.c40knowledgehub.org/s/article/The-future-of-urban-consumption-in-a-1-5-C-world?language=en_US)
+- A previous work on the same subject: [Consumption-based GHG emissions of C40 cities]( https://www.c40knowledgehub.org/s/article/Consumption-based-GHG-emissions-of-C40-cities?language=en_US)
 
 
