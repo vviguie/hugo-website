@@ -14,7 +14,7 @@ organizations:
   url: https://www.centre-cired.fr/
 - name: École des Ponts ParisTech
   url: https://www.ecoledesponts.fr/
-- name: viguie[at]centre-cired.fr or viguie.cired[at]gmail.com
+- name: vincent.viguie[at]enpc.fr or viguie.cired[at]gmail.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adaptation to climate change, urban policies, and sustainable development in general.

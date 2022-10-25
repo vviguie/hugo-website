@@ -17,8 +17,8 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 
 ## Required reading
 
-- [Ostrom, E., 2009. A Polycentric Approach for Coping with Climate Change. Background paper for the WDR 2010.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/480171468315567893/a-polycentric-approach-for-coping-with-climate-change) This is a classic article by Elinor Orstrom, who won the 2009 Nobel Prize in Economic Sciences. You can find a summary of some of the main ideas in [this interview](https://www.thenewhumanitarian.org/feature/2012/04/25/interview-nobel-prize-winner-elinor-ostrom-climate-change) (but I strongly advise to read the whole paper). 
-- [The power, and limits, of local action](https://www.nytimes.com/2022/07/08/climate/local-climate-action.html)
+- [Ostrom, E., 2009. A Polycentric Approach for Coping with Climate Change. Background paper for the WDR 2010.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/480171468315567893/a-polycentric-approach-for-coping-with-climate-change) This is a classic article by Elinor Ostrom, who won the 2009 Nobel Prize in Economic Sciences. You can find a summary of some of the main ideas in [this interview](https://www.thenewhumanitarian.org/feature/2012/04/25/interview-nobel-prize-winner-elinor-ostrom-climate-change) (but I strongly advise to read the whole paper). 
+- A 2022 New York Times article: [The power, and limits, of local action](https://www.nytimes.com/2022/07/08/climate/local-climate-action.html)
 
 ### Mitigation planning
 {{< youtube kaQ7wa2U4Ag>}}
@@ -26,7 +26,7 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 #### References
 - Designing climate plans https://www.c40knowledgehub.org/s/article/Climate-Action-Planning-Framework?language=en_US
 - How to set GHG reduction targets? https://sciencebasedtargetsnetwork.org/wp-content/uploads/2021/04/SBTs-for-cities-guide.pdf
-- [The different ways to compensate emissions](http://compensating%20emissions%20https//www.c40knowledgehub.org/s/article/Defining-carbon-neutrality-for-cities-and-managing-residual-emissions-Cities-perspective-and-guidance?language=en_US)
+- [The different ways to compensate emissions](https://www.c40knowledgehub.org/s/article/Defining-carbon-neutrality-for-cities-and-managing-residual-emissions-Cities-perspective-and-guidance?language=en_US)
 
 ### How to frame a strategy
 {{< youtube vYKNMbb1EWM>}}

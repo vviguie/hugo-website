@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal #1950s #earth #minimal # I use the color scheme of https://www.tiagoribeiro.pt
+theme: minimal #minimal #1950s #earth #minimal # I use the color scheme of https://www.tiagoribeiro.pt
 day_night: automatic
-font: Minimal #Rose
+font: Minimal #Minimal #
 font_size: M
 
 # SEO
