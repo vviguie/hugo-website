@@ -54,7 +54,7 @@ url_video:
 
 links:
 - name: URL
-  url: http://www.journeeseconomie.org/index.php?arc=a6&num=902
+  url: https://www.scet.fr/chocs-contemporains-climat-pandemie-lamenagement-en-ruptures/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
