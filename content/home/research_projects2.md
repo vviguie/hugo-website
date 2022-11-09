@@ -2,6 +2,8 @@
 widget: blank
 headless: true
 
+active: false
+
 # ... Put Your Section Options Here (title etc.) ...
 title: Research projects
 subtitle: Main on-going and past funded projects. See also on my [institutional webpage](http://www.centre-cired.fr/vincent-viguie/).
