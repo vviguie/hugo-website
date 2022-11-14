@@ -41,6 +41,7 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 
 #### References
 - Some background on cities networks https://www.nature.com/news/polopoly_fs/1.20668!/menu/main/topColumns/topLeftColumn/pdf/537611a.pdf
+- A 2022 New York Times article : [As Federal Climate-Fighting Tools Are Taken Away, Cities and States Step Up](https://www.nytimes.com/2022/07/01/climate/climate-policies-cities-states-local.html)
 
 ## More references
 - [Center for Climate and Energy Solutions: "City climate policies"](https://www.c2es.org/content/city-climate-policy/)
