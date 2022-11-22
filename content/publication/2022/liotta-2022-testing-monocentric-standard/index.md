@@ -40,5 +40,7 @@ links:
   url: http://www.centre-cired.fr/wp-content/uploads/2021/10/monocentric_urban_model_validation.pdf
 - name: "pdf (preprint)"
   url: http://arxiv.org/abs/2111.02112
+- name: Database
+  url: https://zenodo.org/record/5747686
 doi: "10.1016/j.regsciurbeco.2022.103832"
 ---
