@@ -45,6 +45,7 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 
 #### References
 - https://www.c40knowledgehub.org/s/article/How-to-drive-electric-vehicle-uptake-in-your-city?language=en_US
+- [in French] [Voitures électriques, à quel coût?](https://www.strategie.gouv.fr/publications/voiture-electrique-cout) by France Stratégie.
 
  
 ## To know more

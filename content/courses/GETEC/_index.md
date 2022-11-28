@@ -58,6 +58,7 @@ There are 12 sessions, grouped into 4 themes:
 
 For more information, here are the main reference documents (difficult to read in their entirety, but useful to look for specific questions) : 
 
+- The [Summaries for Urban Policymakers](https://supforclimate.com/) of the IPCC reports
 - About adaptation policies in cities: [IPCC 2022, Working Group 2 on Impacts, Adaptation and Vulnerability to climate change. “Chapter 6: Cities, settlements and key infrastructure.”](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter06.pdf)
 - About mitigation policies in cities: [IPCC 2022, Working Group 3 on Mitigation of Climate Change. “Chapter 8: Urban systems and other settlements."](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_Chapter08.pdf)
 - Rosenzweig, C., Solecki, W., Romero-Lankao, P., Mehrotra, S., Dhakal, S., & Ali Ibrahim, S. (Eds.). (2018). [Climate Change and Cities: Second Assessment Report of the Urban Climate Change Research Network.](https://uccrn.ei.columbia.edu/arc3.2 ) Cambridge University Press.
