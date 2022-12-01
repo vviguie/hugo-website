@@ -53,10 +53,13 @@ url_pdf: https://www.centre-cired.fr/wp-content/uploads/2022/06/delivrable_final
 ---
 
 {{% callout note %}}
-{{< icon name="download" pack="fas" >}} See [Here](https://anr.fr/Projet-ANR-14-ORAR-0005) the project informations on ANR website.
+{{< icon name="download" pack="fas" >}} See [Here](https://anr.fr/Projet-ANR-14-ORAR-0005) the project informations on ANR website and [here](https://www.centre-cired.fr/wp-content/uploads/2022/06/delivrable_final.pdf) for the final report of the project.
 {{% /callout %}}
 
-# DRAGON project: Economy-energy-environment nexus and its impact on green growth in cities
+
+# Summary of the DRAGON project: Economy-energy-environment nexus and its impact on green growth in cities
+
+{{< toc >}}
 
 ## Simulating city growth to assess the economic and environmental impacts of urban transport and land-use policies.
 Beyond national policies, city-level policies are more and more recognized as key components of global strategies to mitigate GHG emissions. In particular, land-use regulations, transport taxation, or investments in clean transportation modes could reduce car use. However, each city is different, and types of urbanization and urban form have a major impact on the effectiveness of potential public policies. Little is known on how the efficiency of mitigation policies varies when these policies are implemented in cities of various characteristics. In this project, we use a simulation approach, applying a model derived from the Standard Urban Model of urban economics to a sample of 192 cities on 5 continents to analyze how the interplay between transport, economic forces and environmental issues impact the evolution of greenhouse gases emissions in urban transport. 
