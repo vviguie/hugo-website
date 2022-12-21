@@ -9,5 +9,6 @@ featured: false
 publication: "*New Journal of Physics*"
 doi: "10.1088/1367-2630/7/1/195"
 tags: ["divers"]
+url_pdf: https://iopscience.iop.org/article/10.1088/1367-2630/7/1/195/pdf
 ---
 

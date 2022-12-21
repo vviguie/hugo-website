@@ -9,5 +9,6 @@ featured: false
 publication: "*Cybergeo: European Journal of Geography*"
 doi: "10.4000/cybergeo.27668"
 tags: ["Modelling city evolutions"]
+url_pdf: https://journals.openedition.org/cybergeo/27668
 ---
 

@@ -9,5 +9,6 @@ featured: false
 publication: "*Urban Climate*"
 doi: "10.1016/j.uclim.2016.11.001"
 tags: ["Adaptation","heatwave"]
+url_pdf: https://www.centre-cired.fr/wp-content/uploads/2022/12/Daniel-et-al.-2016-Role-of-watering-practices-in-large-scale-urban-pl.pdf
 ---
 

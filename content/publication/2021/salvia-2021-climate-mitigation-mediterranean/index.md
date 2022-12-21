@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Environmental Management*"
 tags: ["Sustainable city development","City", "Climate mitigation", "Local mitigation planning", "Mediterranean Europe", "Region"]
 doi: "10.1016/j.jenvman.2021.113146"
+url_pdf: https://ris.utwente.nl/ws/portalfiles/portal/275573870/reckien_cli.pdf
 ---
 

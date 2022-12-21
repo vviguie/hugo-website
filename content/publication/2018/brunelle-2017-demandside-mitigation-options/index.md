@@ -9,5 +9,6 @@ featured: false
 publication: "*OCL*"
 doi: "10.1051/ocl/2016051"
 tags: ["divers","Sustainable city development"]
+url_pdf: https://www.ocl-journal.org/articles/ocl/pdf/2017/01/ocl160051s.pdf
 ---
 

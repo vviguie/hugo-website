@@ -35,8 +35,7 @@ publication_types:
 abstract: Bien que le phénomène d’étalement urbain ait été étudié depuis le début du XXème siècle, et que ses conséquences environnementales soient bien documentées, les politiques publiques qui visent à le maîtriser sont notoirement inefficaces. L’imprécision des définitions généralement utilisées, la focalisation du débat public et scientifique sur les grandes métropoles et les pays développés, ou encore les enjeux liés à l’acceptabilité sociale des politiques en sont responsables.
 publication: "*Regards croises sur l'economie*"
 
-links:
-- name: URL
-  url: https://www.cairn.info/revue-regards-croises-sur-l-economie-2021-1-page-178.htm
+doi: https://doi-org.inshs.bib.cnrs.fr/10.3917/rce.028.0178
+url_pdf: https://www.centre-cired.fr/wp-content/uploads/2022/12/Liotta-and-Viguie-2021-Pourquoi-les-villes-continuent-elles-a-setendre-.pdf
   
 ---

@@ -10,5 +10,6 @@ featured: false
 publication: "*Urban Climate*"
 doi: "10.1016/j.uclim.2014.03.004"
 tags: ["Adaptation","Modelling city evolutions","heatwave","adaptation policies"]
+url_pdf: https://web.archive.org/web/20190312142534id_/https://core.ac.uk/download/pdf/52996709.pdf
 ---
 

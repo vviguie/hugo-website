@@ -9,5 +9,6 @@ featured: false
 publication: "*Comptes Rendus. Géoscience*"
 doi: "10.5802/crgeos.19"
 tags: ["Sustainable city development",]
+url_pdf: https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.19.pdf
 ---
 

@@ -9,5 +9,6 @@ featured: false
 publication: "*Environmental Research Letters*"
 doi: "10.1088/1748-9326/abb0b2"
 tags: ["Sustainable city development",]
+url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abb0b2/pdf
 ---
 

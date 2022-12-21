@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Cleaner Production*"
 tags: ["Sustainable city development","City", "Climate change", "Emission inventory", "Mitigation", "Sustainable development"]
 doi: "10.1016/j.jclepro.2018.10.034"
+url_pdf: https://core.ac.uk/download/pdf/196593018.pdf
 ---
 

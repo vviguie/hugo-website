@@ -11,6 +11,7 @@ doi: "10.1088/1748-9326/ab6a24"
 links:
   - name: Press release
     url: https://www.cnrs.fr/fr/faire-face-aux-canicules-paris-sans-climatisation
+url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ab6a24/pdf
 tags: ["Adaptation","Sustainable city development","heatwave"]
 ---
 

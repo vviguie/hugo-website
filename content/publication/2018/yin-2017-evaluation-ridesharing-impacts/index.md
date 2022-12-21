@@ -9,5 +9,6 @@ featured: false
 publication: "*Transportation Research Procedia*"
 tags: ["Transport emissions","Modelling city evolutions"]
 doi: "10.1016/j.trpro.2017.12.083"
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2352146517309808/pdf?md5=a1c6da41ff5244423b432b2188bc0db8&pid=1-s2.0-S2352146517309808-main.pdf&_valck=1
 ---
 

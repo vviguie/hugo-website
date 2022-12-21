@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Cleaner Production*"
 tags: ["Transport emissions",]
 doi: "10.1016/j.jclepro.2017.12.186"
+url_pdf: https://core.ac.uk/download/pdf/154034489.pdf
 ---
 

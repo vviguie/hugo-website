@@ -9,5 +9,6 @@ featured: false
 publication: "*Technological Forecasting and Social Change*"
 tags: ["Sustainable city development","Transport emissions","Modelling city evolutions",]
 doi: "10.1016/j.techfore.2013.12.028"
+url_pdf: https://core.ac.uk/download/pdf/52626507.pdf
 ---
 

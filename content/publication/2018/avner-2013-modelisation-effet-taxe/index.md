@@ -8,9 +8,8 @@ abstract: "Le Versement pour Sous Densité est une mesure innovante qui a fait s
 featured: false
 publication: "*Revue de l'OFCE*"
 doi: "10.3917/reof.128.0341"
-links:
- - name: "URL"
-   url: "https://www.cairn.info/revue-de-l-ofce-2013-2-page-341.htm"
-   tags: ["Modelling city evolutions","Transport emissions"]
+url_pdf: "https://www.cairn.info/revue-de-l-ofce-2013-2-page-341.htm"
+
+tags: ["Modelling city evolutions","Transport emissions"]
 ---
 

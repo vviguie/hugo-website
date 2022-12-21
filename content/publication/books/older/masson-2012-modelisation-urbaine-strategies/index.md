@@ -37,8 +37,9 @@ publishDate: '2021-08-24T22:46:44.031864Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Modélisation Urbaine : De La Reprśentation Au Projet.*'
+publication: '*Modélisation Urbaine : De La Représentation Au Projet.*'
 tags: ["Modelling city evolutions",]
 categories:
 - Book or report
+url_pdf: https://temis.documentation.developpement-durable.gouv.fr/docs/Temis/0077/Temis-0077060/20403.pdf
 ---

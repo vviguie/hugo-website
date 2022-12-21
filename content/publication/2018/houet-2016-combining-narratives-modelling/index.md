@@ -10,5 +10,6 @@ doi : "10.4000/cybergeo.27668"
 publication: "*Environmental Modelling & Software*"
 tags: ["Modelling city evolutions","Adaptation","Adaptation policies"]
 doi: "10.1016/j.envsoft.2016.09.010"
+url_pdf: https://www.cnrm-game-meteo.fr/IMG/pdf/houet_etal_2016_ems.pdf
 ---
 

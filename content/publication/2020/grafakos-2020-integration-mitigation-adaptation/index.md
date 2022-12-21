@@ -9,5 +9,6 @@ featured: false
 publication: "*Renewable and Sustainable Energy Reviews*"
 tags: ["Adaptation","Sustainable city development","Co-benefits", "European cities", "Evaluation", "Interrelationships", "Planning", "Scoring", "Synergies", "Urban"]
 doi: "10.1016/j.rser.2019.109623"
+url_pdf: https://eprints.ncl.ac.uk/file_store/production/262892/C4A8C897-0B31-48A9-BAD3-A1D742BD75E2.pdf
 ---
 

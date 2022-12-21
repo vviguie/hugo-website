@@ -9,5 +9,6 @@ featured: false
 publication: "*Transportation Research Part D: Transport and Environment*"
 tags: ["Sustainable city development","Modelling city evolutions","Transport emissions"]
 doi: "10.1016/j.trd.2018.12.006"
+url_pdf: https://www.researchgate.net/profile/Nicolas-Coulombel/publication/329678938_Substantial_rebound_effects_in_urban_ridesharing_Simulating_travel_decisions_in_Paris_France/links/5dd3f8faa6fdcc37897a195a/Substantial-rebound-effects-in-urban-ridesharing-Simulating-travel-decisions-in-Paris-France.pdf
 ---
 

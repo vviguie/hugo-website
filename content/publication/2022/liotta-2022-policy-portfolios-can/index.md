@@ -51,6 +51,7 @@ abstract: 'City-level policies are increasingly recognized as key components of 
   policy to mitigate urban transport emissions but that cities can match their specific
   situation with a selection of mitigation policies: hence, we call for global climate
   mitigation models to better represent heterogeneity across cities.'
-publication: '*Preprint*'
+publication: '*Working paper*'
 doi: 10.21203/rs.3.rs-2131432/v1
+url_pdf: https://www.researchsquare.com/article/rs-2131432/v1.pdf?c=1669015003000
 ---
