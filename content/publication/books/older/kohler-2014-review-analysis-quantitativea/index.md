@@ -36,7 +36,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-url_pdf: https://www.researchgate.net/publication/261794396_A_review_and_analysis_of_quantitative_integrated_environmental_assessment_methods_for_urban_areas
+url_pdf: https://core.ac.uk/reader/33586330#page=33
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

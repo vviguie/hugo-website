@@ -9,6 +9,6 @@ featured: false
 publication: "*World Bank Policy Research Working Papers*"
 doi: "10.1596/1813-9450-7067"
 tags: ["Transport emissions","Modelling city evolutions",]
-url_pdf: https://elibrary.worldbank.org/doi/epdf/10.1596/1813-9450-7067
+url_pdf: https://hal-enpc.archives-ouvertes.fr/hal-01136199/document
 ---
 

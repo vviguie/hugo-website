@@ -16,7 +16,7 @@ advanced:
 
 # Outreach
 
-- I participated several times to the "[train du climat](https://trainduclimat.fr/)" which travels across France with researchers on board to inform people about climate change issues. [EMS Outreach & Communication Award 2017.](http://www.emetsoc.org/wp-content/uploads/2017/10/oc2017_train-du-climat.pdf)
+- I participated several times to the "[train du climat](https://acteurspublics.fr/webtv/emissions/culture-education/vincent-viguie-montrer-a-tous-quon-peut-agir)" which travels across France with researchers on board to inform people about climate change issues. [EMS Outreach & Communication Award 2017.](http://www.emetsoc.org/wp-content/uploads/2017/10/oc2017_train-du-climat.pdf)
 - Member of the scientific council of the [Office for climate education](https://www.oce.global/) (from 2017 to 2020), and of the [GREC Île de France](https://www.uvsq.fr/territoire-et-climat-le-grec-en-ile-de-france).
 - With the great [Catherine Dufour](https://fr.wikipedia.org/wiki/Catherine_Dufour) I contributed to one short story of the science fiction book [No(s) Futur(s)](https://www.editions-actusf.fr/a/collectifd-auteur/nos-futurs).
 

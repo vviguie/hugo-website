@@ -9,7 +9,7 @@ featured: false
 publication: "*Le Cahier des Ponts*"
 categories:
 - Book or report
-url_pdf: https://www.acteursduparisdurable.fr/fr/themes-du-mois/71-sadapte
+url_pdf: https://ecoledesponts.fr/sites/ecoledesponts.fr/files/documents/cdp_4_parution_numerique.pdf#page=18
 tags: ["Adaptation","heatwave"]
 ---
 
