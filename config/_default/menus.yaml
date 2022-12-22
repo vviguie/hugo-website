@@ -19,10 +19,6 @@ main:
     parent: research
     url: '#phd_supervision'
     weight: 12
-  - name: Main research projects
-    parent : research
-    url: '#research_projects2'
-    weight: 13
   - name: "See all publications"
     parent: research
     url: '/publication/'
