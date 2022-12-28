@@ -24,7 +24,11 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 
 ## Required reading
 
-[Why avoiding climate change ‘maladaptation’ is vital](https://www.carbonbrief.org/guest-post-why-avoiding-climate-change-maladaptation-is-vital/) (2021).
+- [Why avoiding climate change ‘maladaptation’ is vital](https://www.carbonbrief.org/guest-post-why-avoiding-climate-change-maladaptation-is-vital/) (2021).
+- [Barnett, Jon, et Saffron O’Neill. 2010. «Maladaptation». Global Environmental Change 20 (2): 211‑13.](https://d3n8a8pro7vhmx.cloudfront.net/nowaterdeal/pages/31/attachments/original/1363981240/Maladaptation_Editorial.pdf?1363981240)
+
+
+
 
 ## Freshwater availability 
 {{< youtube DbuE2HKgoMo >}}
