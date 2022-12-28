@@ -18,16 +18,16 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 
 ## Required reading
 
-[The problem with net-zero emissions targets](https://www.carbonbrief.org/guest-post-the-problem-with-net-zero-emissions-targets/).
+- [The problem with net-zero emissions targets](https://www.carbonbrief.org/guest-post-the-problem-with-net-zero-emissions-targets/), a 2019 text by Prof. Duncan McLaren on Carbon Brief.
+- [Global Protocol for Community-Scale Greenhouse Gas Emission Inventories, *Executive Summary*](https://cdn.locomotive.works/sites/5ab410c8a2f42204838f797e/content_entry5ab410fb74c4833febe6c81a/5ac63cca74c4837dd55d4c59/files/GPC_Executive_Summary.pdf?1541698648) 
 
 
 ## Defining city GHG emissions
 {{< youtube yPgIpodE3Do>}}
 
 #### References
-- Some background on consumption-based emissions vs. production-based emissions : https://resourcecentre.c40.org/resources/consumption-based-ghg-emissions
-- Global Protocol for Community-scale Greenhouse Gas Emission Inventories : https://ghgprotocol.org/greenhouse-gas-protocol-accounting-reporting-standard-cities
-  - A youtube video presenting this framework : https://www.youtube.com/watch?v=M9_bZ3GsoZA&ab_channel=IISDReportingServices%2FEarthNegotiationsBulletin%28ENB%29
+- How to [measure GHG emissions of a city](https://resourcecentre.c40.org/resources/measuring-ghg-emissions), explained by C40
+- The [differences between consumption-based emissions and production-based emissions](https://resourcecentre.c40.org/resources/consumption-based-ghg-emissions) explained by C40
 - A [comparison of emission inventories of different cities](https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US)
 
 ## Production-based emissions
