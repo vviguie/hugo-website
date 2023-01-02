@@ -11,7 +11,7 @@ categories:
 - Book or report
 
 #url_pdf: https://www.modelisation-prospective.org/wp-content/uploads/2019/12/EP_2018_10-ans-de-la-chaire_posterVIGUIE.pdf
-url_pdf: http://www.centre-cired.fr/wp-content/uploads/2022/04/poster-ipcc.pdf
+url_poster: http://www.centre-cired.fr/wp-content/uploads/2022/04/poster-ipcc.pdf
 tags: ["Modelling city evolutions","Sustainable city development",]
 ---
 
