@@ -55,10 +55,12 @@ abstract: "It is difficult to cut transport greenhouse gas emissions without aff
   \ jobs and residence appears as a key variable."
 publication: '*Journal of Transport Geography*'
 doi: 10.1016/j.jtrangeo.2022.103473
-url_pdf: https://www.centre-cired.fr/wp-content/uploads/2022/12/paper_GPE2_SSRN-copy.pdf
+url_pdf: https://www.centre-cired.fr/wp-content/uploads/2023/01/paper_GPE2_SSRN-copy.pdf
 links:
   - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4049765
     name: Working paper
+  - url: https://twitter.com/VincentViguie/status/1611375628263256065
+    name: Twitter thread
 url_code: 'https://github.com/CIRED/accessibility_paris'
 url_dataset: 'https://zenodo.org/record/7139257'
 
