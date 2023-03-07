@@ -76,4 +76,21 @@ abstract: Defining and measuring progress in adaptation are important questions 
 publication: '*npj Urban Sustainability*'
 doi: 10.1038/s42949-023-00085-1
 url_pdf: https://www.nature.com/articles/s42949-022-00054-0.pdf
+links:
+  - url: https://www.carbonbrief.org/guest-post-how-climate-adaptation-plans-for-european-cities-are-gradually-getting-better/
+    name: Guest post on CarbonBrief
+  - name: Thread 1
+    url: https://twitter.com/MartaOlazabal/status/1631673375847247874
+    icon: twitter
+    icon_pack: fab
+  - name: Thread 2
+    url: https://twitter.com/VincentViguie/status/1632799713102647296
+    icon: twitter
+    icon_pack: fab
 ---
+
+There are several twitter threads on this paper, by [`@MartaOlazabal`](https://twitter.com/MartaOlazabal/status/1631673375847247874) and [me](https://twitter.com/VincentViguie/status/1632799713102647296).
+
+{{< tweet user="MartaOlazabal" id="1631673375847247874" >}}
+
+{{< tweet user="VincentViguie" id="1632799713102647296" >}}
