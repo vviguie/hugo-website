@@ -5,10 +5,11 @@
 
 # Appearance
 
-theme: minimal #minimal #1950s #earth #minimal # I use the color scheme of https://www.tiagoribeiro.pt
-day_night: automatic
-font: Minimal #Minimal #
-font_size: M
+appearance:
+  theme_day: minimal #minimal #1950s #earth #minimal # I use the color scheme of https://www.tiagoribeiro.pt
+  font: minimal
+  font_size: M
+
 
 # SEO
 
@@ -18,23 +19,6 @@ org_name: '' #https://wowchemy.com/docs/guide/seo/
 description: 'Researcher in climate change economics in CIRED (Ecole des Ponts ParisTech)'
 twitter: 'vincentviguie'
 
-# Contact (edit or remove options as required)
-
-email: viguie.cired[at]gmail.com or viguie[at]centre-cired.fr
-address:
-  street: CIRED, Site du Jardin Tropical, 45bis, Av de la Belle Gabrielle
-  city: Nogent-sur-Marne
-  postcode: 'F-94736'
-  country: France
-  country_code: Fr
-coordinates:
-  latitude: '48.8352'
-  longitude: '2.4663'
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
 
 # Site header
 

@@ -89,7 +89,7 @@ links:
     icon_pack: fab
 ---
 
-There are several twitter threads on this paper, by [`@MartaOlazabal`](https://twitter.com/MartaOlazabal/status/1631673375847247874) and [me](https://twitter.com/VincentViguie/status/1632799713102647296).
+There are several twitter threads on this paper:
 
 {{< tweet user="MartaOlazabal" id="1631673375847247874" >}}
 

@@ -10,7 +10,7 @@ headless: true
 weight: 21
 
 title: 'Publications and research topics'
-subtitle: 'For all my peer-reviewed articles, there should be a freely available version on [HAL](https://cv.archives-ouvertes.fr/vincent-viguie?langChosen=fr) or [Google Scholar](https://scholar.google.com/citations?user=iElc2G8AAAAJ&hl), either pre-print or post-print. But if you want the publisher version and do not have the access, [send me an email](mailto:viguie.cired@gmail.com).'
+subtitle: 'For all my peer-reviewed articles, there should be a freely available version on [HAL](https://cv.archives-ouvertes.fr/vincent-viguie?langChosen=fr), [Google Scholar](https://scholar.google.com/citations?user=iElc2G8AAAAJ&hl), or on this website. You can also [send me an email](mailto:viguie.cired@gmail.com).'
 
 content:
   # Page type to display. E.g. project.
@@ -27,7 +27,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
