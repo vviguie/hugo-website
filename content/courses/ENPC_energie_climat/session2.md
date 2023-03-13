@@ -27,13 +27,17 @@ Enjeux géopolitiques, inégalités internationales et intra-nationales d'émisi
 
 - The [Global Carbon project](https://www.globalcarbonproject.org)
 - [Who Has The Most Historical Responsibility for Climate Change?](https://www.nytimes.com/interactive/2021/11/12/climate/cop26-emissions-compensation.html) by the New York Times
+- Le site [Gapminder](https://www.gapminder.org)
 
 ## Les inégalités d'émissions au sein des pays
 {{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/50kfp8vd87gefhz/2_inegalites_monde.pdf?dl=0)
 
 #### Pour en savoir plus
+- Le livre [Insoutenables Inégalités. Pour une justice sociale et environnementale](https://www.veblen-institute.org/Insoutenables-Inegalites-Pour-une-justice-sociale-et-environnementale-nouvelle.html) de Lucas Chancel
 - Chapter 6 "Carbon inequalities" in the [The World Inequality Report](https://wir2022.wid.world/)
 - The report [Carbon inequality in 2030](https://www.oxfam.org/en/research/carbon-inequality-2030) by Oxfam
+  - Si cela vous intéresse, il y a de nombreuses questions méthodologiques posées par ce type de travail. Il y a notamment la question de savoir si d'autres facteurs que le revenu n'expliquent pas mieux les émissions de gaz à effet de serre (lieu d'habitation, par exemple). Une très bonne analyse de ces enjeux est faite ici: "Qui émet du CO2? Panorama critique des inégalités écologiques en France"](http://faere.fr/pub/WorkingPapers/Pottier_Combet_Cayla_Lauretis_Nadaud_FAERE_WP2020.15.pdf) (2020) par A.Pottier, E. Combet, J.M. Cayla, S. de Lauretis et F. Nadaud
+
 
 ## Historique des négociations climatiques
 {{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/s44trgjeqhwt306/negociations%20internationales.pdf?dl=0)
