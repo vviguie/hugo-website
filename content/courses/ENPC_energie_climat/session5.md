@@ -26,4 +26,6 @@ Cours présenté par [Philippe Quirion](https://www.centre-cired.fr/philippe-qui
 - le rapport de RTE [Futurs énergétiques 2050 : les scénarios de mix de production à l’étude permettant d’atteindre la neutralité carbone à l’horizon 2050](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques)
 - Le rapport [Coût d’un système électrique optimal sans émissions de CO2 pour la France, avec et sans nucléaire](https://hal.archives-ouvertes.fr/hal-02434990/document) et l'article [Low-carbon options for the French power sector: What role for renewables, nuclear energy and carbon capture and storage?](https://www.sciencedirect.com/science/article/pii/S0140988320303443)
 - [Nuclear Power in a Clean Energy System](https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system) by the International Energy Agency
+- L'épisode [Le nucléaire est-il utile dans la bataille climatique ?](https://www.lemonde.fr/podcasts/article/2023/03/21/le-nucleaire-est-il-utile-dans-la-bataille-climatique_6166356_5463015.html) du podcast Chaleur Humaine, du journal Le Monde
+- [Le monde sans fin -- le corrigé](https://www.lemondesansfin-lecorrige.fr/) de Ghislain Dubois et Nicolas Caruso
 
