@@ -32,6 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: HDR in Environmental economics
+    institution: Université Paris Est
+    year: 2023
   - course: PhD in Environmental economics
     institution: Université Paris Est
     year: 2012
