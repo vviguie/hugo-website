@@ -30,7 +30,7 @@ advanced:
 - [Théo Mandonnet](https://www.centre-cired.fr/theo-mandonnet/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
 
 ## Former PhD students
-- [Basile Pfeiffer](https://www.theses.fr/s165897), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
+- [Basile Pfeiffer](https://pastel.archives-ouvertes.fr/tel-04074623), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
 
 
 ## Interns
