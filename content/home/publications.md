@@ -12,7 +12,7 @@ headless: true
 weight: 65
 
 title: Recent Publications
-subtitle: 'Peere-reviewed articles, reports, working papers and book chapters'
+subtitle: 'Peer-reviewed articles, reports, working papers and book chapters'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,5 +37,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  columns: '2'
 ---
 
