@@ -57,11 +57,10 @@
       </div>
       {{ end }}
         {{ if $item.Params.publication_short }}
-        {{- $item.Params.publication_short | markdownify -}},
+        {{- $item.Params.publication_short | markdownify -}},&nbsp;{{- $item.Date.Format "2006" -}}
         {{ else if $item.Params.publication }}
-        {{- $item.Params.publication | markdownify -}},
+        {{- $item.Params.publication | markdownify -}},&nbsp;{{- $item.Date.Format "2006" -}}
         {{ end }}
-        {{- $item.Date.Format "2006" -}}.
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
         {{ partial "page_metadata_authors" $item }}
