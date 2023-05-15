@@ -16,3 +16,8 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% callout note %}}
+You can select the type **Journal article** if you want to see only the articles published in peer reviewed journals
+{{% /callout %}}
+  
