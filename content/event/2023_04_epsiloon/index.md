@@ -3,7 +3,7 @@
 
 title: "Interview par Epsiloon: Les immeubles de grande hauteur: La folie des grandeurs?"
 event: 'La folie des grandeurs?'
-event_url:
+event_url: https://www.epsiloon.com/common/product-article/138
 location:
 address:
   street:
@@ -19,7 +19,7 @@ saoudite. Ailleurs, la Madrid Nuevo Norte culminera à 330 m, One Bangkok à 436
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-04-28T15:16:01+02:00
 date_end: 2023-04-28T15:16:01+02:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-04-28T15:16:01+02:00
@@ -45,6 +45,11 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+
+links:
+ - name: Link
+   url: https://www.epsiloon.com/common/product-article/138
+
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
