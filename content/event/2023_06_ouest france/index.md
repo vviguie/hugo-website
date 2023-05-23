@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview par Le Parisien `Climat : « Il faut sortir du déni et regarder en face les conséquences d’une France à + 4 °C »`"
-event: "Reportage"
-event_url: https://www.leparisien.fr/environnement/climat-il-faut-sortir-du-deni-et-regarder-en-face-les-consequences-dune-france-a-4-c-10-03-2023-TPEDY4E3VJB7TEJ4BRQ67D2ZTU.php
+title: "Interview par Le Parisien `Climat : « Plus le réchauffement sera important, plus l’adaptation sera difficile »`"
+event: "Climat : « Plus le réchauffement sera important, plus l’adaptation sera difficile »"
+event_url: https://www.ouest-france.fr/environnement/rechauffement-climatique/entretien-climat-plus-le-rechauffement-sera-important-plus-ladaptation-sera-difficile-56ad67ae-f93e-11ed-b43f-8b3773bbbed4
 location:
 address:
   street:
@@ -11,17 +11,17 @@ address:
   region:
   postcode:
   country:
-summary: 
-abstract: Commentaires sur l'annonce du ministre de la Transition écologique Christophe Béchu. L’hypothèse d’une France vivant avec un réchauffement de 4 degrés par rapport à l’ère préindustrielle à l’horizon 2100 implique d’adapter dès maintenant nos modes de vie, alertent les experts.
+summary:
+abstract: Le ministre de la Transition écologique a présenté ce mardi 23 mai 2023 un plan d’adaptation pour une France à +4 °C par rapport aux années 1990. Est-ce vraiment possible de s’adapter à de telles températures ? « Ouest-France » a interrogé Vincent Viguié, chercheur au Cired et spécialiste de l’adaptation.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-03-10T11:46:23+01:00
-date_end: 2023-03-10T11:46:23+01:00
+date: 2023-05-23T21:20:19+02:00
+date_end: 2023-05-23T21:20:19+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-03-10T11:46:23+01:00
+publishDate: 2023-05-23T21:20:19+02:00
 
 authors: []
 tags: ['adaptation policies','heatwave','Sustainable city development']
@@ -54,7 +54,7 @@ url_video:
 
 links:
 - name: Article
-  url: https://www.leparisien.fr/environnement/climat-il-faut-sortir-du-deni-et-regarder-en-face-les-consequences-dune-france-a-4-c-10-03-2023-TPEDY4E3VJB7TEJ4BRQ67D2ZTU.php
+  url: https://www.ouest-france.fr/environnement/rechauffement-climatique/entretien-climat-plus-le-rechauffement-sera-important-plus-ladaptation-sera-difficile-56ad67ae-f93e-11ed-b43f-8b3773bbbed4
 
 categories:
 - Interview
