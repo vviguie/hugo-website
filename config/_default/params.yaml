@@ -111,7 +111,7 @@ map:
   zoom: 15
 marketing:
   analytics:
-    google_analytics: '' #G-B36WRD156S
+    google_analytics: G-B36WRD156S
     google_tag_manager: ''
     google_site_verification: ''
     baidu_site_verification: ''
