@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview par Ouest France `Climat : « Plus le réchauffement sera important, plus l’adaptation sera difficile »`"
-event: "Climat : « Plus le réchauffement sera important, plus l’adaptation sera difficile »"
-event_url: https://www.ouest-france.fr/environnement/rechauffement-climatique/entretien-climat-plus-le-rechauffement-sera-important-plus-ladaptation-sera-difficile-56ad67ae-f93e-11ed-b43f-8b3773bbbed4
+title: "Interview par Ouest France `Alimentation, canicule, tourisme… Trois choses qui auront changé en 2050`"
+event: "Alimentation, canicule, tourisme… Trois choses qui auront changé en 2050"
+event_url: https://www.ouest-france.fr/environnement/rechauffement-climatique/alimentation-canicule-tourisme-trois-choses-qui-auront-change-en-2050-e2e1fd0a-fb93-11ed-b253-afd925c64d74
 location:
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: Le ministre de la Transition écologique a présenté ce mardi 23 mai 2023 un plan d’adaptation pour une France à +4 °C par rapport aux années 1990. Est-ce vraiment possible de s’adapter à de telles températures ? « Ouest-France » a interrogé Vincent Viguié, chercheur au Cired et spécialiste de l’adaptation.
+abstract: Ces derniers mois, la thématique de l’adaptation au réchauffement climatique est revenue en force dans le débat public. Voici trois exemples concrets de solutions qui seront, ou devront être mises en place d’ici 2050, pour limiter son impact.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-05-23T21:20:19+02:00
-date_end: 2023-05-23T21:20:19+02:00
+date: 2023-05-29T21:20:19+02:00
+date_end: 2023-05-29T21:20:19+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-05-23T21:20:19+02:00
+publishDate: 2023-05-29T21:20:19+02:00
 
 authors: []
 tags: ['adaptation policies','heatwave','Sustainable city development']
@@ -50,11 +50,11 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.ouest-france.fr/environnement/rechauffement-climatique/video-pourquoi-on-ne-boira-plus-de-cafe-en-2050-e8dc282d-d964-41ab-bd78-64f8432cb266
 
 links:
 - name: Article
-  url: https://www.ouest-france.fr/environnement/rechauffement-climatique/entretien-climat-plus-le-rechauffement-sera-important-plus-ladaptation-sera-difficile-56ad67ae-f93e-11ed-b43f-8b3773bbbed4
+  url: https://www.ouest-france.fr/environnement/rechauffement-climatique/alimentation-canicule-tourisme-trois-choses-qui-auront-change-en-2050-e2e1fd0a-fb93-11ed-b253-afd925c64d74
 
 categories:
 - Interview
