@@ -92,7 +92,7 @@ email: "viguie[at]centre-cired.fr"
 highlight_name: false
 ---
 
-I am a researcher in climate change economics at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), in the  [Centre International de recherche sur l'environnement et le développement, (CIRED)](www.centre-cired.fr).  
+I am a researcher ([HDR](/talk/soutenance-dhabilitation-a-diriger-des-recherches-hdr/)) in climate change economics at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), in the  [Centre International de recherche sur l'environnement et le développement, (CIRED)](www.centre-cired.fr).  
 
 {{< icon name="book-open" pack="fas" >}}   I use economic modelling, GIS and data science, interdisciplinary integrated assesment models, as well as stakeholder analysis to address salient research questions on environmental urban policies, such as :
 - the effectiveness of adaptation strategies
@@ -101,7 +101,7 @@ I am a researcher in climate change economics at [Ecole des Ponts ParisTech](htt
 
 I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues.
 
-I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and of the [Euro-LCP Research Network](https://www.lcp-initiative.eu/). I was from 2018 to 2022 a deputy board member of [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/conseil-dadministration), and am a member of the scientific council of the [Groupement Régional des Experts sur le Climat d'île de France (GREC Île de France)](https://grec-idf.eu/), of the [Chaire « Villes, Logement, Immobilier »](https://www.sciencespo.fr/ecole-urbaine/fr/chaire-villes-logement-immobilier.html) of Sciences Po, and of the program [Bioéconomie pour les Territoires Urbains (BETTER)](https://www6.inrae.fr/better) of INRAE. Additionally, I was Guest editor of Special Issues on: 
+I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and of the [Euro-LCP Research Network](https://www.lcp-initiative.eu/). I was from 2018 to 2022 a deputy board member of [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/conseil-dadministration), and am a member of the scientific council of the [French National Institute for Industrial Environment and Risks (Ineris)](https://www.ineris.fr/en/ineris-public-expert-industrial-and-environmental-risk-management), of the [Groupement Régional des Experts sur le Climat d'île de France (GREC Île de France)](https://grec-idf.eu/), of the [Chaire « Villes, Logement, Immobilier »](https://www.sciencespo.fr/ecole-urbaine/fr/chaire-villes-logement-immobilier.html) of Sciences Po, and of the program [Bioéconomie pour les Territoires Urbains (BETTER)](https://www6.inrae.fr/better) of INRAE. Additionally, I was Guest editor of Special Issues on: 
 - [Systematizing and upscaling urban climate change mitigation](https://iopscience.iop.org/journal/1748-9326/page/Urban-Solutions-for-Climate-Change-Mitigation) in [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326) (2020)
 - [Cities: the core of climate change mitigation](https://www.sciencedirect.com/journal/journal-of-cleaner-production/special-issue/10Q3VQ07JKL) in [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production) (2019)
 
