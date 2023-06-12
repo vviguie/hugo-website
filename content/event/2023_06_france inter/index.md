@@ -59,6 +59,10 @@ links:
   url: https://www.radiofrance.fr/franceinter/podcasts/l-invite-du-week-end/l-invite-du-week-end-du-dimanche-11-juin-2023-3381331
   icon_pack: fas
   icon: podcast
+- name: Video
+  url: https://dai.ly/x8lo9as
+  icon_pack: fab
+  icon: youtube  
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
