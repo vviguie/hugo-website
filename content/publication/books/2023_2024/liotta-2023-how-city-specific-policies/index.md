@@ -36,5 +36,5 @@ abstract: 'Achieving sustainable urban transportation is critical, and local pol
 publication: '*Nature Sustainability : Behind the Paper*'
 links:
 - name: article
-  url: https://sustainabilitycommunity.springernature.com/posts/how-city-specific-policies-can-drive-sustainable-urban-transport?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like
+  url: https://sustainabilitycommunity.springernature.com/posts/how-city-specific-policies-can-drive-sustainable-urban-transport
 ---
