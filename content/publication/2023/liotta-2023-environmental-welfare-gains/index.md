@@ -61,6 +61,10 @@ links:
   url: https://github.com/CIRED/policy_portfolios
   icon_pack: fab
   icon: github
+- name: Thread 
+  url: https://twitter.com/CharlotteLiotta/status/1663909753741869056
+  icon: twitter
+  icon_pack: fab
 
 
 url_pdf: https://www.nature.com/articles/s41893-023-01138-0

@@ -9,7 +9,8 @@ authors:
 - Vincent Viguie
 - Felix Creutzig
 tags: ["Sustainable city development","Modelling city evolutions","Transport emissions"]
-categories: []
+categories: 
+  - Book or report
 date: '2023-06-08'
 lastmod: 2023-06-08T15:30:37+02:00
 featured: false
