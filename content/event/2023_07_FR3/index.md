@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Juré de la finale nationale de la 10e édition de « Ma thèse en 180 secondes »"
-event: "Finale nationale de la 10e édition de « Ma thèse en 180 secondes »"
-event_url: https://mt180.fr/la-finale-nationale-2023/
-location: Opéra de Rennes
-address: 
-  street: Place de la Mairie
-  city:  Rennes 
+title: "Interview dans le Journal Météo Climat de France 3."
+event: "Journal Météo Climat du lundi 10 juillet 2023 "
+event_url: https://www.france.tv/france-2/journal-meteo-et-climat/5039406-journal-meteo-climat.html
+location:
+address:
+  street:
+  city:
   region:
-  postcode: 35000
-  country: France
-summary:
-abstract: Depuis 2014, le concours "Ma thèse en 180 secondes" permet à des doctorant.e.s de présenter leur sujet de recherche en termes simples au grand public ! Chaque participant.e doit faire, en trois minutes, un exposé clair, concis et néanmoins convaincant sur son projet de recherche. 
+  postcode:
+  country:
+summary: 
+abstract: "Un point quotidien sur l'actualité météo et climatique, avec des reportages et des interviews d'experts."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-06-08T18:30:00+02:00
-date_end: 2023-06-08T21:00:00+02:00
+date: 2023-07-10T21:01:00+02:00
+date_end: 2023-07-10T21:05:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-06-08T00:30:00+02:00
+publishDate: 2023-07-10T21:01:00+02:00
 
 authors: []
-tags: ['adaptation policies','heatwave','Sustainable city development']
+tags: ['adaptation policies','heatwave']
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -50,13 +50,11 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=1Zka4kzRaSQ&ab_channel=Math%C3%A8seen180secondes-MT180
+url_video: https://www.france.tv/france-2/journal-meteo-et-climat/5039406-journal-meteo-climat.html
 
 #links:
 #- name: Article
-#  url: https://www.ouest-france.fr/environnement/rechauffement-climatique/alimentation-canicule-tourisme-trois-choses-qui-auront-change-en-2050-e2e1fd0a-fb93-11ed-b253-afd925c64d74
-
-categories:
+#  url: https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/rechauffement-climatique-vegetaliser-nos-communes-est-ce-suffisant-on-fait-le-point-avec-des-experts-2754830.html
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -71,5 +69,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
 
+categories:
+- Interview
+---
