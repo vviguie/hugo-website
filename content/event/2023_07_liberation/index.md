@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans Libération"
+title: "Interview dans Libération: «Un symbole de la maladaptation»"
 event: 
 event_url: https://www.liberation.fr/environnement/climat/climatiseurs-maintenir-la-temperature-a-26c-nest-pas-tres-rafraichissant-mais-on-consomme-beaucoup-moins-denergie-quavec-un-reglage-a-20c-20230709_G2QXFMPHVRFJ5H2QNPWZAO33OY/
 location:
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "Pour le chercheur Vincent Viguié, le réglage des climatiseurs à 26°C maximum, comme le préconise le gouvernement, est nécessaire. Et il y a urgence à trouver des alternatives à un système énergivore qui réchauffe l’air extérieur dans les villes."
+summary: "Pour le chercheur Vincent Viguié, il est urgent de mener des politiques publiques volontaristes pour trouver des altematives à un système à la fois énergivore et contreproductif à long terme." 
 abstract: ''
 
 # Talk start and end times.
@@ -52,7 +52,7 @@ url_code:
 url_pdf:
 url_video:
 links:
-- name: Article
+- name: Article en ligne
   url: https://www.liberation.fr/environnement/climat/climatiseurs-maintenir-la-temperature-a-26c-nest-pas-tres-rafraichissant-mais-on-consomme-beaucoup-moins-denergie-quavec-un-reglage-a-20c-20230709_G2QXFMPHVRFJ5H2QNPWZAO33OY/
 
 # Markdown Slides (optional).

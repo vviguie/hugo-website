@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans le Journal Météo Climat de France 3."
-event: "Journal Météo Climat du lundi 10 juillet 2023 "
+title: "Interviews dans le Journal Météo Climat de France 3."
+event: "Journal Météo Climat"
 event_url: https://www.france.tv/france-2/journal-meteo-et-climat/5039406-journal-meteo-climat.html
 location:
 address:
@@ -50,11 +50,17 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.france.tv/france-2/journal-meteo-et-climat/5039406-journal-meteo-climat.html
+url_video: 
 
 #links:
 #- name: Article
 #  url: https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/rechauffement-climatique-vegetaliser-nos-communes-est-ce-suffisant-on-fait-le-point-avec-des-experts-2754830.html
+
+links:
+- name: Vidéo 10 juillet
+  url: https://www.france.tv/france-2/journal-meteo-et-climat/5039406-journal-meteo-climat.html
+- name: Vidéo 18 juillet
+  url: https://www.france.tv/france-2/journal-meteo-et-climat/5059305-journal-meteo-climat.html
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -73,3 +79,8 @@ projects: []
 categories:
 - Interview
 ---
+
+
+Les antennes de France 2 et France 3 ont lancé un nouveau "Journal de la météo et du climat". Les bulletins météo du soir des deux chaînes ont été rallongés pour faire un lien entre la météo et le changement climatique, afin de montrer comment notre météo quotidienne s'inscrit dans des mouvements de dérèglement observés depuis plusieurs décennies.
+
+Ces bulletins météo sont à retrouver chaque jour à 20h40 sur France 2 et à 21 heures sur France 3.
