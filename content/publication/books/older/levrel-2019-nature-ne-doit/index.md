@@ -1,5 +1,5 @@
 ---
-title: "La Nature Ne Doit plus Être l'oubliée Des Projets d'aménagement Urbain"
+title: "La nature ne doit plus être l'oubliée des projets d'aménagement urbain"
 date: 2019-08-01
 publishDate: 2021-07-07T10:21:05.110013Z
 authors: ["Harold Levrel", "Léa Tardieu", "Perrine Hamel", "Vincent Viguié"]
