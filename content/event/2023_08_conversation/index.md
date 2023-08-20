@@ -12,13 +12,15 @@ address:
   postcode: 
   country: 
 summary: Si développer les voitures électriques et les pompes à chaleur est incontournable pour atteindre nos objectifs climatiques, s’en contenter au nom du coût de la tonne de CO2 évitée serait une erreur. Plus généralement, il faut se garder d’une application simpliste de ce critère.
-abstract: "Pourtant, si développer les voitures électriques et les pompes à chaleur est incontournable pour atteindre nos objectifs climatiques, s’en contenter au nom du coût de la tonne de CO2 évitée serait une erreur. Plus généralement, il faut se garder d’une application simpliste de ce critère."
+abstract: Si développer les voitures électriques et les pompes à chaleur est incontournable pour atteindre nos objectifs climatiques, s’en contenter au nom du coût de la tonne de CO2 évitée serait une erreur. Plus généralement, il faut se garder d’une application simpliste de ce critère.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-08-15T11:30:00+02:00
 date_end: 2023-08-15T12:30:00+02:00
 all_day: true
+
+draft: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-08-15T12:39:24+02:00
