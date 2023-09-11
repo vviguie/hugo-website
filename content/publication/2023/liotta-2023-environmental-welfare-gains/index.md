@@ -51,6 +51,8 @@ links:
   icon_pack: fab
 - name: Working paper (preprint)
   url: https://doi.org/10.21203/rs.3.rs-2131432/v1
+- name: French Press release
+  url: https://www.inshs.cnrs.fr/fr/cnrsinfo/vers-des-transports-urbains-respectueux-du-climat-et-des-populations
 
 
 
