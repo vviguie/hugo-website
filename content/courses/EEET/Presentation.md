@@ -33,7 +33,8 @@ Modélisation des villes et enjeux environnementaux.
 
 ### Villes, transport et climat
 - Viguié, V., 2020. [Les villes et le climat: Bâtiments et urbanisme](https://doi.org/10.5802/crgeos.19). Comptes Rendus. Géoscience 352, 363–372. Résumé [ici en vidéo](https://youtu.be/_5IqLAHfkDQ?t=7445).
-- Le chapitre sur les émisions de gaz à effet de serre des villes dans le rapport du GIEC de 2014 : [IPCC, ed. 2014. “Chapter 12: Human Settlements, Infrastructure and Spatial Planning.” In Climate Change 2014: Mitigation of Climate Change](https://www.ipcc.ch/report/ar5/wg3/human-settlements-infrastructure-and-spatial-planning/). Cambridge: Cambridge University Press.
+- Le chapitre sur les émisions de gaz à effet de serre des villes dans le rapport du GIEC de 2022 : [IPCC, ed. 2022. “Chapter 8: Urban systems and other settlements](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter08.pdf). Cambridge: Cambridge University Press.
+- NB: Le chapitre similaire du rapport du GIEC de 2014 est également très intéressant ([IPCC, ed. 2014. “Chapter 12: Human Settlements, Infrastructure and Spatial Planning.” In Climate Change 2014: Mitigation of Climate Change](https://www.ipcc.ch/report/ar5/wg3/human-settlements-infrastructure-and-spatial-planning/)). 
 
 ### Les formes urbaines dans le monde
 - Comparaisons internationales de caractéristiques des villes: [Urban Observatory ](https://www.urbanobservatory.org/compare/index.html)
