@@ -62,3 +62,5 @@ url_code:
 
 
 ---
+
+This article led to several newspapers articles, especially this [interview of Charlotte Liotta](https://www.lemondedelenergie.com/transport-urbain-seul-correspond-environ-8-emissions-totales-mondiales-ges/2023/10/26/).
