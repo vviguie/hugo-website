@@ -94,7 +94,7 @@ highlight_name: false
 
 I am a researcher ([HDR](/talk/soutenance-dhabilitation-a-diriger-des-recherches-hdr/)) in climate change economics at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), in the  [Centre International de recherche sur l'environnement et le développement, (CIRED)](https://www.centre-cired.fr).  
 
-{{< icon name="book-open" pack="fas" >}}   I use economic modelling, GIS and data science, interdisciplinary integrated assesment models, as well as stakeholder analysis to address salient research questions on environmental urban policies, such as :
+{{< icon name="book-open" pack="fas" >}}   I use economic modelling, GIS and data science, interdisciplinary integrated assessment models, as well as stakeholder analysis to address salient research questions on environmental urban policies, such as :
 - the effectiveness of adaptation strategies
 - the interactions between mitigation and adaptation policies 
 - the social and ecological trade-offs 

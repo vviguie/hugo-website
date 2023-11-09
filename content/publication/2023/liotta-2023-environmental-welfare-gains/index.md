@@ -45,9 +45,17 @@ links:
   url: https://github.com/CIRED/policy_portfolios
   icon_pack: fab
   icon: github
-- name: Thread 
+- name: Thread 1
   url: https://twitter.com/CharlotteLiotta/status/1663909753741869056
   icon: twitter
+  icon_pack: fab
+- name: Thread 1
+  url:  https://twitter.com/VincentViguie/status/1721936491956273168
+  icon: twitter
+  icon_pack: fab
+- name: Linkedin summary
+  url:  https://www.linkedin.com/posts/vincentviguie_preprint-activity-7127712651303882752-tj-6
+  icon: linkedin
   icon_pack: fab
 - name: Working paper (preprint)
   url: https://doi.org/10.21203/rs.3.rs-2131432/v1
