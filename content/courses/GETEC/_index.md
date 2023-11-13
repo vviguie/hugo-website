@@ -69,7 +69,7 @@ For more information, here are the main reference documents (difficult to read i
 {{< spoiler text="Are there prerequisites?" >}}
 A good understanding of the physical mechanisms behind climate change, the origin of greenhouse gases emissions, and the main consequences of climate changes, is required.
 
-Here are a few ideas of websites with basic information on climate change (many other exist) :
+Here are a few ideas of websites with basic information on climate change (many other exist):
 - [MIT](https://climate.mit.edu/) and [NASA](https://climate.nasa.gov/) websites on climate change provide clear introductory articles and great infographics. So does [Imperial College website](https://www.imperial.ac.uk/grantham/publications/climate-change-faqs/)
 - [NY Times FAQ on climate change](https://www.nytimes.com/article/climate-change-global-warming-faq.html) and the [plain language definition of Climate Jargon](https://www.nytimes.com/interactive/2021/10/31/climate/climate-change-sustainability-definition.html?action=click)
 - [A nice document by IPCC explaining how to teach climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), really worth reading
@@ -77,6 +77,23 @@ Here are a few ideas of websites with basic information on climate change (many 
 
 If you are in France, it is worth trying to participate to a [Fresque du climat](https://fresqueduclimat.org/) event. It is also worth watching this [introductory lecture by Valérie Masson Delmotte](https://www.youtube.com/watch?v=oSPb5o7oZIU) to the convention citoyenne du climat [in French]. 
 
+{{< /spoiler >}}
+
+## Self-assessment quiz
+To know your knowledge level on climate change.
+
+It is recommended that you know what to answer to the following questions, to take the most of the course.
+{{< spoiler text="Click to unroll the questions" >}}
+-	Could you explain simply what is the greenhouse effect and what is climate change ?
+-	What are the main greenhouse gases, and how are they produced by human activities?
+-	Why do we say that red meat consumption is an important cause of greenhouse gases emissions?
+-	If we stopped all GHG emissions now, how long would it take for the climate to come back to normal?
+-	What is the link between climate change and ozone layer?
+-	What is the link between climate change and air pollution?
+-	What is the link between climate change and global biodiverse decrease?
+-	What will be the main impacts of climate change in a city like Paris?
+-	What will be the main impacts of climate change in a city like Madrid?
+-	What will be the main impacts of climate change in a city like New York?
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="session1" >}}
