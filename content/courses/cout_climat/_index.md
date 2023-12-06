@@ -80,7 +80,9 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
   - Le célèbre ["warming stripes" graph](https://showyourstripes.info/)
   - [Carte des variations de température observées partout dans le monde](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) sur le site Carbonbrief
 - [Les impacts du changement climatique](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf) observés en France sur le site web de l'ONERC (ministère de l'environnement)
-
+- Pour savoir si un événement météorologique extrême ou une catastrophe naturelle récente peut être attribuée aux impacts du réchauffement climatique:
+  - [the World Weather attribution Project](https://www.worldweatherattribution.org/)
+  - [Climameter](https://www.climameter.org/)  
 
 ### Les impacts projetés par les modèles
 - [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
@@ -94,7 +96,7 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
   - [Un article similaire sur le site du Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
 
 ### L'adaptation au changement climatique en France
-- Le Chapitre 4 du [rapport du haut conseil pour le climat de 2021](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
+- Les [rapports du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/) et notamment le Chapitre 4 du [rapport de 2021](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
 - Un rapport du Sénat publié en 2019: ["Adapter la France aux dérèglements climatiques à l'horizon 2050 : urgence déclarée"](https://www.senat.fr/notice-rapport/2018/r18-511-notice.html)
 
 ### Ressources générales sur le changement climatique
