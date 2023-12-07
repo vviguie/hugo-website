@@ -55,7 +55,7 @@ links:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://vimeo.com/event/3934225
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
