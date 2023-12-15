@@ -44,10 +44,13 @@ links:
 - name: Website
   url: https://defis-ecologique-territoire.eventmaker.io/registration/6534cd0655ddc92845cef1a2
 - name: Linkedin
-  url: https://www.linkedin.com/posts/ecole-des-ponts-paris-tech_colloque-0712-l%C3%A9cole-des-ponts-paristech-activity-7132281378741604353-sW9y
+  url: https://www.linkedin.com/posts/l-h%C3%A9micycle_changement-climatique-comment-les-territoires-activity-7139955080392253441-mgI2?utm_source=share&utm_medium=member_desktop
   icon_pack: fab
   icon: linkedin
-
+- name: Video
+  url: https://www.youtube.com/watch?v=hkoZM5hu8K4&feature=youtu.be
+  icon_pack: fab
+  icon: youtube  
 
 
 # Optional filename of your slides within your event's folder or a URL.
@@ -55,7 +58,7 @@ links:
 
 url_code:
 url_pdf:
-url_video: https://vimeo.com/event/3934225
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
