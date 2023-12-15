@@ -23,7 +23,7 @@ main:
     parent: research
     url: '/publication/'
     weight: 14
-  - name: "Communication/media/talks"
+  - name: "Communication/talks"
     identifier : outreach
     url: 'outreach/'
     weight: 60
@@ -31,10 +31,6 @@ main:
     parent: outreach
     url: 'outreach/#associations'
     weight: 64
-  - name: "Media"
-    parent: outreach
-    url: 'outreach/#media'
-    weight: 65
   - name: "Academic and non-academic talks"
     parent: outreach
     url: 'outreach/#talks'
@@ -43,6 +39,10 @@ main:
     parent: outreach
     url: 'outreach/#videos'
     weight: 66
+  - name: "Media"
+    identifier: media
+    url: '#media'
+    weight: 70
   - name: "Courses"
     url: '/courses/'
     weight: 80

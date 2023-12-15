@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 95
+weight: 30
 
 title: Videos
 subtitle: 'A few outreach videos/ Quelques vidéos de conférences de vulgarisation'

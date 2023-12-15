@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Recent Publications
 subtitle: 'Peer-reviewed articles, reports, working papers and book chapters'

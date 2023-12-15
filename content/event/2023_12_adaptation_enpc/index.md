@@ -48,7 +48,7 @@ links:
   icon_pack: fab
   icon: linkedin
 - name: Video
-  url: https://www.youtube.com/watch?v=hkoZM5hu8K4&feature=youtu.be
+  url: https://youtu.be/hkoZM5hu8K4?feature=shared&t=6301
   icon_pack: fab
   icon: youtube  
 
