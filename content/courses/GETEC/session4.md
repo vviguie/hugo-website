@@ -6,25 +6,25 @@ weight: 35
 hidden: false
 ---
 
-# Adaptation to natural disasters (floods, hurricanes etc.)
+# Adaptation to "natural" disasters (floods, hurricanes etc.)
 
 <!--more-->
-In this lecture, we cover the second type of direct impacts : natural disasters. Climate change can induce natural disasters in a number of ways : hurricanes, river floods, coastal floods, landslides, wildfires etc.
+In this lecture, we cover the second type of direct impacts : extreme events. Climate change can induce  disasters in a number of ways : hurricanes, river floods, coastal floods, landslides, wildfires etc.
 
-Adaptation to these impacts imposes changes in the way traditional natural risk prevention is done. this is especially due to the progressive nature of climate change, and to the quantitative uncertainties surrounding the exact magnitude of its impacts.
+Adaptation to these impacts imposes changes in the way traditional risk prevention is done. this is especially due to the progressive nature of climate change, and to the quantitative uncertainties surrounding the exact magnitude of its impacts.
 
 ## Required reading
 
 [How climate change affects extreme weather around the world](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/?utm_campaign=Weekly%20Briefing&utm_content=20220822&utm_medium=email&utm_source=Revue%20newsletter) (2022).
 
-## Natural disasters
+## "Natural" disasters
 {{% callout note %}}
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/09/course-catnat.pdf)
 {{% /callout %}}
 
-### Natural disasters (1)
+### "Natural" disasters (1)
 {{<youtube chefob0ptu4>}}
-### Natural disasters (2)
+### "Natural" disasters (2)
 {{<youtube inJlrw4dWLs>}}
 
 ### To know more
@@ -35,7 +35,7 @@ Adaptation to these impacts imposes changes in the way traditional natural risk 
 {{<youtube bBa9bVYKLP0>}}
 - As a note: Hurricane Sandy, in 2012, caused destructions in New York City mainly due to its *storm surge* (local sea level rise during the hurricane, making the sea go inland and cause floods). Hurricane Ida, in 2021, caused destructions mainly due to its intense rainfall that overwhelmed the sewers, leading to *pluvial flooding*. Adaptation policies to both phenomena are different. See for instance [here](https://www.technologyreview.com/2021/09/03/1034315/ida-dodged-nyc-flood-defenses-climate-change-storm/) for an analysis.
 
-## Adaptation to natural disasters 
+## Adaptation to extreme events 
 {{% callout note %}}
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/09/course-catnat-adaptation.pdf)
 {{% /callout %}}
