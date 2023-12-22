@@ -11,7 +11,6 @@ authors:
 - Harris Selod
 - Stephane Hallegatte
 tags: ["Modelling city evolutions","Sustainable city development"]
-categories: []
 date: '2022-09-01'
 lastmod: 2022-09-27T14:38:27+02:00
 featured: false
@@ -33,7 +32,7 @@ image:
 projects: []
 publishDate: '2022-09-27T12:38:26.752056Z'
 publication_types:
-- '2'
+- '4'
 abstract: 'Opposition to climate policies seems to arise, at least partly, from their
   effects on inequality. However, so far, the impact of climate policies on inequality
   has mainly been studied through the lens of income inequality, and their spatial
@@ -62,4 +61,12 @@ url_pdf: https://openknowledge.worldbank.org/bitstream/handle/10986/38040/IDU064
 links:
 - name: URL
   url: https://openknowledge.worldbank.org/handle/10986/38040
+- name: Thread
+  url: https://twitter.com/hallegatte/status/1572244403292438529
+  icon: twitter
+  icon_pack: fab
+- name: Peer-reviewed paper (2024)
+  url: https://www.sciencedirect.com/science/article/pii/S2212095523003164?via%3Dihub
+categories: 
+  - Book or report
 ---
