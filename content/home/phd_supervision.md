@@ -26,8 +26,9 @@ advanced:
 
 - [Charlotte Liotta](http://www.centre-cired.fr/fr/charlotte-liotta/), co-supervised with [Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) (MCC Berlin)
 - [Samuel Juhel](http://www.centre-cired.fr/fr/samuel-juhel/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
-- [Adrien Delahais](https://www.centre-cired.fr/adrien-delahais/), co-supervised with [Fabien Leurent](https://www.centre-cired.fr/fabien-leurent/) (CIRED, Ecole des Ponts ParisTech)
+- [Adrien Delahais](https://www.centre-cired.fr/adrien-delahais/)
 - [Lou Mandonnet](https://www.centre-cired.fr/lou-mandonnet/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
+- Léa Corneille, co-supervised with [Aude Lemonsu](https://www.umr-cnrm.fr/spip.php?article261&lang=fr) (CNRM, Météo-France / CNRS / Université de Toulouse)
 
 ## Former PhD students
 - [Basile Pfeiffer](https://pastel.archives-ouvertes.fr/tel-04074623), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech)
