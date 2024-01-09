@@ -17,7 +17,7 @@ content:
   autolink: false
 
   # Contact details (edit or remove options as required)
-  email: viguie.cired[at]gmail.com or viguie[at]centre-cired.fr
+  email: viguie.cired[at]gmail.com or vincent.viguie[at]enpc.fr
   address:
     street: CIRED, Site du Jardin Tropical, 45bis, Av de la Belle Gabrielle
     city: Nogent-sur-Marne
