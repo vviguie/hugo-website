@@ -35,7 +35,7 @@ CO2 concentration in the atmosphere during one year.
   - The famous ["warming stripes" graph](https://showyourstripes.info/)
   - [Observed temperature changes everywhere in the world](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) on carbonbrief.org.
 - [Summary for policy makers of the 6th IPCC report (2021)](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
-- [in French] [Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/2-causes-du-changement-climatique)
+- [Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat-2023/en/) ([French Version here](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023))
 - [Global carbon project](https://www.globalcarbonproject.org/) for the latest figures about the greenhouse gases emissions and concentration in the atmosphere
 - The ["spaghetti graph"](https://www.wri.org/data/world-greenhouse-gas-emissions-2016) of all greenhouse gases emissions in the world.
 
@@ -71,7 +71,7 @@ All the figures are coming from the [Global Carbon Project](https://www.globalca
 [{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/09/who_responsible.pdf)
 
 #### References
-The figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/), the report "[Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/2-causes-du-changement-climatique)", and the [2021 report](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/) of the French High Panel for Climate Change (Haut Conseil pour le Climat).
+The figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/), the report "[Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023)", and the [2023 report](https://www.hautconseilclimat.fr/publications/) of the French High Panel for Climate Change (Haut Conseil pour le Climat).
 
 
 ## To know more

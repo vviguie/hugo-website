@@ -68,4 +68,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 tags: [heatwave, "adaptation policies", "Sustainable city development"]
+
+categories:
+- interview
 ---

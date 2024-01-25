@@ -1,17 +1,17 @@
 ---
-title: "Changement climatique : comment les territoires s’adaptent-ils ?"
-summary: "Décembre 2023"
+title: Quelle stratégie pour adapter la France aux crises écologiques ?
+summary: Intervention lors de la formation 'Parcours Adaptation au changement climatique et redirection écologique' du ministère en charge de l'environnement (décembre 2023)
 tags:
 - Urban policies
 - Adaptation
-date: "2023-12-07T00:00:00Z"
+date: "2023-06-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.linkedin.com/posts/l-h%C3%A9micycle_vincent-vigui%C3%A9-%C3%A9conomiste-est-intervenu-activity-7138934378256060416-2qms?utm_source=share&utm_medium=member_desktop"
+external_link: "https://www.dailymotion.com/video/kgOTCXqLFxGGqRzPQLq?start=2907"
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: 
+  focal_point:  
 
 links:
 url_code: ""
