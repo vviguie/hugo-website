@@ -22,7 +22,7 @@ In this lecture, we quickly cover the basics of the greenhouse effect and of cli
 
 #### Presentation
 
-{{< icon name="download" pack="fas" >}} Download the presentation [First part](https://www.centre-cired.fr/wp-content/uploads/2022/08/1.-course-1-2022.pdf) and [second part](https://www.centre-cired.fr/wp-content/uploads/2022/08/2.-2022-evolution-emissions2.pdf).
+{{< icon name="download" pack="fas" >}} Download the presentation [First part](https://www.centre-cired.fr/wp-content/uploads/2024/01/course-1-2024-part-1.pdf) and [second part](https://www.centre-cired.fr/wp-content/uploads/2024/01/course-1-2024-part-2.pdf).
 
 #### Video presented in the course 
 CO2 concentration in the atmosphere during one year.
@@ -38,6 +38,7 @@ CO2 concentration in the atmosphere during one year.
 - [Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat-2023/en/) ([French Version here](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023))
 - [Global carbon project](https://www.globalcarbonproject.org/) for the latest figures about the greenhouse gases emissions and concentration in the atmosphere
 - The ["spaghetti graph"](https://www.wri.org/data/world-greenhouse-gas-emissions-2016) of all greenhouse gases emissions in the world.
+- [Emissions by sector: where do greenhouse gases come from?](https://ourworldindata.org/emissions-by-sector) by [Our World in Data](https://ourworldindata.org/)
 
 ## Evolution of greenhouse gases emissions 
 
