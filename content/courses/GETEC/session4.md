@@ -20,6 +20,7 @@ Adaptation to these impacts imposes changes in the way traditional risk preventi
 ## "Natural" disasters
 {{% callout note %}}
 {{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/09/course-catnat.pdf)
+Download the [slides presented on class here](https://www.centre-cired.fr/wp-content/uploads/2024/02/return-period.pdf).
 {{% /callout %}}
 
 ### "Natural" disasters (1)
