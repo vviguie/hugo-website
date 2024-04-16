@@ -12,7 +12,7 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 
 
 {{% callout note %}}
-{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-transport.pdf)
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-transport.pdf). Download the slides presented during the class [here](https://www.centre-cired.fr/wp-content/uploads/2024/04/slides.pdf).
 {{% /callout %}}
 
 ## Required reading

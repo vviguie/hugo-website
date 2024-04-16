@@ -13,7 +13,7 @@ hidden: false
 Now that we have studied the main impacts of climate change, and a few adaptation policies, how can we frame an adaptation strategy in practice?
 
 {{% callout note %}}
-{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-adaptation.pdf)
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/course-adaptation.pdf). Download the slides presented during the class [here](https://www.centre-cired.fr/wp-content/uploads/2024/04/slides-en-plus-cours-adaptation.pdf).
 {{% /callout %}}
 
 ## Required reading

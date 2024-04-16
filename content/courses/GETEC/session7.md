@@ -12,7 +12,7 @@ hidden: false
 In this lecture, we discuss an important part of urban policies: land planning. Land planning plays a key role to get adapted to climate change impacts, but also to reduce emissions, and to mitigate  losses in ecosystem services. It also plays a key role on social and economic issues. How can we conciliate all these questions? Are there synergies and trade-offs?
 
 {{% callout note %}}
-{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/city-shape.pdf)
+{{< icon name="download" pack="fas" >}} Download the slides [here](http://www.centre-cired.fr/wp-content/uploads/2021/10/city-shape.pdf). Download the slides presented during the class [here](https://www.centre-cired.fr/wp-content/uploads/2024/04/out.pdf).
 {{% /callout %}}
 
 ## Required reading
