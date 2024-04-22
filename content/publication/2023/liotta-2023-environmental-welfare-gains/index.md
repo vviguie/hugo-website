@@ -12,7 +12,7 @@ tags: ["Sustainable city development","Modelling city evolutions","Transport emi
 categories: []
 date: '2023-12-01'
 lastmod: 2023-06-02T23:16:39+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
