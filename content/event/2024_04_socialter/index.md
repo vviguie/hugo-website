@@ -54,10 +54,10 @@ url_video:
 
 links:
 - name: Link
-  url: https://www.socialter.fr/produit/numero-63
+  url: https://www.socialter.fr/article/technosolutionnisme-maladaptation-changement-climatique-megabassines
 - name: Linkedin post
   url: https://www.linkedin.com/posts/socialter_le-techno-solutionnisme-maladaptation-au-activity-7188099130299162624-cLWF?utm_source=share&utm_medium=member_desktop
-
+# https://www.socialter.fr/produit/numero-63
 
 
 # Markdown Slides (optional).
