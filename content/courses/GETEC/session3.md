@@ -16,11 +16,16 @@ copyright_license:
 # Health issues and heat waves
 
 <!--more-->
+
 In this lecture, we cover a first type of direct impacts : 
 - The impacts on freshwater availability
 - The increase in heat wave risk
 
 Adaptation to these impacts are important elements of adaptation strategies of numerous cities around the world. 
+
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/course-water.pdf), [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/course-UHI-risk.pdf) and [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/UHI-adaptation.pdf). Download the slides presented on class [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/slides-en-cours-3-UHI-maladaptation.pdf).
+{{% /callout %}}
 
 ## Required reading
 

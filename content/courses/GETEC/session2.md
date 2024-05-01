@@ -23,6 +23,10 @@ In this lecture, we cover the main impacts of climate change. On a given territo
 
 Both direct and indirect impacts can affect cities, but the adaptation strategies are completely different. 
 
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download the slides [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/course-indirect.pdf). Download the slides presented on class [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/out.pdf).
+{{% /callout %}}
+
 ## Required reading
 
 [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. NB: If you are interested, it was later developed into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
