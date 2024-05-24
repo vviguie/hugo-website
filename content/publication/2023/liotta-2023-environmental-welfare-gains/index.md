@@ -61,6 +61,10 @@ links:
   url: https://doi.org/10.21203/rs.3.rs-2131432/v1
 - name: French Press release
   url: https://www.inshs.cnrs.fr/fr/cnrsinfo/vers-des-transports-urbains-respectueux-du-climat-et-des-populations
+- name: Podcast
+  url: https://ingenius.ecoledesponts.fr/articles/reduire-lempreinte-carbone-des-villes-defis-et-politiques-publiques/
+  icon: podcast
+  icon_pack: fa
 
 
 
