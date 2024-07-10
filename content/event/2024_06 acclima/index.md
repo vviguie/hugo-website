@@ -58,7 +58,7 @@ links:
 - name: Website
   url: https://www.canva.com/design/DAGGtas-qpQ/GIbEskNski_cYYoPTClYIw/view?utm_content=DAGGtas-qpQ&utm_campaign=designshare&utm_medium=link&utm_source=editor#1
 - name: Linkedin
-  url: https://www.linkedin.com/posts/accliamterra_adaptation-sfn-zan-activity-7203395389830402048-SX2c?utm_source=share&utm_medium=member_desktop
+  url: https://www.linkedin.com/posts/accliamterra_adaptation-raezsilience-zan-activity-7213848685468684288-V_hm?utm_source=share&utm_medium=member_desktop
   icon_pack: fab
   icon: linkedin
 
