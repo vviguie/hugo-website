@@ -29,9 +29,8 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 
 ## Required reading
 
-- [Why avoiding climate change ‘maladaptation’ is vital](https://www.carbonbrief.org/guest-post-why-avoiding-climate-change-maladaptation-is-vital/) (2021).
-- [Barnett, Jon, et Saffron O’Neill. 2010. «Maladaptation». Global Environmental Change 20 (2): 211‑13.](https://d3n8a8pro7vhmx.cloudfront.net/nowaterdeal/pages/31/attachments/original/1363981240/Maladaptation_Editorial.pdf?1363981240)
-
+- [How can the world reduce deaths from extreme heat?](https://ourworldindata.org/how-can-the-world-reduce-deaths-from-extreme-heat)
+- [Greener cities: a necessity or a luxury?](https://www.nature.com/articles/d41586-024-00477-y)
 
 
 

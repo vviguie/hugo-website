@@ -18,9 +18,9 @@ Now that we have studied the main impacts of climate change, and a few adaptatio
 
 ## Required reading
 
+- [Why avoiding climate change ‘maladaptation’ is vital](https://www.carbonbrief.org/guest-post-why-avoiding-climate-change-maladaptation-is-vital/) (2021).
+- [Barnett, Jon, et Saffron O’Neill. 2010. «Maladaptation». Global Environmental Change 20 (2): 211‑13.](https://d3n8a8pro7vhmx.cloudfront.net/nowaterdeal/pages/31/attachments/original/1363981240/Maladaptation_Editorial.pdf?1363981240)
 
-- [CEREMA. The resilience compass - Benchmarks for territorial resilience](https://www.cerema.fr/fr/centre-ressources/boutique/resilience-compass-benchmarks-territorial-resilience) (it can be downloaded freely from the website of CEREMA)
-- [Urban planning for resilience and health: key messages](https://www.who.int/europe/publications/i/item/WHO-10665-355760) by the World Health Organization
 
 ## Adaptation strategies
 {{<youtube 2nfl-ZZ71Ok>}}
