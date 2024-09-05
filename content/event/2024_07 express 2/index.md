@@ -16,12 +16,12 @@ abstract: "Sous l’effet du réchauffement climatique et du développement de m
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-06-09T19:30:00+02:00
+date: 2024-07-22T19:30:00+02:00
 date_end: 
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-06-09T20:00:00+02:00
+publishDate: 2024-07-22T20:00:00+02:00
 
 authors: []
 tags: ['adaptation policies']
