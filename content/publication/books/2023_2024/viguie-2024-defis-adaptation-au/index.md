@@ -6,8 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Vincent Viguié
-tags: ["Adaptation","Sustainable city development","Adaptation policies"]
-categories: []
+tags: ["Adaptation","Sustainable city development","Adaptation policies","heatwave"]
+categories: 
+  - Book or report
 date: '2024-07-01'
 lastmod: 2024-07-29T17:29:53+02:00
 featured: false
@@ -29,7 +30,7 @@ image:
 projects: []
 publishDate: '2024-07-01T15:29:52.697770Z'
 publication_types:
-- '2'
+- '4'
 abstract: Les stratégies d'adaptation sont relativement techniques à concevoir et
   diffèrent assez largement, par exemple, de la gestion habituelle des risques naturels.
   Elles doivent prendre en compte les possibilités de crises multiples et simultanées,
@@ -41,5 +42,6 @@ abstract: Les stratégies d'adaptation sont relativement techniques à concevoir
 publication: '*Administration, la revue du corps préfectoral*'
 doi: 10.3917/admi.282.0031
 url_pdf: media/ADMI_282_0031.pdf
+
 
 ---
