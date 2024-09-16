@@ -53,7 +53,12 @@ Adaptation to these impacts are important elements of adaptation strategies of n
  
 ### To know more
 
-More resources on heat and adaptation:
+More resources on heat and adaptation:- 
+- A series of papers by Our World in Data:
+  - [How many people die from extreme temperatures, and how this could change in the future: Part one](https://ourworldindata.org/part-one-how-many-people-die-from-extreme-temperatures-and-how-could-this-change-in-the-future)
+  - [How many people die from extreme temperatures, and how this could change in the future: Part two](https://ourworldindata.org/part-two-how-many-people-die-from-extreme-temperatures-and-how-could-this-change-in-the-future)
+  - [How can the world reduce deaths from extreme heat?](https://ourworldindata.org/how-can-the-world-reduce-deaths-from-extreme-heat)
+  - [Air conditioning causes around 3% of greenhouse gas emissions. How will this change in the future?](https://ourworldindata.org/air-conditioning-causes-around-greenhouse-gas-emissions-will-change-future)
 - [How to adapt your city to extreme heat?](https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US) on C40 website
 - [Adapting to Heat](https://www.epa.gov/heatislands/adapting-heat) on 
 U.S. Environmental Protection Agency website
