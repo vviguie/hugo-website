@@ -64,6 +64,8 @@ More resources on heat and adaptation:-
 U.S. Environmental Protection Agency website
 - The [explanation of heat island effects](https://climate.mit.edu/explainers/urban-heat-islands) on MIT website
 - [in French] [What is the heat island effect?](https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf) and [How can we adapt Paris to heatwaves?](https://www.apc-paris.com/publication/comment-adapter-territoire-parisien-futures-canicules-pistes-strategies-dadaptation) by the Agence Parisienne du Climat
+- [in French] [Ilots de chaleur urbains : à quoi ce phénomène est-il dû ? Quelles villes sont les plus touchées ?](https://www.lemonde.fr/les-decodeurs/article/2023/08/25/ilots-de-chaleur-urbain-a-quoi-ce-phenomene-est-il-du-quelles-villes-sont-les-plus-touchees_6186542_4355770.html) and [Le paradoxe de la climatisation : de plus en plus nécessaire, elle aggrave le réchauffement](https://www.lemonde.fr/planete/article/2023/08/20/le-paradoxe-de-la-climatisation-de-plus-en-plus-necessaire-elle-aggrave-le-rechauffement_6185979_3244.html) by Le Monde
+- [Rafraîchir les villes](https://librairie.ademe.fr/changement-climatique-et-energie/4649-rafraichir-les-villes.html) by Ademe (in French) and its s[shorter international version in English](https://librairie.ademe.fr/urbanisme/5043-urban-cooling-solutions.html)
 
 
 
