@@ -67,7 +67,7 @@ def carto(variable=outNedum['coeff_land'],X=outNedum['X'],Y=outNedum['Y']):
               s=20)
     # on ajoute un fond de carte: le fond Stamen Toner (https://wiki.openstreetmap.org/wiki/Stamen)
     ctx.add_basemap(ax,
-                source=ctx.providers.Stamen.Toner,
+                source=ctx.providers.CartoDB.Positron,
                 alpha=0.8
                 )
     # ax.set_axis_off() 
