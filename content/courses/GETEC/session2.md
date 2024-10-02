@@ -54,6 +54,7 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 {{< youtube Uc4VpTWrbpA >}}
 
 #### Some reference documents on these questions
+- [The impacts of climate change on food production](https://ourworldindata.org/crop-yields-climate-impact) by Our World in Data
 - [Food Security and Food Production Systems](https://www.ipcc.ch/site/assets/uploads/2018/02/WGIIAR5-Chap7_FINAL.pdf) in the 5th IPCC report (2014)
 - The [special report on climate change and land (2019)](https://www.ipcc.ch/srccl/) of the IPCC
 - If you're interested by the adaptation of coffee farmers in Uganda, here are a few documents:
