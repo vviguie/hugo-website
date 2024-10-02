@@ -22,7 +22,7 @@ date_end: 2024-10-17T11:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-04-30T14:46:13+02:00
+publishDate: 2024-10-01T14:46:13+02:00
 
 authors: []
 tags: ['adaptation policies','Sustainable city development','heatwave']
@@ -81,6 +81,9 @@ projects: []
 # PROGRAMME
 
 8h30 : Accueil
-9h : Entretien avec notre grand témoin (Patrice Geoffron, Professeur, Directeur de l'équipe Energie-Climat - LDEA Paris Dauphine)
+
+9h : Entretien avec Patrice Geoffron (Professeur, Directeur de l'équipe Energie-Climat - LDEA Paris Dauphine)
+
 9h30-10h25 : Nos infrastructures : quelle histoire !
+
 10h30-11h25 : Climat et infrastructures : comment réussir l’adaptation ? 
