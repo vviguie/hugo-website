@@ -50,12 +50,12 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/jt-23h-info-mercredi-9-octobre-2024_6789523.html
+url_video: 
 
 links:
 - name: Replay
   url: https://www.francetvinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/jt-23h-info-mercredi-9-octobre-2024_6789523.html
-  icon_pack: fas
+  icon_pack: fab
   icon: youtube
 
 # Markdown Slides (optional).

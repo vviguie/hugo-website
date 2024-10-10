@@ -59,7 +59,7 @@ links:
   icon_pack: fab
 - name: Replay
   url: https://www.publicsenat.fr/emission/sens-public/milton-kirk-sommes-nous-prets-a-affronter-ces-tempetes-plus-violentes-e0
-  icon_pack: fas
+  icon_pack: fab
   icon: youtube
 
 # Markdown Slides (optional).
