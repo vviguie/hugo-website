@@ -86,4 +86,4 @@ The figures are coming from the [Global Carbon Project](https://www.globalcarbon
 - Climate Action Tracker (https://climateactiontracker.org/)
 Here are a few ideas of websites with basic information on climate change (many other exist) :
 - [Our World in data](https://ourworldindata.org/) to get key figures on climate change.
-
+- [In French] [Tout comprendre au réchauffement climatique](https://reporterre.net/Tout-comprendre-au-rechauffement-climatique) by the newspaper Reporterre
