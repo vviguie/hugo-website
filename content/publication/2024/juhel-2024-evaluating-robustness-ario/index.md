@@ -54,5 +54,9 @@ abstract: Given the interconnectedness of modern economies and the widespread ad
 publication: '*Environmental Research: Infrastructure and Sustainability*'
 doi: 10.1088/2634-4505/ad8375
 
+Links:
+- name: Working paper (Earth Arxiv preprint)
+  url: https://eartharxiv.org/repository/view/6173/
+
 url_pdf: https://iopscience.iop.org/article/10.1088/2634-4505/ad8375/pdf
 ---
