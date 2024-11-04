@@ -38,14 +38,12 @@
     {{ end }}
   </div>
   {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
 
-  {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+  {{ $resource := partial "functions/get_featured_image.html" $item }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
   {{ with $resource }}
-    {{ $image := .Fill (printf "808x455 %s" $anchor) }}
-    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+    {{ $image := .Fill (printf "808x455 webp %s" $anchor) }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
       <div class="img-hover-zoom">
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
