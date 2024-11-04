@@ -58,7 +58,7 @@ links:
 - name: Website
   url: https://www.eventbrite.fr/e/billets-forum-la-resilience-des-infrastructures-970443601937
 - name: Linkedin
-  url: https://www.linkedin.com/posts/midi-libre_transport-mobilitaez-routes-activity-7246928754411753472-t5lq
+  url: https://www.linkedin.com/posts/midi-libre_forum-la-r%C3%A9silience-des-infrastructures-activity-7247185223740772353-xl0o
   icon_pack: fab
   icon: linkedin
 
