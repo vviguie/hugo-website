@@ -61,6 +61,8 @@ links:
   url: https://www.linkedin.com/posts/midi-libre_forum-la-r%C3%A9silience-des-infrastructures-activity-7247185223740772353-xl0o
   icon_pack: fab
   icon: linkedin
+- name: Article dans Midi Libre
+  url: https://www.midilibre.fr/2024/10/31/les-infrastructures-outils-de-mobilite-et-de-decarbonation-12295770.php
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
