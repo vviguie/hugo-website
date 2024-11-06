@@ -24,6 +24,8 @@ Info on the moodle page of the course (_restricted to Science Po students_).
 
 
 #### To know more
+- [Energy sufficiency and rebound effects. Concept paper](https://www.energysufficiency.org/libraryresources/library/items/energy-sufficiency-and-rebound-effects-concept-paper/) by the European Council for an Energy-Efficient Economy
+- [Why ‘rebound effects’ may cut energy savings in half](https://www.carbonbrief.org/guest-post-why-rebound-effects-may-cut-energy-savings-in-half/) (2021) on CarbonBrief
 - [The Building Efficiency Accelerator](https://buildingefficiencyaccelerator.org)
 - [In French] [Analyse socio-économique de la rénovation énergétique des logements](https://www.cae-eco.fr/analyse-socio-economique-de-la-renovation-energetique-des-logements) (2024) by Louis-Gaëtan Giraudet and Lucas Vivier, a note for the French Council of Economic Analysis which details the state of knowledge on the costs and benefits of energy renovation of housing, and the methods for quantifying the potential for profitable operations. It updates a previous report made by [France Stratégie](https://www.strategie.gouv.fr/publications/couts-dabattement-partie-5-logement#_ftn3) in 2022.
 - [How to set energy efficiency requirements for existing buildings](https://www.c40knowledgehub.org/s/article/How-to-set-energy-efficiency-standards-for-existing-buildings?language=en_US) (2019) by C40.
