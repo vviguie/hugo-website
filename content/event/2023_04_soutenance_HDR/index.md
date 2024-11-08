@@ -47,11 +47,15 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: https://www.centre-cired.fr/wp-content/uploads/2024/11/soutenance-hdr.pdf
 
 url_code:
-url_pdf: https://www.dropbox.com/s/a44j7ieint6o0bj/HDR_viguie.pdf?dl=0
+url_pdf: 
 url_video: https://youtu.be/AUMjaXiotok
+
+links:
+  - name: Manuscript (pdf)
+    url: /publication/books/2021_2022/viguie-2022-evaluations-strategies-climatiques/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -67,6 +71,10 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{% callout note %}}
+{{< icon name="download" pack="fas" >}} You can download the slides [here](https://www.centre-cired.fr/wp-content/uploads/2024/11/soutenance-hdr.pdf) and the thesis [here](https://www.centre-cired.fr/wp-content/uploads/2024/11/HDR_viguie.pdf).
+{{% /callout %}}
 
 {{< toc >}}
 

@@ -3,7 +3,7 @@ title: "Interview dans Libération: «Un symbole de la maladaptation»"
 date: 2023-07-09
 publishDate: 2023-07-09T16:14:37.853279Z
 authors: ["Libération"]
-publication_types: ["4"]
+publication_types: ["0"]
 abstract: "Il est urgent de mener des politiques publiques volontaristes pour trouver des altematives à un système à la fois énergivore et contreproductif à long terme."
 featured: false
 publication: "*Libération*"
