@@ -19,8 +19,6 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 ## Required reading
 
 - [The problem with net-zero emissions targets](https://www.carbonbrief.org/guest-post-the-problem-with-net-zero-emissions-targets/), a 2019 text by Prof. Duncan McLaren on Carbon Brief.
-- [Global Protocol for Community-Scale Greenhouse Gas Emission Inventories, *Executive Summary*](https://cdn.locomotive.works/sites/5ab410c8a2f42204838f797e/content_entry5ab410fb74c4833febe6c81a/5ac63cca74c4837dd55d4c59/files/GPC_Executive_Summary.pdf?1541698648) 
-
 
 ## Defining city GHG emissions
 {{< youtube yPgIpodE3Do>}}
@@ -37,6 +35,9 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 - [The peak in cities emissions](https://www.c40knowledgehub.org/s/article/27-C40-Cities-have-peaked-their-greenhouse-gas-emissions?language=en_US) (and its [update](https://www.c40.org/news/30-of-the-world-s-largest-most-influential-cities-have-peaked-greenhouse-gas-emissions/))
 - [How to reduce emissions of cities](https://www.c40knowledgehub.org/s/article/Deadline-2020-How-cities-will-get-the-job-done?language=en_US)
 - [A nice video](https://www.youtube.com/watch?v=DtqSIplGXOA&ab_channel=RealWorldVisuals) showing New York City's greenhouse gas emissions.
+- [Global Protocol for Community-Scale Greenhouse Gas Emission Inventories, *Executive Summary*](https://cdn.locomotive.works/sites/5ab410c8a2f42204838f797e/content_entry5ab410fb74c4833febe6c81a/5ac63cca74c4837dd55d4c59/files/GPC_Executive_Summary.pdf?1541698648) 
+
+
 
 ## Consumption-based emissions
 #### The definition of consumption-based emissions
