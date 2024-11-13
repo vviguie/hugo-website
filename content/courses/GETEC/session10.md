@@ -48,5 +48,9 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 #### References
 - The report by C40 that I am mentioning several times: [The future of urban consumption in a 1.5°C world](https://www.c40knowledgehub.org/s/article/The-future-of-urban-consumption-in-a-1-5-C-world?language=en_US)
 - A previous work on the same subject: [Consumption-based GHG emissions of C40 cities]( https://www.c40knowledgehub.org/s/article/Consumption-based-GHG-emissions-of-C40-cities?language=en_US)
+- [In French] 3 reports: 
+    - [Les indicateurs de l'économie circulaire: Apprécier les tendances et mieux outiller l'Île-de-France](https://www.institutparisregion.fr/nos-travaux/publications/les-indicateurs-de-leconomie-circulaire/) by The Institut Paris Region
+    - [L'Île-de-France face au défi de l'économie circulaire](https://www.institutparisregion.fr/nos-travaux/publications/lile-de-france-face-au-defi-de-leconomie-circulaire/) by The Institut Paris Region
+    - [Indicateurs clés pour le suivi de l'économie circulaire](https://www.statistiques.developpement-durable.gouv.fr/indicateurs-cles-pour-le-suivi-de-leconomie-circulaire-edition-2021) by the French Ministry of Environment 
 
 
