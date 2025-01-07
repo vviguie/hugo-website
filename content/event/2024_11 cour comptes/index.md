@@ -52,7 +52,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/512-9mFsIDI?si=cX9TkWSra6K-tOt2&t=20281
 
 links:
 - name: Inscription
@@ -61,6 +61,8 @@ links:
   url: https://www.linkedin.com/events/colloque-lespolitiquesd-adaptat7259956651229646849/about/
   icon_pack: fab
   icon: linkedin
+# https://www.linkedin.com/posts/st%C3%A9phanie-dupuy-lyon-7a98bab2_changementclimatique-responsable-rentable-activity-7265493722711109634-q7ra?utm_source=share&utm_medium=member_desktop
+# https://www.linkedin.com/posts/cour-des-comptes_comment-former-et-sensibiliser-pour-ladaptation-activity-7266873363564826625-tKNB?utm_source=share&utm_medium=member_desktop
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
