@@ -57,6 +57,10 @@ links:
   url: https://www.youtube.com/watch?v=HIjdkjaRaEs
   icon_pack: fab
   icon: youtube
+- name: podcast
+  url: https://shows.acast.com/baptiste-pose-des-questions/retard-adapter-villes-changement-climatique
+  icon_pack: fas
+  icon: podcast
 - name: Linkedin
   url: https://www.linkedin.com/posts/vincentviguie_vagues-de-chaleur-mont%C3%A9e-des-eaux-catastrophes-activity-7287143950283341824-pP0_?utm_source=share&utm_medium=member_desktop
   icon_pack: fab
