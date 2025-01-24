@@ -57,7 +57,10 @@ url_video:
 links:
 - name: Information
   url: http://www.comite21.org/comite21/comite21-en-action.html?id=14957
-
+- name: podcast
+  url: http://www.comite21.org/docs/tr3.mp3
+  icon_pack: fas
+  icon: podcast
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
