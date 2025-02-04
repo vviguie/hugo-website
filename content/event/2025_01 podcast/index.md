@@ -27,7 +27,7 @@ authors: []
 tags: ['adaptation policies','heatwave','Sustainable city development']
 
 # Is this a featured event? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -81,8 +81,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 
-categories:
-- Interview
+
 ---
 
 # Présentation par l'auteur du podcast
