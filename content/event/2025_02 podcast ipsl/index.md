@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interview dans le podcast: 'Le climat, une question de...'"
-event: Baptiste pose des questions
+event: Podcast de l'IPSL
 event_url: https://www.youtube.com/watch?v=HIjdkjaRaEs
 location:
 address:
