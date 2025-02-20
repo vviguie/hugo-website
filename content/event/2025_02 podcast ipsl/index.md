@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Le climat, une question de... consommation? Nos modes de vie influencent les émissions de CO₂, mais les choix individuels peuvent-ils réellement changer la donne ? La consommation responsable est souvent mise en avant, mais son impact reste limité face aux contraintes économiques, sociales et infrastructurelles. Dans cet épisode, la sociologue Sophie Dubuisson-Quellier (Sciences Po-CNRS, Haut conseil pour le climat) et l’économiste Vincent Viguié (CIRED) déconstruisent les idées reçues sur l’impact de la consommation et analysent les leviers réels de transition."
+abstract: "Interview avec Sophie Dubuisson-Quellier. Le climat, une question de... consommation? Nos modes de vie influencent les émissions de CO₂, mais les choix individuels peuvent-ils réellement changer la donne ? La consommation responsable est souvent mise en avant, mais son impact reste limité face aux contraintes économiques, sociales et infrastructurelles. Dans cet épisode, la sociologue Sophie Dubuisson-Quellier (Sciences Po-CNRS, Haut conseil pour le climat) et l’économiste Vincent Viguié (CIRED) déconstruisent les idées reçues sur l’impact de la consommation et analysent les leviers réels de transition."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
