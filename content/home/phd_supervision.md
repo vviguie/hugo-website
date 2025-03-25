@@ -35,7 +35,7 @@ advanced:
 
 
 ## Interns
-
+- 2025 : Camille Presutto
 - 2023 : Marin Perrault
 - 2022 : Théo Mandonnet, Cristina Ragazzi
 - 2021 : Adrien Delahais
