@@ -87,10 +87,10 @@ links:
     url: https://twitter.com/VincentViguie/status/1632799713102647296
     icon: twitter
     icon_pack: fab
+
+# {{< tweet user="MartaOlazabal" id="1631673375847247874" >}}
 ---
 
 There are several twitter threads on this paper:
-
-{{< tweet user="MartaOlazabal" id="1631673375847247874" >}}
 
 {{< tweet user="VincentViguie" id="1632799713102647296" >}}
