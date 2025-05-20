@@ -68,7 +68,7 @@ links:
 
 
 
-url_pdf: https://www.nature.com/articles/s41893-023-01138-0
+url_pdf: https://www.dropbox.com/scl/fi/q1w0itmdfuly646obzgkj/s41893-023-01138-0.pdf?rlkey=41ipx0uq1yioww7nb8qrwlid1&dl=0
 
 url_code: 
 
