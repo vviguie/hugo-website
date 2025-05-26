@@ -61,6 +61,10 @@ links:
   url:  https://www.linkedin.com/posts/meteoclimat_fimc2025-colloque-climat-activity-7320408878163095555-zzsu
   icon_pack: fab
   icon: linkedin
+- name: Slides
+  url: https://forumeteoclimat.com/wp-content/uploads/2025/05/Session-2-K2-Vincent-VIGUIE.pdf
+  icon_pack: far
+  icon: file-pdf
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
