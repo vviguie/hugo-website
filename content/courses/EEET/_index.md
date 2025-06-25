@@ -15,7 +15,7 @@ copyright_license:
   weight: 30
 ---
 
-Un cours donné au [master EEET](http://www.master-eddee.fr/) (Économie de l’environnement de l’énergie et des transports), master de l'Université Paris Saclay, Université Paris Nanterre, IFP-School et Ecole des Ponts ParisTech.
+Un cours donné au [master EEET](https://www.master-eeet.fr/en/home/) (Économie de l’environnement de l’énergie et des transports), master de l'Université Paris Saclay, Université Paris Nanterre, IFP-School et Ecole des Ponts ParisTech.
 
 {{< icon name="clock" pack="fas" >}} 3h de cours, et 3h de TP
 

@@ -108,7 +108,7 @@ Additionally, I was Guest editor of Special Issues on:
 - [Cities: the core of climate change mitigation](https://www.sciencedirect.com/journal/journal-of-cleaner-production/special-issue/10Q3VQ07JKL) in [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production) (2019)
 
 
-{{< icon name="chalkboard-teacher" pack="fas" >}}  I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html) and [École Polytechnique](https://www.polytechnique.edu/), regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/), and like to [communicate about climate policies]({{< relref "/outreach" >}}).
+{{< icon name="chalkboard-teacher" pack="fas" >}}  I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), [École Polytechnique](https://www.polytechnique.edu/) and [master EEET](https://www.master-eeet.fr/en/home/). I also regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/), and like to [communicate about climate policies]({{< relref "/outreach" >}}). Several of my courses are [available online]({{< relref "/courses" >}}).
 
 {{< icon name="download" pack="fas" >}}  Download my {{< staticref "media/CV_Viguie.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
