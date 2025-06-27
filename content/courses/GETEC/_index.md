@@ -1,5 +1,6 @@
 ---
-title: Climate Change and Urban Policy Choices
+title: Adaptation and mitigation strategies in cities
+subtitle: Climate Change and Urban Policy Choices
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linkTitle: Cities and climate
 # Page summary for search engines.
@@ -24,7 +25,7 @@ A course given in the [master Governing Ecological Transition in Cities (GETIC)]
 
 {{< icon name="clock" pack="fas" >}} 2 hours per week, for 12 weeks
 
-{{< figure src="featured.jpg" caption="Image credit: [Pixabay](https://pixabay.com/fr/photos/l-architecture-immeubles-voitures-1837176/)">}}
+{{< figure src="featured2.jpg" caption="Image credit: [Pixabay](https://pixabay.com/fr/photos/l-architecture-immeubles-voitures-1837176/)">}}
 
 {{< toc hide_on="xl" >}}
 
