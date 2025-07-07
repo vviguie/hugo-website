@@ -10,9 +10,8 @@ authors:
 - Vincent Viguié
 publication_types:
 - '3'
-abstract: 'Climate change is expected to cause increasingly severe economic and social
-  disruptions, making adaptation a key pillar of climate policy. Assessing the economic
-  costs of climate impacts is essential to inform adaptation strategies, especially
+abstract: 'Assessing the economic
+  costs of climate change impacts is essential to inform adaptation strategies, especially
   when these costs are used to calibrate the scale of adaptation investments and to
   weigh adaptation needs against other policy priorities. Yet, estimates of these
   costs vary widely across studies. Here we compare the estimated economic cost of
@@ -24,7 +23,7 @@ abstract: 'Climate change is expected to cause increasingly severe economic and 
   and the omission of cross-border effects. Besides, we also show that while the national
   institutional literature is extensive, many broad impact categories lack comprehensive
   quantification, and even fewer are monetized.'
-publication: '*Under review*'
+publication: '*Under review (ERL)*'
 tags: "adaptation policies"
 url_pdf: https://hal.science/hal-05136840
 doi: 10.2139/ssrn.4940792

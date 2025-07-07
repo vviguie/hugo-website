@@ -45,7 +45,7 @@ abstract: Countries can suffer supply chain disruptions and important economic l
   and are exposed to both risks, as a result of regional trade integration and geographic
   concentration of climate risks. Moreover, almost every country faces high exposure
   for at least one broad category of imports.
-publication: '*Under review for One Earth*'
+publication: '*Under review (One Earth)*'
 url_pdf: https://papers.ssrn.com/sol3/Data_Integrity_Notice.cfm?abid=4940792
 doi: 10.2139/ssrn.4940792
 ---
