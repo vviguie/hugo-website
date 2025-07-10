@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Interview dans 'La Vie': 'Écologie : y a-t-il une fracture entre villes et campagnes face à la pollution ?'"
-event: Franceinfo et vous
-event_url: https://www.lavie.fr/actualite/societe/ecologie-y-a-t-il-une-fracture-entre-villes-et-campagnes-face-a-la-pollution-99588.php
+title: "Invitation dans 'Sur le terrain' de France Info TV: contre les incendies, comment la France peut-elle s'adapter ? "
+event: Sur le terrain
+event_url: https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-9-juillet-2025-contre-les-incendies-comment-la-france-peut-elle-s-adapter_7368418.html
 location:
 address:
   street:
@@ -12,19 +12,19 @@ address:
   postcode:
   country:
 summary:
-abstract: "Écologie : y a-t-il une fracture entre villes et campagnes face à la pollution ? Il est plus facile de décarboner son quotidien quand on vit en ville qu’à la campagne, selon plusieurs enquêtes. Cependant, il ne s’agirait pas de stigmatiser les ruraux et de porter les citadins aux nues. "
+abstract: "Loïc de la Mornais s'intéresse dans cette première partie aux incendies de plus en plus fréquents dans le sud de la France. Comment le pays peut-il s’adapter face aux sécheresses et au réchauffement climatique et éviter les incendies ?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-05-21T12:45:00+02:00
-date_end: 2025-05-21T12:45:00+02:000
-all_day: true
+date: 2025-07-09T21:00:00+02:00
+date_end: 2025-07-09T22:00:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-05-21T12:45:00+02:00
+publishDate: 2025-07-09T21:00:00+02:00
 
 authors: []
-tags: ['Sustainable city development','transport emissions']
+tags: ['adaptation policies','heatwave','Sustainable city development']
 
 # Is this a featured event? (true/false)
 featured: true
@@ -53,11 +53,14 @@ url_pdf:
 url_video: 
 
 links:
-- name: Article
-  url: https://www.lavie.fr/actualite/societe/ecologie-y-a-t-il-une-fracture-entre-villes-et-campagnes-face-a-la-pollution-99588.php
-
-
-  
+- name: Replay 1
+  url: https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-9-juillet-2025-contre-les-incendies-comment-la-france-peut-elle-s-adapter_7368418.html
+  icon_pack: fab
+  icon: youtube
+- name: Replay 2
+  url: https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-9-juillet-2025-pompiers-du-futur-la-technologie-en-premiere-ligne_7368451.html
+  icon_pack: fab
+  icon: youtube
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
