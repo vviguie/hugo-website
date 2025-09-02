@@ -41,9 +41,7 @@ Please also watch this video: Sébastien Maire - Paris and the Resilience Approa
 
 ## To know more
 - To know more on general questions on adaptation policies in cities, you can have a look at the [Chapter 6 "Cities, Settlements and Key Infrastructure"](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter06.pdf) of the working group 2 of the last IPCC report. You can especially read the 5 Frequently Asked Questions (near the end of the chapter).
-- To know more about the state of adaptation policies in France, you can read:
-  - [In French] The [report](https://www.senat.fr/espace_presse/actualites/201905/adaptation_de_la_france_aux_changements_climatiques_a_lhorizon_2050.html) of the French Senate of the country readiness to cope with climate impacts 
-  - [The 2021 report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
+- To know more about the state of adaptation policies in France, you can see [the latest report of the French High Panel for the Climate](https://www.hautconseilclimat.fr/publications/). For the state of adaptation policies across the world, you can have a look at the [UN Adaptation Gap Report ](https://www.unep.org/resources/adaptation-gap-report)
 - To get information on adaptation strategies in various cities, [C40 Cities: Adaptation Data Explorer (Interactive Map)](https://www.c40knowledgehub.org/s/article/Adaptation-Data-Explorer-City?language=en_US).
 - Knowledge on resilience and disaster risk management on World Bank's [Global Facility for Disaster Reduction and Recovery](https://www.gfdrr.org/en/knowledge-hub) website. You can especially read [Adaptation Principles : A Guide for Designing Strategies for Climate Change Adaptation and Resilience](https://openknowledge.worldbank.org/handle/10986/34780).
 - To know more on the public park Enghaveparken (Copenhagen) that I use as an example, [a video presentation of the project](https://www.youtube.com/watch?v=e5gjLW2PRfs).

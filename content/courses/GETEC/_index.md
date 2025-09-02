@@ -52,6 +52,7 @@ There are 12 sessions, grouped into 4 themes:
 
 ## General references
 
+- [The Climate Dictionary](https://www.undp.org/publications/climate-dictionary) by UNDP
 - [Cities and Climate Change (article)](https://climate.mit.edu/explainers/cities-and-climate-change) on MIT website
 - [U.S. National Climate Assessment: "Built Environment, Urban Systems, and Cities" (report)](https://nca2018.globalchange.gov/chapter/11/)
 - [C40 knowledge hub](https://www.c40knowledgehub.org) *"Cutting-edge insights and practical resources from leading climate cities."* This website provides synthetic reports about main climate-related issues in cities, as well as numerous examples of adaptation and mitigation policies implemented in cities around the world. 

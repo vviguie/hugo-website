@@ -39,11 +39,8 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 
 ### To know more
 - A [C40 webpage](https://www.c40.org/other/the-future-we-don-t-want-restoring-the-flow) about freshwater availability in various cities across the world.
-- On C40 website, examples of adaptation policies in:
-  - [New York](https://www.c40knowledgehub.org/s/article/Cities100-In-New-York-City-effective-water-management-cuts-costs-and-carbon-and-boosts-resilience?language=en_US)
-  - [Lisbon](https://www.c40knowledgehub.org/s/article/Cities100-Lisbon-is-future-proofing-its-water-supply-with-a-recycled-water-programme-and-rain-fed-greenspaces?language=en_US)
-  - [Delhi](https://www.c40knowledgehub.org/s/article/Cities100-Delhi-is-providing-clean-and-free-water-for-all-and-investing-in-a-water-secure-future?language=en_US)
-- To know more about water and climate change in Paris, see [this document](https://www.apc-paris.com/actualite/changement-climatique-a-paris-quels-impacts-sur-leau) [in French].
+- On C40 website, [examples of adaptation policies in various cities](https://www.c40knowledgehub.org/s/article/Adaptation-Data-Explorer-City?language=en_US)
+- To know more about water and climate change in Paris, see [this document](https://www.apc-paris.com/changement-climatique/climat-a-paris/les-plans-climat-et-politiques-climat-energie/le-plan-de-sobriete-en-eau-de-paris-faire-de-la-capitale-un-territoire-durable/) [in French].
 
 ## Heatwaves
 ### Heatwaves and health issues
@@ -63,9 +60,9 @@ More resources on heat and adaptation:-
 - [Adapting to Heat](https://www.epa.gov/heatislands/adapting-heat) on 
 U.S. Environmental Protection Agency website
 - The [explanation of heat island effects](https://climate.mit.edu/explainers/urban-heat-islands) on MIT website
-- [in French] [What is the heat island effect?](https://www.apc-paris.com/sites/www.apc-paris.com/files/file_fields/2018/09/25/icu-brochureapc-mf.pdf) and [How can we adapt Paris to heatwaves?](https://www.apc-paris.com/publication/comment-adapter-territoire-parisien-futures-canicules-pistes-strategies-dadaptation) by the Agence Parisienne du Climat
+- [in French] [How can we adapt Paris to heatwaves?](https://www.apc-paris.com/changement-climatique/climat-a-paris/les-plans-climat-et-politiques-climat-energie/paris-face-aux-fortes-chaleurs-comment-la-ville-sadapte/) by the Agence Parisienne du Climat
 - [in French] [Ilots de chaleur urbains : à quoi ce phénomène est-il dû ? Quelles villes sont les plus touchées ?](https://www.lemonde.fr/les-decodeurs/article/2023/08/25/ilots-de-chaleur-urbain-a-quoi-ce-phenomene-est-il-du-quelles-villes-sont-les-plus-touchees_6186542_4355770.html) and [Le paradoxe de la climatisation : de plus en plus nécessaire, elle aggrave le réchauffement](https://www.lemonde.fr/planete/article/2023/08/20/le-paradoxe-de-la-climatisation-de-plus-en-plus-necessaire-elle-aggrave-le-rechauffement_6185979_3244.html) by Le Monde
-- [Rafraîchir les villes](https://librairie.ademe.fr/changement-climatique-et-energie/4649-rafraichir-les-villes.html) by Ademe (in French) and its s[shorter international version in English](https://librairie.ademe.fr/urbanisme/5043-urban-cooling-solutions.html)
+- [Rafraîchir les villes](https://librairie.ademe.fr/changement-climatique-et-energie/4649-rafraichir-les-villes.html) by Ademe (in French) and its [shorter international version in English](https://librairie.ademe.fr/urbanisme/5043-urban-cooling-solutions.html)
 
 
 

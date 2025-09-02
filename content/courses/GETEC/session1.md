@@ -31,13 +31,14 @@ CO2 concentration in the atmosphere during one year.
 
 #### References cited in the course
 - [Planetary boundaries](https://science.sciencemag.org/content/347/6223/1259855)
+  - the updates of the original article can be found [here](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 - Global and French increases in average temperature
   - The famous ["warming stripes" graph](https://showyourstripes.info/)
   - [Observed temperature changes everywhere in the world](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) on carbonbrief.org.
 - [Summary for policy makers of the 6th IPCC report (2021)](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
 - [Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat-2023/en/) ([French Version here](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023))
 - [Global carbon project](https://www.globalcarbonproject.org/) for the latest figures about the greenhouse gases emissions and concentration in the atmosphere
-- The ["spaghetti graph"](https://www.wri.org/data/world-greenhouse-gas-emissions-2016) of all greenhouse gases emissions in the world.
+- The ["spaghetti graph"](https://www.climatewatchdata.org/key-visualizations?visualization=2) of all greenhouse gases emissions in the world.
 - [Emissions by sector: where do greenhouse gases come from?](https://ourworldindata.org/emissions-by-sector) by [Our World in Data](https://ourworldindata.org/)
 
 ## Evolution of greenhouse gases emissions 
@@ -45,10 +46,6 @@ CO2 concentration in the atmosphere during one year.
 ### How much time do we have to act?
 {{< youtube _sbCbWEnbjs>}}
  
-#### See also
-Another explanation of the carbon budget:
-
-{{< youtube R071WPD5MCc >}}
 
 #### References
 - [The carbon budget clock](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263) and its [explanation](https://www.mcc-berlin.net/en/research/co2-budget.html)
@@ -72,7 +69,7 @@ All the figures are coming from the [Global Carbon Project](https://www.globalca
 [{{< icon name="download" pack="fas" >}} Download the presentation](http://www.centre-cired.fr/wp-content/uploads/2021/09/who_responsible.pdf)
 
 #### References
-The figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/), the report "[Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2023)", and the [2023 report](https://www.hautconseilclimat.fr/publications/) of the French High Panel for Climate Change (Haut Conseil pour le Climat).
+The figures are coming from the [Global Carbon Project](https://www.globalcarbonproject.org/), the report "[Chiffres clés du climat, France, Europe et Monde](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/en/)", and the [2023 report](https://www.hautconseilclimat.fr/publications/) of the French High Panel for Climate Change (Haut Conseil pour le Climat).
 
 
 ## To know more

@@ -15,7 +15,8 @@ Adaptation to these impacts imposes changes in the way traditional risk preventi
 
 ## Required reading
 
-[How climate change affects extreme weather around the world](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/?utm_campaign=Weekly%20Briefing&utm_content=20220822&utm_medium=email&utm_source=Revue%20newsletter) (2022).
+- [How climate change affects extreme weather around the world](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/?utm_campaign=Weekly%20Briefing&utm_content=20220822&utm_medium=email&utm_source=Revue%20newsletter) (2022).
+- [‘Sponge City’: Copenhagen Adapts to a Wetter Future](https://e360.yale.edu/features/copenhagen-sponge-cities)
 
 ## "Natural" disasters
 {{% callout note %}}
@@ -31,7 +32,7 @@ Download the [slides presented on class here](https://www.centre-cired.fr/wp-con
 ### To know more
 - An article by Carbon Brief about [what the 2021 IPCC report says about extreme weather and climate change](https://www.carbonbrief.org/explainer-what-the-new-ipcc-report-says-about-extreme-weather-and-climate-change)
 - The [articles on the effects of climate change, on NASA website](https://climate.nasa.gov/effects/)
-- a [2021 UN report](https://public.wmo.int/en/media/press-release/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer) about the increase in weather-related disasters since 50 years.
+- [How many people die from disasters, and how are these impacts changing over time?](https://ourworldindata.org/natural-disasters) by Our World in Data
 - On storm surges you can see :
 {{<youtube bBa9bVYKLP0>}}
 - As a note: Hurricane Sandy, in 2012, caused destructions in New York City mainly due to its *storm surge* (local sea level rise during the hurricane, making the sea go inland and cause floods). Hurricane Ida, in 2021, caused destructions mainly due to its intense rainfall that overwhelmed the sewers, leading to *pluvial flooding*. Adaptation policies to both phenomena are different. See for instance [here](https://www.technologyreview.com/2021/09/03/1034315/ida-dodged-nyc-flood-defenses-climate-change-storm/) for an analysis.
@@ -55,9 +56,9 @@ Download the [slides presented on class here](https://www.centre-cired.fr/wp-con
 - About the economic impacts and adaptation policies: [How to address infrastructure interdependencies when adapting to climate change](https://www.c40knowledgehub.org/s/article/How-to-address-infrastructure-interdependencies-when-adapting-to-climate-change?language=en_US)
 - [in French] [The role of urbanization trends in flood risk exposure](https://www.lemonde.fr/climat/article/2018/10/16/l-urbanisation-joue-un-role-dans-l-augmentation-des-risques-lies-aux-inondations_5370315_1652612.html)
 - Examples of buildings and districts designed to be flood-resilient :     
-  - [In France (1)](https://www.ecologie.gouv.fr/sites/default/files/Broch_Ame_nagement_A4_web.pdf) 
-  - [In France (2)](https://www.institutparisregion.fr/fileadmin/NewEtudes/Etude_1234/NR_709_web.pdf) 
-  - [In Netherlands](https://psmag.com/environment/are-the-floating-houses-of-the-netherlands-a-solution-against-the-rising-seas)
+  - [in French] [Designing a district to be flood-proof in France](https://www.institutparisregion.fr/fileadmin/NewEtudes/Etude_1234/NR_709_web.pdf) 
+  - [Floating houses in Netherlands](https://psmag.com/environment/are-the-floating-houses-of-the-netherlands-a-solution-against-the-rising-seas)
+  - [In USA, houses which are raised to become flood-proof](https://www.nytimes.com/2024/12/27/realestate/home-lifts-flooding-climate-change.html)
 - [Description of the systems of insurance against natural disasters in several countries](https://www.sciencedirect.com/science/article/pii/S221242091530159X)
   - [in French] [another article on the same topic](https://www.cairn.info/revue-vie-et-sciences-de-l-entreprise-2014-1-page-60.htm?contenu=article), and an [op-ed in Le Monde](https://www.lemonde.fr/idees/article/2021/01/30/assurer-des-biens-dans-un-climat-deregle-coutera-de-plus-en-plus-cher_6068196_3232.html) about the limits of national solidarity to cope with climate-related disasters.
 - Finally, as a reference, [a manual on disaster risk management and climate change in cities](https://uccrn.ei.columbia.edu/sites/default/files/content/pubs/ARC3.2-PDF-Chapter-3-Disasters-and-Risk-wecompress.com_.pdf)
