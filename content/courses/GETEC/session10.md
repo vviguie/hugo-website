@@ -19,6 +19,12 @@ In this lecture, we cover the remaining emissions of cities. This raises the key
 ## Required reading
 
 - [The problem with net-zero emissions targets](https://www.carbonbrief.org/guest-post-the-problem-with-net-zero-emissions-targets/), a 2019 text by Prof. Duncan McLaren on Carbon Brief.
+- [Can ‘carbon offsets’ help to tackle climate change?](https://interactive.carbonbrief.org/carbon-offsets-2023/index.html), a 2023 article on Carbon Brief
+- [Can planting trees really offset fossil fuel emissions?](https://knowledge.essec.edu/en/sustainability/can-planting-trees-offset-fossil-fuel-emissions.html)
+  - NB this is a summary of [this article](https://www.nature.com/articles/s43247-025-02394-y)
+
+### To know more on carbon offsetting (not required reading)
+- 
 
 ## Defining city GHG emissions
 {{< youtube yPgIpodE3Do>}}

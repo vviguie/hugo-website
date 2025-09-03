@@ -37,7 +37,6 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 ## Energy intensity
 {{<youtube -Z701co2ZCs>}}
 #### References
-- [How can we now reduce CO2 emissions from cars?](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/note_danalyse_ndeg78_-_gb.pdf) by France Strategy (advisor to the French prime minister)
 - [CO2 performance of new passenger cars in Europe](https://www.eea.europa.eu/ims/co2-performance-of-new-passenger) in 2022, by European Environment Agency
 
 ## Fuel choice

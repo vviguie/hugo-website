@@ -33,7 +33,7 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 
 #### References
 - Prioritising actions https://www.c40knowledgehub.org/s/article/Focused-Acceleration-A-strategic-approach-to-climate-action-in-cities-to-2030?language=en_US
-- The cost of climate actions in cities https://newclimateeconomy.report/workingpapers/wp-content/uploads/sites/5/2016/04/Low-carbon-cities.pdf
+- The cost of climate actions in cities https://newclimateeconomy.net/content/economic-and-social-benefits-low-carbon-cities-systematic-review-evidence
  
 
 ### Cities and global climate action
@@ -45,8 +45,7 @@ Now that we have studied the main drivers of emissions in cities, how can we fra
 
 ## More references
 - [Center for Climate and Energy Solutions: "City climate policies"](https://www.c2es.org/content/city-climate-policy/)
-- [C40 Cities and Sustainia: "Cities100: 100 Solutions for Climate Action in Cities" (report)](https://www.climaterealityproject.org/sites/climaterealityproject.org/files/CITIES100_2016.pdf)
-- [The Carbon Climate Registry](http://carbonn.org/climateregistry/) presents greenhouse gas emissions commitments, emissions inventories and climate mitigation/adaptation actions reported by local governments. 
-- So does the [NAZCA website](https://climateaction.unfccc.int/)
+- [C40 Cities and Sustainia: "Cities100: 100 Solutions for Climate Action in Cities" (report)](https://www.c40knowledgehub.org/s/article/Cities100-2019?language=en_US)
+- [UNFCCC's "NAZCA" website](https://climateaction.unfccc.int/) presents greenhouse gas emissions commitments, emissions inventories and climate mitigation/adaptation actions reported by local governments. 
 
 
