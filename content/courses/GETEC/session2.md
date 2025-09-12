@@ -29,7 +29,8 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 
 ## Required reading
 
-[The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. NB: If you are interested, it was later developed into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
+- [The Uninhabitable Earth](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html) (2017) a famous newspaper article describing in great details potential impacts of climate change on earth in unabated GHG emission scenarios. NB: If you are interested, it was later developed into a [book](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review). 
+- [optional] For French speaking students, it is worth having a look at [this 2025 article in Le Monde](https://www.lemonde.fr/planete/article/2025/03/20/secheresses-canicules-et-pluies-diluviennes-le-grand-bouleversement-d-une-france-a-4-c_6583877_3244.html) which describes what France would look like with a +4° warming at the country level (i.e. about +3 °C globally, at the world level).
 
 
 
