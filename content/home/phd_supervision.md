@@ -35,9 +35,9 @@ advanced:
 
 
 ## Interns
-- 2025 : Camille Presutto, Amélie Clark
+- 2025 : Camille Presutto, Amélie Clark, Anouck Blouin
 - 2023 : Marin Perrault
-- 2022 : Théo Mandonnet, Cristina Ragazzi
+- 2022 : Lou Mandonnet, Cristina Ragazzi
 - 2021 : Adrien Delahais
 - 2020 : Mehdi Mikou, Flora Delhomme
 - 2019 : Mai-Thi Ta, Charlotte Liotta, Samuel Juhel

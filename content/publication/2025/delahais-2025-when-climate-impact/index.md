@@ -26,6 +26,6 @@ abstract: 'Assessing the economic
 publication: '*Under review (ERL)*'
 tags: "adaptation policies"
 url_pdf: https://hal.science/hal-05136840
-doi: 10.2139/ssrn.4940792
+#doi: 10.2139/ssrn.4940792
 ---
 
