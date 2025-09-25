@@ -23,9 +23,9 @@ abstract: 'Assessing the economic
   and the omission of cross-border effects. Besides, we also show that while the national
   institutional literature is extensive, many broad impact categories lack comprehensive
   quantification, and even fewer are monetized.'
-publication: '*Under review (ERL)*'
+publication: '*Accepted (ERL)*'
 tags: "adaptation policies"
-url_pdf: https://hal.science/hal-05136840
-#doi: 10.2139/ssrn.4940792
+url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ae05b3
+doi: 10.1088/1748-9326/ae05b3
 ---
 

@@ -46,6 +46,6 @@ abstract: Countries can suffer supply chain disruptions and important economic l
   concentration of climate risks. Moreover, almost every country faces high exposure
   for at least one broad category of imports.
 publication: '*Under review (One Earth)*'
-url_pdf: https://papers.ssrn.com/sol3/Data_Integrity_Notice.cfm?abid=4940792
+url_pdf: media/ssrn-4940792-3.pdf
 doi: 10.2139/ssrn.4940792
 ---
