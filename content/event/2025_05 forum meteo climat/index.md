@@ -65,6 +65,10 @@ links:
   url: https://forumeteoclimat.com/wp-content/uploads/2025/05/Session-2-K2-Vincent-VIGUIE.pdf
   icon_pack: far
   icon: file-pdf
+- name: Replay
+  url:  https://www.youtube.com/watch?v=gFmC5Hps9fY
+  icon_pack: fab
+  icon: youtube
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

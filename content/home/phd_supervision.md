@@ -44,9 +44,10 @@ advanced:
 - 2018 : Lorraine Roulier, Emmanuel Faure, Lana Coste
 - 2017 : Julien Deur
 
-## Research Assistants
-- Amandine Toussaint (2015-2017)
+## Research Assistants and post-docs
+- Amélie Clark (2025-2026)
 - Lea Tardieu (2018-2020)
 - Quentin Lepetit (2017-2020)
-- Julien Deur (2017-2018)
 - Lana Coste (2018-2019)
+- Julien Deur (2017-2018)
+- Amandine Toussaint (2015-2017)
