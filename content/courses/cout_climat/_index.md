@@ -26,11 +26,60 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 ### Présentation Powerpoint
 {{< icon name="download" pack="fas" >}} [Cliquer ici pour télécharger les slides du cours](https://www.dropbox.com/s/xmveztfma7xd36u/viguie%20cours%20impacts.pdf?dl=0)
 
-### Vidéos
-{{< spoiler text="L'essentiel du cours avait été enregistré en vidéo en 2020 durant le confinement (à destination d'étudiants en master/école d'ingénieur). Cliquer ici pour afficher ces vidéos." >}}
+
+### Vidéo
+
+Enregistrement de ce cours donné à l'école doctorale des Sciences de l'environnement d'Île de France le 9 mars 2022 (NB: ce cours étant donné à des doctorants du domaine, je passe assez vite sur certains points). 
+
+{{< youtube segbLeA-zyU >}}
+
+
+
+## Pour en savoir plus
+
+### Les émissions mondiales de gaz a effet de serre
+- [Emissions and expected warming based on current pledges and policies of the countries](https://climateactiontracker.org/global/temperatures/), on the Climate action tracker website.
+- [L'horloge climatique sur le site du MCC Berlin](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm) et son explication [ici](https://www.mcc-berlin.net/en/research/co2-budget.html).
+{{< spoiler text="Vous pouvez également l'afficher en cliquant ici" >}}
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
+{{< /spoiler >}}
+
+### Les conséquences déjà observées du changement climatique
+- Les augmentations de température observés en France et dans le monde:
+  - Le célèbre ["warming stripes" graph](https://showyourstripes.info/)
+  - [Carte des variations de température observées partout dans le monde](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) sur le site Carbonbrief
+- Pour savoir si un événement météorologique extrême ou une catastrophe naturelle récente peut être attribuée aux impacts du réchauffement climatique:
+  - [the World Weather attribution Project](https://www.worldweatherattribution.org/)
+  - [Climameter](https://www.climameter.org/)  
+
+### Les impacts projetés par les modèles
+- [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
+- [Un graphique interactif des impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/) pour différents niveaux de réchauffement
+- [L'atlas interactif du dernier rapport du GIEC](https://interactive-atlas.ipcc.ch/)
+
+### Les conséquences de ces impacts dans la vie de tous les jours
+- Une description très parlante est l'article "The Uninhabitable Earth", paru en 2017 ([Original version](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) or [annotated version, with comments](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html)). C'est un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
+- [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
+- [Demain, quel climat sur le pas de ma porte ?](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/) Un grand format interactif de l’Agence France-Presse
+  - [Un article similaire sur le site du Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
+
+### L'adaptation au changement climatique en France et dans le monde
+- Les [rapports du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/) et notamment le Chapitre 4 du [rapport de 2021](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
+- Le [rapport du Réseau Action Climat](https://reseauactionclimat.org/publications/la-france-face-au-changement-climatique-toutes-les-regions-impactees/) sur les impacts du changement climatique dans les régions françaises
+- Le rapport [Ce que peuvent (et doivent) faire les collectivités sur l'adaptation](https://www.i4ce.org/publication/adaptation-ce-que-peuvent-et-doivent-faire-collectivites-climat/) d'I4CE
+- Le rapport annuel des Nations Unies sur [l’écart entre les besoins et les perspectives en matière d'adaptation aux changements climatiques ](https://www.unep.org/resources/adaptation-gap-report)
+
+### Ressources générales sur le changement climatique
+- [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
+- Les sites web du [MIT](https://climate.mit.edu/) et de la [NASA](https://climate.nasa.gov/) sur le changement climatique
+- Les rapports du [groupe 2 du GIEC](https://www.ipcc.ch/working-group/wg2/) (complexes à lire en entier, mais utiles pour regarder des points précis).
+
+
+## Vidéos de l'ancienne version du cours
+J'y décrivais les grands enjeux du réchauffement climatique, impact par impact.
 
 #### Introduction (partie 1)
-{{< youtube kjlvspacFM8 >}} 
+{{<youtube kjlvspacFM8>}} 
 
 
 #### Introduction (partie 2)
@@ -55,51 +104,3 @@ Un cours donné dans le cadre de diverses formations à l'[École des Ponts Pari
 
 #### Impacts sur le risque de guerre et de migrations [vidéo en anglais]
 {{< youtube CU7x8Niepbk >}}
-
-
-
-{{< /spoiler >}}
-
-{{< spoiler text="Autre vidéo: enregistrement de ce même cours donné à l'école doctorale des Sciences de l'environnement d'Île de France le 9 mars 2022 (NB: ce cours étant donné à des doctorants du domaine, je passe beaucoup plus vite sur certains points). Cliquer ici pour afficher la vidéo." >}}
-
-{{< youtube segbLeA-zyU >}}
-
-{{< /spoiler >}}
-
-## Pour en savoir plus
-
-### Les émissions mondiales de gaz a effet de serre
-- [Emissions and expected warming based on current pledges and policies of the countries](https://climateactiontracker.org/global/temperatures/), on the Climate action tracker website.
-- [L'horloge climatique sur le site du MCC Berlin](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm) et son explication [ici](https://www.mcc-berlin.net/en/research/co2-budget.html).
-{{< spoiler text="Vous pouvez également l'afficher en cliquant ici" >}}
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
-{{< /spoiler >}}
-
-### Les conséquences déjà observées du changement climatique
-- Les augmentations de température observés en France et dans le monde:
-  - Le célèbre ["warming stripes" graph](https://showyourstripes.info/)
-  - [Carte des variations de température observées partout dans le monde](https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm) sur le site Carbonbrief
-- [Les impacts du changement climatique](https://www.ecologie.gouv.fr/sites/default/files/ONERC_Brochure_impacts_en_France_PDF_WEB.pdf) observés en France sur le site web de l'ONERC (ministère de l'environnement)
-- Pour savoir si un événement météorologique extrême ou une catastrophe naturelle récente peut être attribuée aux impacts du réchauffement climatique:
-  - [the World Weather attribution Project](https://www.worldweatherattribution.org/)
-  - [Climameter](https://www.climameter.org/)  
-
-### Les impacts projetés par les modèles
-- [Comment on modélise le climat](https://climate.mit.edu/explainers/climate-models) sur le site du MIT.
-- [Un graphique interactif des impacts projetés par les modèles](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/?utm_source=web&utm_campaign=Redirect#) pour différents niveaux de réchauffement
-- [L'atlas interactif du dernier rapport du GIEC](https://interactive-atlas.ipcc.ch/)
-
-### Les conséquences de ces impacts dans la vie de tous les jours
-- Une description très parlante est l'article "The Uninhabitable Earth", paru en 2017 ([Original version](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) or [annotated version, with comments](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html)). C'est un article de journal célèbre décrivant en détail les impacts potentiels du changement climatique sur la terre. Il a ensuite été développé en un [livre](https://www.theguardian.com/books/2019/feb/17/david-wallace-wells-uninhabitable-earth-review).
-- [Climate Change and Conflict Risks](https://crisisgroup.github.io/about-foc/) by the International Crisis Group
-- [Demain, quel climat sur le pas de ma porte ?](https://interactive.afp.com/features/Demain-quel-climat-sur-le-pas-de-ma-porte_621/) Un grand format interactif de l’Agence France-Presse
-  - [Un article similaire sur le site du Guardian](https://www.theguardian.com/environment/ng-interactive/2021/oct/14/climate-change-happening-now-stats-graphs-maps-cop26)
-
-### L'adaptation au changement climatique en France
-- Les [rapports du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/) et notamment le Chapitre 4 du [rapport de 2021](https://www.hautconseilclimat.fr/publications/rapport-annuel-2021-renforcer-lattenuation-engager-ladaptation/)
-- Un rapport du Sénat publié en 2019: ["Adapter la France aux dérèglements climatiques à l'horizon 2050 : urgence déclarée"](https://www.senat.fr/notice-rapport/2018/r18-511-notice.html)
-
-### Ressources générales sur le changement climatique
-- [Liste de ressources sur le changement climatique](https://bonpote.com/les-meilleures-sources-sur-lenvironnement-et-le-climat-tous-niveaux-confondus/) sur le site web [bonpote.com](https://bonpote.com/)
-- Les sites web du [MIT](https://climate.mit.edu/) et de la [NASA](https://climate.nasa.gov/) sur le changement climatique
-- Les rapports du [groupe 2 du GIEC](https://www.ipcc.ch/working-group/wg2/) (complexes à lire en entier, mais utiles pour regarder des points précis).
