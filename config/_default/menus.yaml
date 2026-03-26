@@ -15,6 +15,10 @@ main:
     parent: research
     url: '#research_topic'
     weight: 10    
+  - name: "Expertise and nominations"
+    parent: research
+    url: '#associations'
+    weight: 11
   - name: "Team"
     parent: research
     url: '#phd_supervision'
@@ -23,14 +27,10 @@ main:
     parent: research
     url: '/publication/'
     weight: 14
-  - name: "Communication/talks"
+  - name: "Media/talks"
     identifier : outreach
     url: 'outreach/'
     weight: 60
-  - name: "Outreach"
-    parent: outreach
-    url: 'outreach/#associations'
-    weight: 64
   - name: "Videos"
     parent: outreach
     url: 'outreach/#videos'
@@ -40,9 +40,9 @@ main:
     url: 'outreach/#talks'
     weight: 66
   - name: "Media"
-    identifier: media
-    url: '#media'
-    weight: 70
+    parent: outreach
+    url: 'outreach/#media'
+    weight: 67
   - name: "Courses"
     url: '/courses/'
     weight: 80
