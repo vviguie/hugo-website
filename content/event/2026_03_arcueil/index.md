@@ -1,28 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation à l'événement des 30 ans de l'IPSL : 30 ans de recherche sur le climat"
-event: "30 ans de l'IPSL"
-event_url: https://www.ipsl.fr/30-ans/
-location: Collège de France
+title: "Intervention à l'Université Populaire d’Arcueil: Les répercussions économiques du changement climatique"
+event: "Ce rendez-vous intergénérationnel est l'occasion de porter un regard rétro-prospectif sur trente années de recherche sur le climat menées à l'IPSL et de discuter des enjeux actuels des sciences du climat au sein de la société."
+event_url: https://www.arcueil.fr/demarches-et-services/culture/universite-populaire-darcueil/
+location: Arcueil
 address:
-  street: Collège de France
-  city: Paris
+  street: ESPACE MUNICIPAL JEAN VILAR
+  city: Arcueil
   region: Île-de-France
-  postcode: 75005
+  postcode: 
   country:
 summary:  
-abstract: "Ce rendez-vous intergénérationnel est l'occasion de porter un regard rétro-prospectif sur trente années de recherche sur le climat menées à l'IPSL et de discuter des enjeux actuels des sciences du climat au sein de la société."
+abstract: "Les répercussions économiques du changement climatique dépassent largement la seule question environnementale : elles touchent désormais nos emplois, nos infrastructures, nos assurances, nos finances publiques et la compétitivité de nos territoires. L’objectif est de comprendre, en s’appuyant sur les recherches les plus récentes, comment le climat transforme notre quotidien - et comment nous pouvons agir pour réduire les risques et garder la Terre habitable pour tous."
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-12-12T09:08:30+02:00
-date_end: 2025-12-12T17:00:00+02:00
+date: 2026-03-17T20:00:00+02:00
+date_end: 2026-03-17T22:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-12-08T14:00:00+02:00
+publishDate: 2026-03-17T20:00:00+02:00
 
 authors: []
 tags: ['adaptation policies','Sustainable city development','heatwave']
@@ -55,12 +55,8 @@ url_pdf:
 url_video:
 
 links:
-- name: Information on Linkedin
-  url:  https://www.linkedin.com/posts/ipsl_institut-pierre-simon-laplace_8daezcembreabrjournaezemondialeduclimat-ipslabrclimategraduateschool-activity-7403772047320834048-xg_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADvXFIBSNdjZW2epW9vF0R2P82FZi0YTdM
-  icon_pack: fab
-  icon: linkedin
-- name: Registration and program
-  url:  https://www.ipsl.fr/30-ans/
+- name: program
+  url:  https://www.arcueil.fr/demarches-et-services/culture/universite-populaire-darcueil/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -77,8 +73,3 @@ slides: ""
 projects: []
 ---
 
-11h00 Table ronde : De nouvelles thématiques à l'IPSL - Villes, pollutions et changement climatique
-- Sophie Bastin • LATMOS
-- Jean-Marie Mouchel • METIS
-- Karine Sartelet • CEREA
-- Vincent Viguié • CIRED

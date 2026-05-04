@@ -56,9 +56,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/vincentviguie
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iElc2G8AAAAJ&hl
@@ -101,14 +98,13 @@ I am a researcher ([HDR](/talk/soutenance-dhabilitation-a-diriger-des-recherches
 
 I have a strong interest in prospective modelling, and in understanding how various environmental concerns interact with each other, and with social issues.
 
-I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and the [Euro-LCP Research Network](https://www.lcp-initiative.eu/), and am associated to the research group [Cities are Back in Town](https://www.sciencespo.fr/research/cities/en/) of Sciences Po. 
-I am a member of the scientific council of the [French National Institute for Industrial Environment and Risks (Ineris)](https://www.ineris.fr/en/ineris-public-expert-industrial-and-environmental-risk-management), of the [Groupement Régional des Experts sur le Climat d'île de France (GREC Île de France)](https://grec-idf.eu/), of the [Chaire « Villes, Logement, Immobilier »](https://www.sciencespo.fr/ecole-urbaine/fr/chaire-villes-logement-immobilier.html) of Sciences Po, and of the program [Bioéconomie pour les Territoires Urbains (BETTER)](https://www6.inrae.fr/better) of INRAE. I also was from 2018 to 2022 a deputy board member of [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/conseil-dadministration). 
+I am part of several academic networks and associations, including the [Urban Climate Change Research Network (UCCRN)](https://uccrn.ei.columbia.edu/) and the [Euro-LCP Research Network](https://www.lcp-initiative.eu/), and am associated to the research group [Cities are Back in Town](https://www.sciencespo.fr/research/cities/en/) of Sciences Po. I am a member of several [scientific councils]({{< relref "#associations" >}}) and was from 2018 to 2022 a deputy board member of [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/conseil-dadministration). 
 Additionally, I was Guest editor of Special Issues on: 
 - [Systematizing and upscaling urban climate change mitigation](https://iopscience.iop.org/journal/1748-9326/page/Urban-Solutions-for-Climate-Change-Mitigation) in [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326) (2020)
 - [Cities: the core of climate change mitigation](https://www.sciencedirect.com/journal/journal-of-cleaner-production/special-issue/10Q3VQ07JKL) in [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production) (2019)
 
 
-{{< icon name="chalkboard-teacher" pack="fas" >}}  I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), [École Polytechnique](https://www.polytechnique.edu/) and [master EEET](https://www.master-eeet.fr/en/home/). I also regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/), and like to [communicate about climate policies]({{< relref "/outreach" >}}). Several of my courses are [available online]({{< relref "/courses" >}}).
+{{< icon name="chalkboard-teacher" pack="fas" >}}  I teach courses on climate change and adaptation policies in [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/), [Sciences Po Paris](https://www.sciencespo.fr/ecole-urbaine/fr/governing-ecological-transitions-european-cities.html), [École Polytechnique](https://www.polytechnique.edu/) and [master EEET](https://www.master-eeet.fr/en/home/). I also regularly give lectures in [Ecole Nationale de la Météorologie](http://www.enm-toulouse.fr/), and like to [communicate about climate policies]({{< relref "#media" >}}). Several of my courses are [available online]({{< relref "/courses" >}}).
 
 {{< icon name="download" pack="fas" >}}  Download my {{< staticref "media/CV_Viguie.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

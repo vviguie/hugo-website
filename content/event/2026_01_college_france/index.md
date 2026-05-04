@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation à l'événement des 30 ans de l'IPSL : 30 ans de recherche sur le climat"
-event: "30 ans de l'IPSL"
-event_url: https://www.ipsl.fr/30-ans/
+title: "Intervention au Collège de France: Comment adapter nos villes aux impacts du changement climatique ?"
+event: "Colloque 'Vivre avec le climat qui change : enjeux et perspectives de l'adaptation'"
+event_url: https://www.college-de-france.fr/fr/agenda/colloque/vivre-avec-le-climat-qui-change-enjeux-et-perspectives-de-adaptation/comment-adapter-nos-villes-aux-impacts-du-changement-climatique
 location: Collège de France
 address:
   street: Collège de France
@@ -12,17 +12,17 @@ address:
   postcode: 75005
   country:
 summary:  
-abstract: "Ce rendez-vous intergénérationnel est l'occasion de porter un regard rétro-prospectif sur trente années de recherche sur le climat menées à l'IPSL et de discuter des enjeux actuels des sciences du climat au sein de la société."
+abstract: "Dans le cadre du colloque 'Vivre avec le climat qui change : enjeux et perspectives de l'adaptation'"
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-12-12T09:08:30+02:00
-date_end: 2025-12-12T17:00:00+02:00
+date: 2026-01-14T11:00:00+02:00
+date_end: 2026-01-14T11:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-12-08T14:00:00+02:00
+publishDate: 2026-01-14T11:00:00+02:00
 
 authors: []
 tags: ['adaptation policies','Sustainable city development','heatwave']
@@ -51,16 +51,20 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: https://www.college-de-france.fr/sites/default/files/media/document/2025-11/fontecave_2025-2026_colloque_14_janvier_programme.pdf
+url_video: 
 
 links:
-- name: Information on Linkedin
-  url:  https://www.linkedin.com/posts/ipsl_institut-pierre-simon-laplace_8daezcembreabrjournaezemondialeduclimat-ipslabrclimategraduateschool-activity-7403772047320834048-xg_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADvXFIBSNdjZW2epW9vF0R2P82FZi0YTdM
+- name: Information and program
+  url:  https://www.college-de-france.fr/fr/agenda/colloque/vivre-avec-le-climat-qui-change-enjeux-et-perspectives-de-adaptation/comment-adapter-nos-villes-aux-impacts-du-changement-climatique
+- name: Audio
+  url: https://podcastfichiers.college-de-france.fr/fontecave-coll-20260114-05-viguie.m4a
+  icon_pack: fa
+  icon: podcast
+- name: Video
+  url: https://www.youtube.com/watch?v=HRzT8PmZDSI
   icon_pack: fab
-  icon: linkedin
-- name: Registration and program
-  url:  https://www.ipsl.fr/30-ans/
+  icon: youtube
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -77,8 +81,3 @@ slides: ""
 projects: []
 ---
 
-11h00 Table ronde : De nouvelles thématiques à l'IPSL - Villes, pollutions et changement climatique
-- Sophie Bastin • LATMOS
-- Jean-Marie Mouchel • METIS
-- Karine Sartelet • CEREA
-- Vincent Viguié • CIRED

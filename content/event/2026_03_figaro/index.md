@@ -1,35 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation à l'événement des 30 ans de l'IPSL : 30 ans de recherche sur le climat"
-event: "30 ans de l'IPSL"
-event_url: https://www.ipsl.fr/30-ans/
-location: Collège de France
+title: "Interview par Le Figaro: 'D’ici 2050, la climatisation mondiale pourrait émettre autant de CO2 qu’un pays comme les États-Unis'"
+event: "D’ici 2050, la climatisation mondiale pourrait émettre autant de CO2 qu’un pays comme les États-Unis"
+event_url: https://www.lefigaro.fr/sciences/d-ici-2050-la-climatisation-mondiale-emettra-autant-de-co2-qu-un-pays-comme-les-etats-unis-20260320
+location:
 address:
-  street: Collège de France
-  city: Paris
-  region: Île-de-France
-  postcode: 75005
+  street:
+  city:
+  region:
+  postcode:
   country:
-summary:  
-abstract: "Ce rendez-vous intergénérationnel est l'occasion de porter un regard rétro-prospectif sur trente années de recherche sur le climat menées à l'IPSL et de discuter des enjeux actuels des sciences du climat au sein de la société."
-
+abstract: "Si l’air conditionné protège les populations contre les chaleurs extrêmes, il contribue aussi de manière de plus en plus significative au réchauffement." 
+summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-12-12T09:08:30+02:00
-date_end: 2025-12-12T17:00:00+02:00
-all_day: false
+date: 2026-03-20T10:05:06+02:00
+date_end: 2026-03-20T10:05:06+02:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-12-08T14:00:00+02:00
+publishDate: 2026-03-20T10:05:06+02:00
 
 authors: []
-tags: ['adaptation policies','Sustainable city development','heatwave']
-
+tags: ['adaptation policies','heatwave','Sustainable city development']
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,14 +51,9 @@ url_slides:
 url_code:
 url_pdf:
 url_video:
-
 links:
-- name: Information on Linkedin
-  url:  https://www.linkedin.com/posts/ipsl_institut-pierre-simon-laplace_8daezcembreabrjournaezemondialeduclimat-ipslabrclimategraduateschool-activity-7403772047320834048-xg_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADvXFIBSNdjZW2epW9vF0R2P82FZi0YTdM
-  icon_pack: fab
-  icon: linkedin
-- name: Registration and program
-  url:  https://www.ipsl.fr/30-ans/
+- name: Article
+  url: https://www.lefigaro.fr/sciences/d-ici-2050-la-climatisation-mondiale-emettra-autant-de-co2-qu-un-pays-comme-les-etats-unis-20260320
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -75,10 +68,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
 
-11h00 Table ronde : De nouvelles thématiques à l'IPSL - Villes, pollutions et changement climatique
-- Sophie Bastin • LATMOS
-- Jean-Marie Mouchel • METIS
-- Karine Sartelet • CEREA
-- Vincent Viguié • CIRED
+categories:
+- interview
+---

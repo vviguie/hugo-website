@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: 'Media'
-subtitle: 'Recent Interviews'
+title: 'Media and talks'
+subtitle: 'Recent Interviews, academic and non-academic presentations'
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "Interview"
+    # category: "Interview"
     tag: ""
     exclude_featured: false
     exclude_future: false

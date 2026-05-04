@@ -1,28 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation à l'événement des 30 ans de l'IPSL : 30 ans de recherche sur le climat"
-event: "30 ans de l'IPSL"
-event_url: https://www.ipsl.fr/30-ans/
-location: Collège de France
+title: "Intervention au colloque 'Financer l’adaptation au changement climatique : agir à tous les niveaux de gouvernance'"
+event: "Colloque 'Financer l’adaptation au changement climatique : agir à tous les niveaux de gouvernance'"
+event_url: https://www.pathways2resilience.eu/news-Pathways2Resilience-Workshop-in-France-Financing-Climate-Change-Adaptation
+location: Hôtel de Région Normandie
 address:
-  street: Collège de France
-  city: Paris
-  region: Île-de-France
-  postcode: 75005
+  street: 5 rue Robert Schuman
+  city: Rouen
+  region: 
+  postcode: 77600
   country:
 summary:  
-abstract: "Ce rendez-vous intergénérationnel est l'occasion de porter un regard rétro-prospectif sur trente années de recherche sur le climat menées à l'IPSL et de discuter des enjeux actuels des sciences du climat au sein de la société."
+abstract: "Pathways2Resilience (P2R) organise une série d’évènements nationaux dans plusieurs pays européens afin de renforcer le dialogue et l’action en faveur de l’adaptation au changement climatique. Co-organisé par Pathways2Resilience et la Région Normandie, lauréate du projet, l’atelier français a pour ambition de favoriser les échanges autour de retours d’expérience concrets, de solutions de financement innovantes et d’outils permettant d’améliorer la cohérence et la coordination des actions."
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-12-12T09:08:30+02:00
-date_end: 2025-12-12T17:00:00+02:00
-all_day: false
+date: 2026-01-28T11:00:00+02:00
+date_end: 2026-01-28T11:30:00+02:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-12-08T14:00:00+02:00
+publishDate: 2026-01-28T11:30:00+02:00
 
 authors: []
 tags: ['adaptation policies','Sustainable city development','heatwave']
@@ -51,16 +51,12 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
-url_video:
+url_pdf: 
+url_video: 
 
 links:
-- name: Information on Linkedin
-  url:  https://www.linkedin.com/posts/ipsl_institut-pierre-simon-laplace_8daezcembreabrjournaezemondialeduclimat-ipslabrclimategraduateschool-activity-7403772047320834048-xg_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADvXFIBSNdjZW2epW9vF0R2P82FZi0YTdM
-  icon_pack: fab
-  icon: linkedin
-- name: Registration and program
-  url:  https://www.ipsl.fr/30-ans/
+- name: Information and program
+  url:  https://www.pathways2resilience.eu/news-Pathways2Resilience-Workshop-in-France-Financing-Climate-Change-Adaptation
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -77,8 +73,3 @@ slides: ""
 projects: []
 ---
 
-11h00 Table ronde : De nouvelles thématiques à l'IPSL - Villes, pollutions et changement climatique
-- Sophie Bastin • LATMOS
-- Jean-Marie Mouchel • METIS
-- Karine Sartelet • CEREA
-- Vincent Viguié • CIRED
