@@ -1,0 +1,2 @@
+il faut https://github.com/gohugoio/hugo/releases/tag/v0.134.1
+hugo v134.1 extended au minimum

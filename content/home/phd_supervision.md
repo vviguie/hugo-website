@@ -24,11 +24,11 @@ advanced:
 ---
 ## PhD supervision (On-going Phds)
 
-- [Adrien Delahais](https://www.centre-cired.fr/adrien-delahais/)
 - [Lou Mandonnet](https://www.centre-cired.fr/lou-mandonnet/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris)
 - [Léa Corneille](https://www.centre-cired.fr/lea-corneille/), co-supervised with [Aude Lemonsu](https://www.umr-cnrm.fr/spip.php?article261&lang=fr) (CNRM, Météo-France / CNRS / Université de Toulouse)
 
 ## Former PhD students
+- [Adrien Delahais](https://www.linkedin.com/in/adrien-delahais-57a152153/) ([{{< icon name="download" pack="fas" >}} manuscript](https://theses.hal.science/tel-05603241))
 - [Samuel Juhel](https://www.linkedin.com/in/samuel-j-2b6153165/), co-supervised with [Fabio D'Andrea](https://www.lmd.ens.fr/dandrea/) (LMD, ENS Paris) ([{{< icon name="download" pack="fas" >}} manuscript](https://theses.fr/api/v1/document/2025UPSLE002))
 - [Charlotte Liotta](https://charlotteliotta.github.io/), co-supervised with [Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) (MCC Berlin) ([{{< icon name="download" pack="fas" >}} manuscript](https://pastel.hal.science/tel-04730462v1))
 - [Basile Pfeiffer](https://www.linkedin.com/in/basile-pfeiffer-3a630986?originalSubdomain=fr), co-supervised with [Franck Lecocq](https://www.ecoledesponts.fr/franck-lecocq) (CIRED, AgroParisTech) ([{{< icon name="download" pack="fas" >}} manuscript](https://pastel.archives-ouvertes.fr/tel-04074623))
