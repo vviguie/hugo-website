@@ -17,11 +17,11 @@ advanced:
 
 
 - Since 2025 Member of the scientific council of the [institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/)
-- Since 2022 Member of the scientific council of the [French National Institute for Industrial Environment and Risks (Ineris)](https://www.ineris.fr/en/ineris-public-expert-industrial-and-environmental-risk-management)
 - Since 2020 Member of the scientific council of the [GREC Île de France](https://www.uvsq.fr/territoire-et-climat-le-grec-en-ile-de-france)
 
 ---
 
+- 2022 - 2025 Member of the scientific council of the [French National Institute for Industrial Environment and Risks (Ineris)](https://www.ineris.fr/en/ineris-public-expert-industrial-and-environmental-risk-management)
 - 2023 - 2025 Member of the regional scientific council (Île de France) of the [training in the ecological transition for public officials (formation à la transition écologique des agents de l’État )](https://www.cnrs.fr/fr/actualite/la-france-est-le-premier-pays-former-lensemble-de-ses-agents-la-transition-ecologique) 
 - 2022 - 2023 Member of the scientific council of the program [Bioéconomie pour les Territoires Urbains (BETTER)](https://www6.inrae.fr/better) of INRAE
 - 2023 Jury of the national final of [Ma thèse en 180s]({{< ref "event/2023_06_MT180s/index.md">}})
