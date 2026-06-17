@@ -1,1 +1,1 @@
-academic import --bibtex Exported.bib
+academic import --bibtex Exported.bib content/publication/ --compact
