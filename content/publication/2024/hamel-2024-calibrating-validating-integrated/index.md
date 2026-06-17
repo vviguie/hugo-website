@@ -17,7 +17,7 @@ authors:
 - Eric Lonsdorf
 - James A. Douglass
 - Richard P. Sharp
-tags: ['adaptation policies','heatwave']
+tags: ["Sustainable city development",'adaptation policies','heatwave']
 categories: []
 date: '2024-06-01'
 lastmod: 2024-07-15T17:11:49+02:00
