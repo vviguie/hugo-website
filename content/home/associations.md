@@ -17,6 +17,7 @@ advanced:
 
 
 - Since 2025 Member of the scientific council of the [institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr/)
+- Since 2025 Member of the scientific council of the [think tank Adapt](https://www.adapt-project.org/)
 - Since 2020 Member of the scientific council of the [GREC Île de France](https://www.uvsq.fr/territoire-et-climat-le-grec-en-ile-de-france)
 
 ---
