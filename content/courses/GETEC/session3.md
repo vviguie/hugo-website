@@ -30,8 +30,8 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 ## Required reading
 
 - [How can the world reduce deaths from extreme heat?](https://ourworldindata.org/how-can-the-world-reduce-deaths-from-extreme-heat)
-- [Greener cities: a necessity or a luxury?](https://www.nature.com/articles/d41586-024-00477-y)
-
+- [Why cities need more than just air conditioning for extreme heat](https://www.carbonbrief.org/guest-post-why-cities-need-more-than-just-air-conditioning-for-extreme-heat)
+- an example of pioneering adaptation policy: [Spanish experience in climate shelters practice](https://www.nature.com/articles/s41558-026-02587-z) (a summary is available [here](https://theconversation.com/refuges-climatiques-pourquoi-lespagne-est-deja-une-reference-mondiale-en-matiere-de-lutte-contre-les-chaleurs-extremes-284018) in French or Spanish)
 
 
 ## Freshwater availability 
