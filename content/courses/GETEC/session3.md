@@ -60,9 +60,11 @@ More resources on heat and adaptation:-
 - [Adapting to Heat](https://www.epa.gov/heatislands/adapting-heat) on 
 U.S. Environmental Protection Agency website
 - The [explanation of heat island effects](https://climate.mit.edu/explainers/urban-heat-islands) on MIT website
+- [The paradox of air conditioning: A life-saver that aggravates global warming](https://www.lemonde.fr/en/environment/article/2023/08/22/the-paradox-of-air-conditioning-a-life-saver-that-aggravates-global-warming_6102678_114.html) by Le Monde
+- [in French] [Rafraîchir les villes](https://librairie.ademe.fr/changement-climatique-et-energie/4649-rafraichir-les-villes.html) by Ademe and its [shorter international version in English](https://librairie.ademe.fr/urbanisme/5043-urban-cooling-solutions.html)
 - [in French] [How can we adapt Paris to heatwaves?](https://www.apc-paris.com/changement-climatique/climat-a-paris/les-plans-climat-et-politiques-climat-energie/paris-face-aux-fortes-chaleurs-comment-la-ville-sadapte/) by the Agence Parisienne du Climat
-- [in French] [Ilots de chaleur urbains : à quoi ce phénomène est-il dû ? Quelles villes sont les plus touchées ?](https://www.lemonde.fr/les-decodeurs/article/2023/08/25/ilots-de-chaleur-urbain-a-quoi-ce-phenomene-est-il-du-quelles-villes-sont-les-plus-touchees_6186542_4355770.html) and [Le paradoxe de la climatisation : de plus en plus nécessaire, elle aggrave le réchauffement](https://www.lemonde.fr/planete/article/2023/08/20/le-paradoxe-de-la-climatisation-de-plus-en-plus-necessaire-elle-aggrave-le-rechauffement_6185979_3244.html) by Le Monde
-- [Rafraîchir les villes](https://librairie.ademe.fr/changement-climatique-et-energie/4649-rafraichir-les-villes.html) by Ademe (in French) and its [shorter international version in English](https://librairie.ademe.fr/urbanisme/5043-urban-cooling-solutions.html)
+- [in French] [Ilots de chaleur urbains : à quoi ce phénomène est-il dû ? Quelles villes sont les plus touchées ?](https://www.lemonde.fr/les-decodeurs/article/2023/08/25/ilots-de-chaleur-urbain-a-quoi-ce-phenomene-est-il-du-quelles-villes-sont-les-plus-touchees_6186542_4355770.html) by Le Monde
+
 
 
 
