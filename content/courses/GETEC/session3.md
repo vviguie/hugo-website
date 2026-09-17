@@ -28,7 +28,8 @@ Adaptation to these impacts are important elements of adaptation strategies of n
 {{% /callout %}}
 
 ## Required reading
-
+A few short documents about heat risks in cities, and about adaptation policies (NB: you are of course not expected to remember the exact figures, what is important are the orders of magnitude and the qualitative ideas) : 
+- [From Work to Transportation, Extreme Heat Is Reshaping Urban Life ](https://www.wri.org/insights/extreme-heat-reshaping-urban-life)
 - [How can the world reduce deaths from extreme heat?](https://ourworldindata.org/how-can-the-world-reduce-deaths-from-extreme-heat)
 - [Why cities need more than just air conditioning for extreme heat](https://www.carbonbrief.org/guest-post-why-cities-need-more-than-just-air-conditioning-for-extreme-heat)
 - an example of pioneering adaptation policy: [Spanish experience in climate shelters practice](https://www.nature.com/articles/s41558-026-02587-z) (a summary is available [here](https://theconversation.com/refuges-climatiques-pourquoi-lespagne-est-deja-une-reference-mondiale-en-matiere-de-lutte-contre-les-chaleurs-extremes-284018) in French or Spanish)
@@ -56,7 +57,8 @@ More resources on heat and adaptation:-
   - [How many people die from extreme temperatures, and how this could change in the future: Part two](https://ourworldindata.org/part-two-how-many-people-die-from-extreme-temperatures-and-how-could-this-change-in-the-future)
   - [How can the world reduce deaths from extreme heat?](https://ourworldindata.org/how-can-the-world-reduce-deaths-from-extreme-heat)
   - [Air conditioning causes around 3% of greenhouse gas emissions. How will this change in the future?](https://ourworldindata.org/air-conditioning-causes-around-greenhouse-gas-emissions-will-change-future)
-- [How to adapt your city to extreme heat?](https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US) on C40 website
+- The reports by WRI, for instance [How Is the World Coping with Extreme Heat? ](https://www.wri.org/insights/how-world-copes-extreme-heat-explained)
+- The documents by C40, for instance [How to adapt your city to extreme heat?](https://www.c40knowledgehub.org/s/article/How-to-adapt-your-city-to-extreme-heat?language=en_US) on C40 website
 - [Adapting to Heat](https://www.epa.gov/heatislands/adapting-heat) on 
 U.S. Environmental Protection Agency website
 - The [explanation of heat island effects](https://climate.mit.edu/explainers/urban-heat-islands) on MIT website
