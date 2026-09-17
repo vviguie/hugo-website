@@ -24,7 +24,7 @@ In this lecture, we cover the main impacts of climate change. On a given territo
 Both direct and indirect impacts can affect cities, but the adaptation strategies are completely different. 
 
 {{% callout note %}}
-{{< icon name="download" pack="fas" >}} Download the slides [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/course-indirect.pdf). Download the slides presented on class [here](https://www.centre-cired.fr/wp-content/uploads/2024/05/out.pdf).
+{{< icon name="download" pack="fas" >}} Download the slides presented on class [here](https://www.centre-cired.fr/wp-content/uploads/2026/09/2-course-presente-sciences-po-compressed.pdf).
 {{% /callout %}}
 
 ## Required reading
@@ -34,23 +34,29 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
 - [Barnett, Jon, et Saffron O’Neill. 2010. «Maladaptation». Global Environmental Change 20 (2): 211‑13.](https://d3n8a8pro7vhmx.cloudfront.net/nowaterdeal/pages/31/attachments/original/1363981240/Maladaptation_Editorial.pdf?1363981240)
 
 
-## Foreword
+## Optional resources 
+
+### Foreword
+Here is the video of the course (not updated)
 {{< youtube F3vbSSOXbPc >}}
  
-## Key Impacts  
+### Key Impacts  
+Here is the video of the course (not updated)
 {{< youtube HIzwBA3tHBk >}}
 
 #### If you want to know more
 - The [impacts with different levels of global warming](https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/index.html)
 - [How we can model the climate](https://climate.mit.edu/explainers/climate-models) on MIT website.
 
-## Ecosystems and biodiversity  
+### Ecosystems and biodiversity 
+Here is the video of the course (not updated) 
 {{< youtube XRCzT7TEz0Q >}}
 
 #### The reference document on this question
 - The [Biodiversity And Climate Change report](https://files.ipbes.net/ipbes-web-prod-public-files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_0.pdf) by IPBES and IPCC 
 
-## Agriculture and food security
+### Agriculture and food security
+Here is the video of the course (not updated)
 {{< youtube Uc4VpTWrbpA >}}
 
 #### Some reference documents on these questions
@@ -63,6 +69,7 @@ Both direct and indirect impacts can affect cities, but the adaptation strategie
   - [The original agronomic study](ttps://www.researchgate.net/publication/263725702_The_Impact_of_Climate_Change_on_Coffee_in_Uganda_Lessons_from_a_case_study_in_the_Rwenzori_Mountains)
 
 ## War and migrations
+Here is the video of the course (not updated)
 {{< youtube CU7x8Niepbk >}}
 
 #### References cited in the video
