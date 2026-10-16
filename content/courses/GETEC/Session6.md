@@ -18,7 +18,7 @@ In this lecture, we cover the first part of emissions in cities: transport emiss
 ## Required reading
 
 - [Why green and healthy transport modes deliver vast rewards for cities](https://www.c40knowledgehub.org/s/article/Why-shifting-to-green-and-healthy-transport-modes-delivers-vast-rewards-for-cities?language=en_US) by C40
-- An [in-depth study](https://www.transportenvironment.org/discover/how-clean-are-electric-cars/) by Transport and Environment comparing the life-cycle emissions of electric, and diesel and petrol cars. See also the first 3 pages of the [report](https://www.transportenvironment.org/wp-content/uploads/2020/04/TEs-EV-life-cycle-analysis-LCA.pdf).
+- An [in-depth study](https://uploads.transportenvironment.org/production/files/TEs-EV-life-cycle-analysis-LCA.pdf?dm=1778072542) by Transport and Environment comparing the life-cycle emissions of electric, and diesel and petrol cars. See also the first 3 pages of the [updated figures](https://uploads.transportenvironment.org/production/files/TE_LCA_Update-June_corrected-2.pdf?dm=1778072586) and their [interactive page](https://www.transportenvironment.org/articles/how-clean-are-electric-cars).
 - [Everything You Need to Know About the Fastest-Growing Source of Global Emissions: Transport](https://www.wri.org/insights/everything-you-need-know-about-fastest-growing-source-global-emissions-transport) by the World Resources Institute.
 
 ## Global figures and concepts
