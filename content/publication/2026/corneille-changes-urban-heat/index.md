@@ -9,8 +9,8 @@ authors:
 - Sarah Goria
 - Sabine Host
 - Erwan Cordeau
-date: '2026-01-01'
-publishDate: '2026-11-09T14:40:41.577404Z'
+date: '2026-10-13'
+publishDate: '2026-10-13T14:40:41.577404Z'
 publication_types:
 - '3'
 publication: '*ESS Open Archive*'
