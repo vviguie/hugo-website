@@ -55,8 +55,12 @@ publication: '*Environmental Research: Infrastructure and Sustainability*'
 doi: 10.1088/2634-4505/ad8375
 
 Links:
-- name: Working paper (Earth Arxiv preprint)
-  url: https://eartharxiv.org/repository/view/6173/
+- name: pdf version
+  url: https://iopscience.iop.org/article/10.1088/2634-4505/ad8375/pdf
+  icon_pack: far
+  icon: file-pdf
+- name: article
+  url: https://iopscience.iop.org/article/10.1088/2634-4505/ad8375
 
-url_pdf: https://iopscience.iop.org/article/10.1088/2634-4505/ad8375/pdf
+
 ---

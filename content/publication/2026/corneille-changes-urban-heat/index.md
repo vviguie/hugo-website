@@ -13,7 +13,7 @@ date: '2026-10-13'
 publishDate: '2026-10-13T14:40:41.577404Z'
 publication_types:
 - '3'
-publication: '*ESS Open Archive*'
+publication: '*[preprint] ESS Open Archive*'
 doi: 10.22541/essoar.15010392/v1
 abstract: The number of elderly people potentially exposed to heat is an important
   metric for public health policies. This metric is expected to substantially increase
@@ -38,10 +38,11 @@ abstract: The number of elderly people potentially exposed to heat is an importa
   can play in adaptation strategies.
 
 links:
-- name: pdf
-  url: https://journals.sagepub.com/doi/epub/10.1177/20530196261472905
+- name: Working paper (ESS preprint)
+  url: https://essopenarchive.org/doi/abs/10.22541/essoar.15010392/v1
   icon_pack: far
   icon: file-pdf
+
 
 tags: ["adaptation policies","Sustainable city development",'heatwave']
 ---
